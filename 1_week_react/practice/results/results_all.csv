@@ -1,337 +1,6 @@
 config,model,id,source,correct,steps,tool_calls,cost,seconds,answer,gold
-без инструментов,claude-sonnet-4.6,fresh-0,fresh,True,1,0,0.019968,22.5,15 March,15 March
-без инструментов,claude-sonnet-4.6,fresh-1,fresh,False,1,0,0.006228,11.4,26 April,22 March
-без инструментов,claude-sonnet-4.6,fresh-2,fresh,False,1,0,0.008724,15.2,Ukraine,Miguel Díaz-Canel
-без инструментов,claude-sonnet-4.6,fresh-3,fresh,False,1,0,0.00498,9.8,"bilateral treaty on friendship, cooperation and mutual assis",a strategic partnership agreement
-без инструментов,claude-sonnet-4.6,fresh-4,fresh,False,1,0,0.003441,8.5,"A ban on the use of mobile phones, tablets, and other portab",A total fire ban
-без инструментов,claude-sonnet-4.6,fresh-5,fresh,False,1,0,0.004068,10.4,1 people,two people
-без инструментов,claude-sonnet-4.6,fresh-6,fresh,False,1,0,0.021972,21.1,21 people,"4,500"
-без инструментов,claude-sonnet-4.6,fresh-7,fresh,False,1,0,0.006441,12.1,Merve Dinç,Deniz Göktaş
-без инструментов,claude-sonnet-4.6,fresh-8,fresh,False,1,0,0.00357,7.4,Marc Fogel,Pavel Durov
-без инструментов,claude-sonnet-4.6,fresh-9,fresh,False,1,0,0.003372,7.4,Mianyang,New Delhi
-без инструментов,claude-sonnet-4.6,fresh-10,fresh,False,1,0,0.003261,7.4,8 people,Twelve
-без инструментов,claude-sonnet-4.6,fresh-11,fresh,False,1,0,0.016269,17.2,Sanguine. Luc Tuymans on Baroque,Helter Skelter
-без инструментов,claude-sonnet-4.6,fresh-12,fresh,False,1,0,0.010878,13.5,"1,737,045","700,000"
-без инструментов,claude-sonnet-4.6,fresh-13,fresh,False,1,0,0.005166,9.1,41.2°C,41.5 °C
-без инструментов,claude-sonnet-4.6,fresh-14,fresh,False,1,0,0.011871,14.7,Barcelona,Ciudad Rodrigo
-без инструментов,claude-sonnet-4.6,fresh-15,fresh,True,1,0,0.015003,18.7,Oleksandr Syrskyi,Oleksandr Syrskyi
-без инструментов,claude-sonnet-4.6,fresh-16,fresh,False,1,0,0.008946,13.3,Minnesota Frost,Montreal Victoire
-без инструментов,claude-sonnet-4.6,fresh-17,fresh,False,1,0,0.019059,26.5,NVS-02,EOS-05
-без инструментов,claude-sonnet-4.6,fresh-18,fresh,False,1,0,0.010419,16.5,25 July 2019,13 July
-без инструментов,claude-sonnet-4.6,fresh-19,fresh,False,1,0,0.004212,8.8,Disney Television Animation,Disney Kids & Family
-без инструментов,claude-sonnet-4.6,fresh-20,fresh,True,1,0,0.00825,12.9,single-elimination tournament (round of 32),single-elimination
-без инструментов,claude-sonnet-4.6,fresh-21,fresh,False,1,0,0.007479,12.9,Emanuele Dascanio,Gavin Snider
-без инструментов,claude-sonnet-4.6,fresh-22,fresh,False,1,0,0.006429,11.9,Wump,Clara and the Below
-без инструментов,claude-sonnet-4.6,fresh-23,fresh,False,1,0,0.014217,18.6,Petro Poroshenko,German Galushchenko
-без инструментов,claude-sonnet-4.6,fresh-24,fresh,True,1,0,0.004803,8.5,drought,a drought
-без инструментов,claude-sonnet-4.6,fresh-25,fresh,False,1,0,0.00621,11.2,national emergency,"""open war"""
-без инструментов,claude-sonnet-4.6,fresh-26,fresh,False,1,0,0.009762,15.5,10 people,nine
-без инструментов,claude-sonnet-4.6,fresh-27,fresh,False,1,0,0.00567,10.9,Teodor Currentzis,Markus Hinterhäuser
-без инструментов,claude-sonnet-4.6,fresh-28,fresh,False,1,0,0.010221,14.8,5 people,nine
-без инструментов,claude-sonnet-4.6,fresh-29,fresh,False,1,0,0.003888,8.3,2 people,43
-без инструментов,claude-sonnet-4.6,fresh-35,fresh,False,1,0,0.00675,33.7,Nathan Birch,Dina Levačić
-без инструментов,claude-sonnet-4.6,fresh-36,fresh,False,1,0,0.076092,86.9,22 people,129
-без инструментов,claude-sonnet-4.6,fresh-37,fresh,False,1,0,0.006351,34.7,14 May,15 June
-без инструментов,claude-sonnet-4.6,fresh-38,fresh,True,1,0,0.031797,55.8,Chief Minister,Chief Minister
-без инструментов,claude-sonnet-4.6,fresh-40,fresh,False,1,0,0.013137,52.0,Igor Kirillov,Vladimir Alekseyev
-без инструментов,claude-sonnet-4.6,fresh-41,fresh,False,1,0,0.012621,19.1,"more than 20,000 people",Thirty thousand people
-без инструментов,claude-sonnet-4.6,fresh-42,fresh,False,1,0,0.014742,17.3,Narendra Modi,Prime Minister Narendra Modi
-без инструментов,claude-sonnet-4.6,fresh-43,fresh,False,1,0,0.003246,28.8,Scott Stringer,Zohran Mamdani
-без инструментов,claude-sonnet-4.6,fresh-44,fresh,True,1,0,0.019785,35.7,LHS 1140 b,LHS 1140 b
-без инструментов,claude-sonnet-4.6,fresh-45,fresh,False,1,0,0.007107,21.3,firefighting aircraft,F-16 Fighting Falcon
-без инструментов,claude-sonnet-4.6,fresh-47,fresh,False,1,0,0.004416,8.1,Union Minister,Education Minister
-без инструментов,claude-sonnet-4.6,fresh-48,fresh,False,1,0,0.010452,15.5,Rustem Umerov,Mykhailo Fedorov
-без инструментов,claude-sonnet-4.6,fresh-49,fresh,True,1,0,0.00414,8.0,life imprisonment,life imprisonment
-без инструментов,claude-sonnet-4.6,fresh-50,fresh,False,1,0,0.00459,8.6,"₺693,000","802,500 lira"
-без инструментов,claude-sonnet-4.6,fresh-51,fresh,True,1,0,0.002928,6.6,Bruno Foucher,Bruno Foucher
-без инструментов,claude-sonnet-4.6,fresh-52,fresh,False,1,0,0.006069,9.9,4.0,5.2
-без инструментов,claude-sonnet-4.6,fresh-53,fresh,False,1,0,0.003807,8.1,Hanako Yamaguchi,Tonya McBride Robles
-без инструментов,claude-sonnet-4.6,fresh-54,fresh,False,1,0,0.003951,18.0,11 people,80
-без инструментов,claude-sonnet-4.6,fresh-55,fresh,True,1,0,0.010836,48.3,2 people,two
-без инструментов,claude-sonnet-4.6,fresh-56,fresh,True,1,0,0.014307,18.5,3.0%,3%
-без инструментов,claude-sonnet-4.6,fresh-57,fresh,False,1,0,0.005313,36.9,Imran Khan,Yoon Suk Yeol
-без инструментов,claude-sonnet-4.6,fresh-58,fresh,False,1,0,0.007968,29.9,BYD,BYD Auto
-без инструментов,claude-sonnet-4.6,fresh-59,fresh,False,1,0,0.006558,11.3,Frank Stella,Carson Ting
-без инструментов,claude-sonnet-4.6,fresh-60,fresh,False,1,0,0.004644,22.9,65 people,209
-без инструментов,claude-sonnet-4.6,fresh-61,fresh,False,1,0,0.030048,42.8,7 people,Fourteen
-без инструментов,claude-sonnet-4.6,fresh-62,fresh,False,1,0,0.005484,23.7,life in prison,13 years
-без инструментов,claude-sonnet-4.6,fresh-63,fresh,True,1,0,0.003471,13.3,2 people,Two
-без инструментов,claude-sonnet-4.6,fresh-64,fresh,False,1,0,0.006168,16.3,head of the State Service of Ukraine for Transport Safety,mayor of Lutsk
-без инструментов,claude-sonnet-4.6,fresh-65,fresh,False,1,0,0.003975,13.6,18 people,16
-без инструментов,claude-sonnet-4.6,fresh-66,fresh,False,1,0,0.007929,12.0,10 people,at least six
-без инструментов,claude-sonnet-4.6,fresh-67,fresh,False,1,0,0.035121,33.7,Théo Fouchenneret,Liam Nassereddine
-без инструментов,claude-sonnet-4.6,fresh-68,fresh,True,1,0,0.009159,14.2,Mark Carney,Mark Carney
-без инструментов,claude-sonnet-4.6,fresh-69,fresh,False,1,0,0.001404,5.0,Wrocław,Leipzig
-без инструментов,claude-sonnet-4.6,fresh-70,fresh,False,1,0,0.006273,9.3,Eurostar begins operating services between London and Frankf,night train service
-без инструментов,claude-sonnet-4.6,fresh-71,fresh,False,1,0,0.004194,8.1,Milana Sheiko,Nikita Solovyov
-без инструментов,claude-sonnet-4.6,fresh-72,fresh,True,1,0,0.020124,25.9,Dharmendra Pradhan,Dharmendra Pradhan
-без инструментов,claude-sonnet-4.6,fresh-73,fresh,False,1,0,0.010098,14.5,Lee Jae-myung,Han Hak-ja
-без инструментов,claude-sonnet-4.6,fresh-74,fresh,False,1,0,0.005286,9.7,The National Assembly,Daniel Ortega
-без инструментов,claude-sonnet-4.6,fresh-75,fresh,False,1,0,0.00459,8.8,Ranchi,Novokuznetsk
-без инструментов,claude-sonnet-4.6,fresh-76,fresh,False,1,0,0.014814,17.8,life in prison,life imprisonment
-без инструментов,claude-sonnet-4.6,fresh-83,fresh,False,1,0,0.014778,45.3,Molotov cocktail,improvised explosive device
-без инструментов,claude-sonnet-4.6,fresh-84,fresh,False,1,0,0.011604,37.8,1 game,eight games
-без инструментов,claude-sonnet-4.6,fresh-85,fresh,False,1,0,0.006393,35.1,39.1 °C (102.4 °F),38 °C
-без инструментов,claude-sonnet-4.6,fresh-86,fresh,False,1,0,0.005091,33.5,£15.4 billion,£30.4bn
-без инструментов,claude-sonnet-4.6,fresh-87,fresh,False,1,0,0.003828,22.6,Gustavo Adrianzén,José Jerí
-без инструментов,claude-sonnet-4.6,fresh-88,fresh,False,1,0,0.009342,29.5,"Rebun Island, Hokkaido","Henoko, Okinawa Prefecture"
-без инструментов,claude-sonnet-4.6,fresh-89,fresh,False,1,0,0.005592,23.7,Don Sweeney,Doug Armstrong
-без инструментов,claude-sonnet-4.6,fresh-90,fresh,False,1,0,0.006237,16.1,UK Health Security Agency,Imperial College London
-без инструментов,claude-sonnet-4.6,fresh-91,fresh,False,1,0,0.006186,16.3,1824 crore,"₹25,863 crore"
-без инструментов,claude-sonnet-4.6,fresh-92,fresh,True,1,0,0.004302,8.3,Rubén Rocha Moya,Rubén Rocha Moya
-без инструментов,claude-sonnet-4.6,fresh-93,fresh,False,1,0,0.007401,11.6,The 2026 FIFA World Cup final has not been played yet (it is,Spain
-без инструментов,claude-sonnet-4.6,fresh-94,fresh,False,1,0,0.015024,18.6,4th,11th
-без инструментов,claude-sonnet-4.6,fresh-95,fresh,True,1,0,0.0048,8.4,India,India
-без инструментов,claude-sonnet-4.6,fresh-96,fresh,False,1,0,0.00486,8.2,Braga,Istanbul
-без инструментов,claude-sonnet-4.6,fresh-97,fresh,False,1,0,0.003594,8.0,"Truist Park in Cumberland, Georgia",Citizens Bank Park
-без инструментов,claude-sonnet-4.6,fresh-98,fresh,False,1,0,0.003762,7.4,the Abraham Accords,Islamabad Memorandum
-без инструментов,claude-sonnet-4.6,fresh-99,fresh,True,1,0,0.012861,18.8,Elon Musk,Elon Musk
-без инструментов,claude-sonnet-4.6,fresh-100,fresh,False,1,0,0.011715,15.8,"369,121 km","252,756 miles"
-без инструментов,claude-sonnet-4.6,fresh-101,fresh,False,1,0,0.00477,9.3,60 days,10-day
-без инструментов,claude-sonnet-4.6,fresh-102,fresh,False,1,0,0.007782,12.8,Serhii Sternenko,Oleksandr Dovhach
-без инструментов,claude-sonnet-4.6,fresh-113,fresh,False,1,0,0.007692,27.3,400,850
-без инструментов,claude-sonnet-4.6,fresh-114,fresh,False,1,0,0.00549,23.9,casino,Urgent Care Centre
-без инструментов,claude-sonnet-4.6,fresh-115,fresh,False,1,0,0.009756,29.1,17 people,66
-без инструментов,claude-sonnet-4.6,fresh-116,fresh,True,1,0,0.024381,40.7,Nelly Korda,Nelly Korda
-без инструментов,claude-sonnet-4.6,fresh-117,fresh,False,1,0,0.002724,20.4,Line 11,Line S2
-без инструментов,claude-sonnet-4.6,fresh-118,fresh,False,1,0,0.007431,17.4,Gustav Klimt,Antonello da Messina
-без инструментов,claude-sonnet-4.6,fresh-119,fresh,False,1,0,0.006297,10.5,Manila and Xiamen,Baku and Tbilisi
-без инструментов,claude-sonnet-4.6,fresh-120,fresh,False,1,0,0.008295,13.3,Operation Rough Rider,Operation Southern Spear
-без инструментов,claude-sonnet-4.6,fresh-121,fresh,False,1,0,0.009801,16.4,6.4,5.6
-без инструментов,claude-sonnet-4.6,fresh-122,fresh,True,1,0,0.004923,9.5,Angus Taylor,Angus Taylor
-без инструментов,claude-sonnet-4.6,fresh-123,fresh,False,1,0,0.005988,10.7,Chad,Burkina Faso
-без инструментов,claude-sonnet-4.6,fresh-124,fresh,False,1,0,0.004131,8.0,Augsburg,Kehl
-без инструментов,claude-sonnet-4.6,fresh-125,own,False,1,0,0.004011,8.2,Przemyśl,Biała Podlaska
-без инструментов,claude-sonnet-4.6,fresh-126,own,True,1,0,0.004305,8.4,Order of the White Eagle,Order of the White Eagle
-без инструментов,claude-sonnet-4.6,fresh-127,own,False,1,0,0.005571,9.6,4.3,4.9
-без инструментов,claude-sonnet-4.6,fresh-128,own,False,1,0,0.004071,7.4,4.5 years,four years
-без инструментов,claude-sonnet-4.6,fresh-129,own,False,1,0,0.010692,17.7,15 homes,more than 100
-без инструментов,claude-sonnet-4.6,fresh-130,own,False,1,0,0.014673,21.0,40 months,47 months
-без инструментов,claude-sonnet-4.6,fresh-131,own,False,1,0,0.002769,6.8,Limhamn,Fagersta
-без инструментов,claude-sonnet-4.6,fresh-132,own,False,1,0,0.009192,13.6,13 people,30
-без инструментов,claude-sonnet-4.6,fresh-139,own,False,1,0,0.004578,13.3,Siwa Oasis,Dakhla Oasis
-без инструментов,claude-sonnet-4.6,fresh-142,own,False,1,0,0.010764,40.3,Praggnanandhaa,Vincent Keymer
-без инструментов,claude-sonnet-4.6,fresh-143,own,False,1,0,0.005292,34.4,Magnus Carlsen,Hans Niemann
-без инструментов,claude-sonnet-4.6,fresh-144,own,False,1,0,0.004767,24.7,€1.65 billion,€3 billion
-без инструментов,claude-sonnet-4.6,fresh-145,own,False,1,0,0.011154,29.9,Gram Slot,Ødum
-без инструментов,claude-sonnet-4.6,fresh-146,own,False,1,0,0.019587,36.7,Zurich,Aarau
-без инструментов,claude-sonnet-4.6,fresh-147,own,False,1,0,0.004065,23.0,7 people,"2,295"
-без инструментов,claude-sonnet-4.6,fresh-149,own,False,1,0,0.0261,40.4,Elena Lasconi,Adrian Veștea
-без инструментов,claude-sonnet-4.6,fresh-30,fresh,False,1,0,0.003669,8.6,Istanbul,Ankara
-без инструментов,claude-sonnet-4.6,fresh-31,fresh,False,1,0,0.004986,8.5,Amanat,Aibek Dädebai
-без инструментов,claude-sonnet-4.6,fresh-32,fresh,False,1,0,0.005787,10.8,I could not find this information in my available sources.,Richard Lewer
-без инструментов,claude-sonnet-4.6,fresh-33,fresh,False,1,0,0.02673,29.7,David Warburton,Marilyn Gladu
-без инструментов,claude-sonnet-4.6,fresh-34,fresh,False,1,0,0.005556,9.6,6.2,6.3
-без инструментов,claude-sonnet-4.6,fresh-39,fresh,False,1,0,0.007533,11.9,"Glòries station, Barcelona Metro",Gelida
-без инструментов,claude-sonnet-4.6,fresh-46,fresh,False,1,0,0.003522,8.0,1 people,five
-без инструментов,claude-sonnet-4.6,fresh-77,fresh,True,1,0,0.007326,11.9,Carlos Vila Nova was re-elected,Carlos Vila Nova
-без инструментов,claude-sonnet-4.6,fresh-78,fresh,False,1,0,0.037968,33.7,11 months,13.2 months
-без инструментов,claude-sonnet-4.6,fresh-79,fresh,True,1,0,0.014172,18.0,3 games,three
-без инструментов,claude-sonnet-4.6,fresh-80,fresh,False,1,0,0.008385,12.5,"Digital Personal Data Protection (DPDP) Rules, 2025","UGC Equity Regulations, 2026"
-без инструментов,claude-sonnet-4.6,fresh-81,fresh,False,1,0,0.013971,18.8,8 million,8.15m
-без инструментов,claude-sonnet-4.6,fresh-82,fresh,False,1,0,0.007791,12.2,26 people,28 people
-без инструментов,claude-sonnet-4.6,fresh-103,fresh,False,1,0,0.007659,11.9,Eduardo Salhuana,José María Balcázar
-без инструментов,claude-sonnet-4.6,fresh-104,fresh,False,1,0,0.006384,10.7,10 people,21
-без инструментов,claude-sonnet-4.6,fresh-105,fresh,False,1,0,0.007197,11.7,10 yuan (routes ≤800 km) and 20 yuan (routes >800 km),¥60–120
-без инструментов,claude-sonnet-4.6,fresh-106,fresh,False,1,0,0.021345,28.3,Terminal 4,GRU Airport People Mover
-без инструментов,claude-sonnet-4.6,fresh-107,fresh,False,1,0,0.003984,9.3,2026 Beninese presidential election,2026 Beninese parliamentary election
-без инструментов,claude-sonnet-4.6,fresh-108,fresh,False,1,0,0.013974,19.3,"Clifton Beach, Cape Town, South Africa",Michaelmas Island
-без инструментов,claude-sonnet-4.6,fresh-109,fresh,False,1,0,0.005943,9.5,stabbing,conspiracy to commit arson
-без инструментов,claude-sonnet-4.6,fresh-110,fresh,False,1,0,0.020127,23.2,Republican candidate (Georgia's 6th congressional district s,Clay Fuller
-без инструментов,claude-sonnet-4.6,fresh-111,fresh,True,1,0,0.006021,9.5,Prime Minister of the United Kingdom (and Labour leader),prime minister
-без инструментов,claude-sonnet-4.6,fresh-112,fresh,True,1,0,0.013398,16.7,SMILE (Solar wind Magnetosphere Ionosphere Link Explorer),SMILE
-без инструментов,claude-sonnet-4.6,fresh-133,own,True,1,0,0.003306,7.5,Dadan Hindayana,Dadan Hindayana
-без инструментов,claude-sonnet-4.6,fresh-134,own,False,1,0,0.008976,13.2,7 years,75 years
-без инструментов,claude-sonnet-4.6,fresh-135,own,False,1,0,0.041523,35.4,Themba Zwane,Thapelo Maseko
-без инструментов,claude-sonnet-4.6,fresh-136,own,False,1,0,0.006576,11.3,15 people,Forty-one
-без инструментов,claude-sonnet-4.6,fresh-137,own,False,1,0,0.005697,9.2,52.3%,49.66%
-без инструментов,claude-sonnet-4.6,fresh-138,own,False,1,0,0.018606,18.7,€1 billion,€16.4 billion
-без инструментов,claude-sonnet-4.6,fresh-140,own,False,1,0,0.008469,12.5,S4716,S301
-без инструментов,claude-sonnet-4.6,fresh-141,own,False,1,0,0.00321,7.3,glycolaldehyde,erythrulose
-без инструментов,claude-sonnet-4.6,fresh-148,own,False,1,0,0.004239,8.1,54.0%,50.135%
-без инструментов,gpt-4o-mini,fresh-0,fresh,False,1,0,6.3e-05,5.4,I will look for the information in the relevant articles abo,15 March
-без инструментов,gpt-4o-mini,fresh-1,fresh,False,1,0,5.595e-05,7.1,I will find the relevant article about the launch of Progres,22 March
-без инструментов,gpt-4o-mini,fresh-2,fresh,False,1,0,7.755e-05,7.0,unknown,Miguel Díaz-Canel
-без инструментов,gpt-4o-mini,fresh-3,fresh,False,1,0,8.73e-05,6.5,maritime border agreement,a strategic partnership agreement
-без инструментов,gpt-4o-mini,fresh-4,fresh,False,1,0,9.48e-05,6.1,Voluntary Assisted Dying,A total fire ban
-без инструментов,gpt-4o-mini,fresh-5,fresh,False,1,0,7.02e-05,5.6,unknown people,two people
-без инструментов,gpt-4o-mini,fresh-6,fresh,False,1,0,6.15e-05,5.2,I will look up the information about the floods in Tibet in ,"4,500"
-без инструментов,gpt-4o-mini,fresh-7,fresh,False,1,0,9.78e-05,5.0,unknown,Deniz Göktaş
-без инструментов,gpt-4o-mini,fresh-8,fresh,False,1,0,8.79e-05,4.9,unknown,Pavel Durov
-без инструментов,gpt-4o-mini,fresh-9,fresh,False,1,0,7.215e-05,5.6,Tokyo,New Delhi
-без инструментов,gpt-4o-mini,fresh-10,fresh,False,1,0,8.265e-05,5.9,22 people,Twelve
-без инструментов,gpt-4o-mini,fresh-11,fresh,False,1,0,6.3e-05,5.6,I will look up the information regarding the art exhibition ,Helter Skelter
-без инструментов,gpt-4o-mini,fresh-12,fresh,False,1,0,0.00010875,6.5,500000 children,"700,000"
-без инструментов,gpt-4o-mini,fresh-13,fresh,False,1,0,0.0001029,5.8,unknown,41.5 °C
-без инструментов,gpt-4o-mini,fresh-14,fresh,False,1,0,9.24e-05,5.9,unknown,Ciudad Rodrigo
-без инструментов,gpt-4o-mini,fresh-15,fresh,False,1,0,6.87e-05,4.8,likely not known,Oleksandr Syrskyi
-без инструментов,gpt-4o-mini,fresh-16,fresh,False,1,0,6.795e-05,5.3,0,Montreal Victoire
-без инструментов,gpt-4o-mini,fresh-17,fresh,False,1,0,9.12e-05,6.2,Aditya-L1,EOS-05
-без инструментов,gpt-4o-mini,fresh-18,fresh,False,1,0,5.37e-05,4.8,I will find the relevant information in the necessary articl,13 July
-без инструментов,gpt-4o-mini,fresh-19,fresh,False,1,0,7.905e-05,5.8,Disney Television Animation,Disney Kids & Family
-без инструментов,gpt-4o-mini,fresh-20,fresh,False,1,0,5.565e-05,5.7,I will check the details of the 2026 FIFA World Cup format.,single-elimination
-без инструментов,gpt-4o-mini,fresh-21,fresh,False,1,0,8.37e-05,5.5,Beeple,Gavin Snider
-без инструментов,gpt-4o-mini,fresh-22,fresh,False,1,0,7.065e-05,5.3,I will look for information related to events in 2026. Pleas,Clara and the Below
-без инструментов,gpt-4o-mini,fresh-23,fresh,False,1,0,6.285e-05,4.7,I'll need to find the relevant information for events that o,German Galushchenko
-без инструментов,gpt-4o-mini,fresh-24,fresh,False,1,0,8.7e-05,5.2,the Year of Welsh Wildlife,a drought
-без инструментов,gpt-4o-mini,fresh-25,fresh,False,1,0,8.1e-05,5.3,state of emergency,"""open war"""
-без инструментов,gpt-4o-mini,fresh-26,fresh,False,1,0,7.725e-05,5.1,15 people,nine
-без инструментов,gpt-4o-mini,fresh-27,fresh,False,1,0,8.76e-05,5.1,Plácido Domingo,Markus Hinterhäuser
-без инструментов,gpt-4o-mini,fresh-28,fresh,False,1,0,5.325e-05,5.4,I will look up the relevant information.,nine
-без инструментов,gpt-4o-mini,fresh-29,fresh,False,1,0,8.925e-05,5.5,0 people,43
-без инструментов,gpt-4o-mini,fresh-30,fresh,False,1,0,8.58e-05,5.7,Istanbul,Ankara
-без инструментов,gpt-4o-mini,fresh-31,fresh,False,1,0,6.495e-05,5.9,I will check the relevant sources for information about the ,Aibek Dädebai
-без инструментов,gpt-4o-mini,fresh-32,fresh,False,1,0,5.955e-05,5.6,I will find the information regarding the Archibald Prize fo,Richard Lewer
-без инструментов,gpt-4o-mini,fresh-33,fresh,False,1,0,8.025e-05,5.4,Unknown,Marilyn Gladu
-без инструментов,gpt-4o-mini,fresh-34,fresh,False,1,0,7.185e-05,4.9,6.4,6.3
-без инструментов,gpt-4o-mini,fresh-35,fresh,False,1,0,9.225e-05,5.4,unknown.,Dina Levačić
-без инструментов,gpt-4o-mini,fresh-36,fresh,False,1,0,8.865e-05,5.4,39 people,129
-без инструментов,gpt-4o-mini,fresh-37,fresh,False,1,0,6.36e-05,5.1,I will find the relevant article for the year 2026 and check,15 June
-без инструментов,gpt-4o-mini,fresh-38,fresh,False,1,0,8.415e-05,5.4,likely short answer,Chief Minister
-без инструментов,gpt-4o-mini,fresh-39,fresh,False,1,0,0.0001086,6.7,Spain,Gelida
-без инструментов,gpt-4o-mini,fresh-40,fresh,False,1,0,5.01e-05,5.1,I will find the relevant information.,Vladimir Alekseyev
-без инструментов,gpt-4o-mini,fresh-41,fresh,False,1,0,5.64e-05,4.8,I will find the relevant article for 2026 in Japan to gather,Thirty thousand people
-без инструментов,gpt-4o-mini,fresh-42,fresh,False,1,0,9.42e-05,6.0,28 March,Prime Minister Narendra Modi
-без инструментов,gpt-4o-mini,fresh-43,fresh,False,1,0,0.00012255,5.8,Unknown,Zohran Mamdani
-без инструментов,gpt-4o-mini,fresh-44,fresh,False,1,0,8.76e-05,5.1,LHS 475 b,LHS 1140 b
-без инструментов,gpt-4o-mini,fresh-45,fresh,False,1,0,6.69e-05,4.7,I will find the relevant information for the events of Augus,F-16 Fighting Falcon
-без инструментов,gpt-4o-mini,fresh-46,fresh,False,1,0,9.51e-05,5.7,0 people,five
-без инструментов,gpt-4o-mini,fresh-47,fresh,False,1,0,0.00010365,5.6,Minister of Education,Education Minister
-без инструментов,gpt-4o-mini,fresh-48,fresh,False,1,0,7.59e-05,5.3,unknown,Mykhailo Fedorov
-без инструментов,gpt-4o-mini,fresh-49,fresh,False,1,0,9.87e-05,5.4,unknown,life imprisonment
-без инструментов,gpt-4o-mini,fresh-50,fresh,False,1,0,9.51e-05,6.0,"500,000 TL","802,500 lira"
-без инструментов,gpt-4o-mini,fresh-51,fresh,False,1,0,6.84e-05,5.3,I will find the appropriate article to gather the informatio,Bruno Foucher
-без инструментов,gpt-4o-mini,fresh-52,fresh,False,1,0,5.115e-05,5.1,I will look for the relevant information.,5.2
-без инструментов,gpt-4o-mini,fresh-53,fresh,False,1,0,5.19e-05,5.2,I will look up the relevant information.,Tonya McBride Robles
-без инструментов,gpt-4o-mini,fresh-54,fresh,False,1,0,6.96e-05,4.8,0 people,80
-без инструментов,gpt-4o-mini,fresh-55,fresh,False,1,0,7.125e-05,5.6,200 people,two
-без инструментов,gpt-4o-mini,fresh-56,fresh,False,1,0,6.195e-05,5.0,I will search for the article '2026 in the United Kingdom' t,3%
-без инструментов,gpt-4o-mini,fresh-57,fresh,False,1,0,5.745e-05,5.6,I will look for the relevant information in the articles rel,Yoon Suk Yeol
-без инструментов,gpt-4o-mini,fresh-58,fresh,False,1,0,8.52e-05,5.3,BYD,BYD Auto
-без инструментов,gpt-4o-mini,fresh-59,fresh,False,1,0,0.0001002,5.3,Peter Saville,Carson Ting
-без инструментов,gpt-4o-mini,fresh-60,fresh,False,1,0,8.28e-05,5.5,0 people,209
-без инструментов,gpt-4o-mini,fresh-61,fresh,False,1,0,6.06e-05,4.9,I will find the relevant article for March 2026 to get the i,Fourteen
-без инструментов,gpt-4o-mini,fresh-62,fresh,False,1,0,9.135e-05,5.2,unknown,13 years
-без инструментов,gpt-4o-mini,fresh-63,fresh,False,1,0,5.865e-05,4.7,I will look for the relevant article on the events of 2026. ,Two
-без инструментов,gpt-4o-mini,fresh-64,fresh,False,1,0,5.235e-05,4.6,I will look for the relevant information in the sources.,mayor of Lutsk
-без инструментов,gpt-4o-mini,fresh-65,fresh,False,1,0,7.305e-05,5.3,15 people,16
-без инструментов,gpt-4o-mini,fresh-66,fresh,False,1,0,9.015e-05,5.1,100 people,at least six
-без инструментов,gpt-4o-mini,fresh-67,fresh,False,1,0,9.54e-05,5.4,Annemarie Sussman,Liam Nassereddine
-без инструментов,gpt-4o-mini,fresh-68,fresh,False,1,0,5.97e-05,5.4,I will look for the relevant article regarding events in 202,Mark Carney
-без инструментов,gpt-4o-mini,fresh-69,fresh,False,1,0,7.26e-05,5.0,"Ignazio Eccheli Stadium, Rome",Leipzig
-без инструментов,gpt-4o-mini,fresh-70,fresh,True,1,0,8.28e-05,5.1,international night train service,night train service
-без инструментов,gpt-4o-mini,fresh-71,fresh,False,1,0,5.445e-05,4.7,I will look for the relevant details in the appropriate sour,Nikita Solovyov
-без инструментов,gpt-4o-mini,fresh-72,fresh,False,1,0,9.66e-05,5.9,Ravi Shankar Prasad,Dharmendra Pradhan
-без инструментов,gpt-4o-mini,fresh-73,fresh,False,1,0,5.7e-05,5.5,I will find the relevant article for events in 2026. Please ,Han Hak-ja
-без инструментов,gpt-4o-mini,fresh-74,fresh,False,1,0,5.22e-05,5.6,I will look for relevant information in the appropriate arti,Daniel Ortega
-без инструментов,gpt-4o-mini,fresh-75,fresh,False,1,0,6.15e-05,5.2,I will look for the relevant article regarding events in 202,Novokuznetsk
-без инструментов,gpt-4o-mini,fresh-76,fresh,False,1,0,5.505e-05,4.6,I will look for information regarding the events of February,life imprisonment
-без инструментов,gpt-4o-mini,fresh-77,fresh,False,1,0,8.43e-05,5.0,unknown,Carlos Vila Nova
-без инструментов,gpt-4o-mini,fresh-78,fresh,False,1,0,8.415e-05,5.0,unknown,13.2 months
-без инструментов,gpt-4o-mini,fresh-79,fresh,False,1,0,5.715e-05,4.6,I will find the appropriate article about events in 2026 to ,three
-без инструментов,gpt-4o-mini,fresh-80,fresh,False,1,0,9.525e-05,5.6,81st Amendment,"UGC Equity Regulations, 2026"
-без инструментов,gpt-4o-mini,fresh-81,fresh,False,1,0,0.0001062,5.7,unknown,8.15m
-без инструментов,gpt-4o-mini,fresh-82,fresh,False,1,0,6.495e-05,5.0,I will look for information on the fire at a shoe factory in,28 people
-без инструментов,gpt-4o-mini,fresh-83,fresh,False,1,0,9.495e-05,5.9,explosive device,improvised explosive device
-без инструментов,gpt-4o-mini,fresh-84,fresh,False,1,0,9.12e-05,7.1,0 games,eight games
-без инструментов,gpt-4o-mini,fresh-85,fresh,False,1,0,6.48e-05,5.5,I will check the relevant source for the June heat record in,38 °C
-без инструментов,gpt-4o-mini,fresh-86,fresh,False,1,0,7.98e-05,5.0,£3.4 billion,£30.4bn
-без инструментов,gpt-4o-mini,fresh-87,fresh,False,1,0,9.42e-05,6.3,Dina Boluarte,José Jerí
-без инструментов,gpt-4o-mini,fresh-88,fresh,False,1,0,5.55e-05,5.5,I will search for the relevant information on the 2026 event,"Henoko, Okinawa Prefecture"
-без инструментов,gpt-4o-mini,fresh-89,fresh,False,1,0,9.63e-05,5.2,unknown,Doug Armstrong
-без инструментов,gpt-4o-mini,fresh-90,fresh,False,1,0,0.00010455,5.7,UK Health Security Agency,Imperial College London
-без инструментов,gpt-4o-mini,fresh-91,fresh,False,1,0,8.55e-05,5.8,I will look for the relevant information from an appropriate,"₹25,863 crore"
-без инструментов,gpt-4o-mini,fresh-92,fresh,False,1,0,6.075e-05,4.7,"I will find the relevant information in the source. 
-
-Search",Rubén Rocha Moya
-без инструментов,gpt-4o-mini,fresh-93,fresh,False,1,0,5.88e-05,5.0,I will look for information regarding the 2026 FIFA World Cu,Spain
-без инструментов,gpt-4o-mini,fresh-94,fresh,False,1,0,8.4e-05,5.3,4th place,11th
-без инструментов,gpt-4o-mini,fresh-95,fresh,False,1,0,9.3e-05,5.3,unknown,India
-без инструментов,gpt-4o-mini,fresh-96,fresh,False,1,0,6.525e-05,5.2,I need to check the latest information regarding the 2026 Eu,Istanbul
-без инструментов,gpt-4o-mini,fresh-97,fresh,False,1,0,6.765e-05,4.8,"T-Mobile Park, Seattle",Citizens Bank Park
-без инструментов,gpt-4o-mini,fresh-98,fresh,False,1,0,8.31e-05,5.2,No such document,Islamabad Memorandum
-без инструментов,gpt-4o-mini,fresh-99,fresh,False,1,0,6.105e-05,5.4,I will look up the relevant article for events in 2026 to fi,Elon Musk
-без инструментов,gpt-4o-mini,fresh-100,fresh,False,1,0,0.0001317,5.9,230000 miles,"252,756 miles"
-без инструментов,gpt-4o-mini,fresh-101,fresh,False,1,0,5.655e-05,4.6,I'll find the relevant information about the 2026 Lebanon wa,10-day
-без инструментов,gpt-4o-mini,fresh-102,fresh,False,1,0,7.035e-05,5.0,Unknown,Oleksandr Dovhach
-без инструментов,gpt-4o-mini,fresh-103,fresh,False,1,0,6e-05,4.6,I will find the relevant information regarding the events of,José María Balcázar
-без инструментов,gpt-4o-mini,fresh-104,fresh,False,1,0,9e-05,5.3,13 people,21
-без инструментов,gpt-4o-mini,fresh-105,fresh,False,1,0,6.45e-05,4.9,I will search for the relevant information about fuel surcha,¥60–120
-без инструментов,gpt-4o-mini,fresh-106,fresh,False,1,0,8.79e-05,5.5,likely a new terminal or facility,GRU Airport People Mover
-без инструментов,gpt-4o-mini,fresh-107,fresh,False,1,0,4.98e-05,4.9,I will look for relevant information.,2026 Beninese parliamentary election
-без инструментов,gpt-4o-mini,fresh-108,fresh,False,1,0,0.00010155,5.5,unknown,Michaelmas Island
-без инструментов,gpt-4o-mini,fresh-109,fresh,False,1,0,8.985e-05,5.5,terrorism-related activities,conspiracy to commit arson
-без инструментов,gpt-4o-mini,fresh-110,fresh,False,1,0,7.575e-05,5.0,unknown,Clay Fuller
-без инструментов,gpt-4o-mini,fresh-111,fresh,False,1,0,5.625e-05,4.7,I will check for the relevant article about events in the ye,prime minister
-без инструментов,gpt-4o-mini,fresh-112,fresh,False,1,0,6.33e-05,4.6,I will find the relevant article to get accurate information,SMILE
-без инструментов,gpt-4o-mini,fresh-113,fresh,False,1,0,6.33e-05,4.9,I will search for relevant information regarding job cuts an,850
-без инструментов,gpt-4o-mini,fresh-114,fresh,False,1,0,9.525e-05,5.2,likely a new facility,Urgent Care Centre
-без инструментов,gpt-4o-mini,fresh-115,fresh,False,1,0,9.195e-05,5.3,unknown,66
-без инструментов,gpt-4o-mini,fresh-116,fresh,False,1,0,8.49e-05,5.7,No specific information found about individuals associated w,Nelly Korda
-без инструментов,gpt-4o-mini,fresh-117,fresh,False,1,0,8.52e-05,5.3,Line 10,Line S2
-без инструментов,gpt-4o-mini,fresh-118,fresh,False,1,0,9.105e-05,5.5,Francesco Guardi,Antonello da Messina
-без инструментов,gpt-4o-mini,fresh-119,fresh,False,1,0,0.00010395,6.0,Not found.,Baku and Tbilisi
-без инструментов,gpt-4o-mini,fresh-120,fresh,False,1,0,9.285e-05,5.5,Operation Diligent,Operation Southern Spear
-без инструментов,gpt-4o-mini,fresh-121,fresh,False,1,0,6.54e-05,5.0,I will find the relevant article for 2026 to locate the info,5.6
-без инструментов,gpt-4o-mini,fresh-122,fresh,False,1,0,0.00010575,5.4,unknown,Angus Taylor
-без инструментов,gpt-4o-mini,fresh-123,fresh,False,1,0,6.885e-05,5.4,Unknown,Burkina Faso
-без инструментов,gpt-4o-mini,fresh-124,fresh,False,1,0,5.325e-05,5.3,I will find the relevant article for events in 2026.,Kehl
-без инструментов,gpt-4o-mini,fresh-125,own,False,1,0,9.63e-05,5.2,unknown,Biała Podlaska
-без инструментов,gpt-4o-mini,fresh-126,own,False,1,0,5.775e-05,4.8,I will find the relevant information about events in June 20,Order of the White Eagle
-без инструментов,gpt-4o-mini,fresh-127,own,False,1,0,8.955e-05,5.2,4.6 magnitude,4.9
-без инструментов,gpt-4o-mini,fresh-128,own,False,1,0,8.505e-05,5.1,0 years,four years
-без инструментов,gpt-4o-mini,fresh-129,own,False,1,0,7.11e-05,5.3,30 homes,more than 100
-без инструментов,gpt-4o-mini,fresh-130,own,False,1,0,8.46e-05,6.0,8 months,47 months
-без инструментов,gpt-4o-mini,fresh-131,own,False,1,0,8.67e-05,5.5,Malmö,Fagersta
-без инструментов,gpt-4o-mini,fresh-132,own,False,1,0,8.91e-05,7.3,22 people,30
-без инструментов,gpt-4o-mini,fresh-133,own,False,1,0,8.16e-05,17.5,Kepala BKKBN (Head of the National Population and Family Pla,Dadan Hindayana
-без инструментов,gpt-4o-mini,fresh-134,own,False,1,0,8.7e-05,6.1,5 years,75 years
-без инструментов,gpt-4o-mini,fresh-135,own,False,1,0,5.7e-05,5.9,I will look up the relevant information for the 2026 FIFA Wo,Thapelo Maseko
-без инструментов,gpt-4o-mini,fresh-136,own,False,1,0,9.615e-05,5.7,unknown,Forty-one
-без инструментов,gpt-4o-mini,fresh-137,own,False,1,0,9.33e-05,4.9,0%,49.66%
-без инструментов,gpt-4o-mini,fresh-138,own,False,1,0,0.00010185,6.3,0,€16.4 billion
-без инструментов,gpt-4o-mini,fresh-139,own,False,1,0,8.52e-05,5.7,Al-Ga'ab Oasis,Dakhla Oasis
-без инструментов,gpt-4o-mini,fresh-140,own,False,1,0,8.7e-05,5.7,S4711,S301
-без инструментов,gpt-4o-mini,fresh-141,own,False,1,0,8.58e-05,5.8,glycolonitrile,erythrulose
-без инструментов,gpt-4o-mini,fresh-142,own,False,1,0,0.0001014,6.3,unknown,Vincent Keymer
-без инструментов,gpt-4o-mini,fresh-143,own,False,1,0,8.025e-05,36.0,unknown,Hans Niemann
-без инструментов,gpt-4o-mini,fresh-144,own,False,1,0,8.61e-05,6.0,unknown,€3 billion
-без инструментов,gpt-4o-mini,fresh-145,own,False,1,0,9.18e-05,5.8,unknown,Ødum
-без инструментов,gpt-4o-mini,fresh-146,own,False,1,0,9.51e-05,60.6,unknown town,Aarau
-без инструментов,gpt-4o-mini,fresh-147,own,False,1,0,9.645e-05,17.6,0 people,"2,295"
-без инструментов,gpt-4o-mini,fresh-148,own,False,1,0,7.215e-05,4.9,I will find the relevant information regarding the election ,50.135%
-без инструментов,gpt-4o-mini,fresh-149,own,False,1,0,6.3e-05,4.8,I will find the relevant information about events in Romania,Adrian Veștea
-поиск,gpt-4o-mini,fresh-0,fresh,False,6,5,0.0009831,74.2,unknown,15 March
-поиск,gpt-4o-mini,fresh-1,fresh,True,2,1,0.00014655,18.0,22 March,22 March
-поиск,gpt-4o-mini,fresh-2,fresh,False,3,2,0.0003447,32.3,nobody,Miguel Díaz-Canel
-поиск,gpt-4o-mini,fresh-3,fresh,False,4,4,0.0003549,54.8,no agreement,a strategic partnership agreement
-поиск,gpt-4o-mini,fresh-4,fresh,False,5,4,0.000486,59.3,likely information not available,A total fire ban
-поиск,gpt-4o-mini,fresh-5,fresh,True,2,1,0.0001429499999999,18.1,2 people,two people
-поиск,gpt-4o-mini,fresh-6,fresh,False,2,1,0.0001611,17.9,519 missing people,"4,500"
-поиск,gpt-4o-mini,fresh-7,fresh,False,7,8,0.00127125,107.3,unclear,Deniz Göktaş
-поиск,gpt-4o-mini,fresh-8,fresh,False,9,8,0.0013749,113.5,unknown.,Pavel Durov
-поиск,gpt-4o-mini,fresh-9,fresh,True,2,1,0.0001386,17.6,New Delhi,New Delhi
-поиск,gpt-4o-mini,fresh-10,fresh,False,7,6,0.0008391,88.3,0 people,Twelve
-поиск,gpt-4o-mini,fresh-11,fresh,False,7,6,0.0008864999999999,86.5,Unknown,Helter Skelter
-поиск,gpt-4o-mini,fresh-12,fresh,False,4,3,0.0003804,46.6,0 children,"700,000"
-поиск,gpt-4o-mini,fresh-13,fresh,False,2,1,0.00021075,18.0,Unable to find the specific highest recorded temperature in ,41.5 °C
-поиск,gpt-4o-mini,fresh-14,fresh,False,7,6,0.00112305,86.7,Spain,Ciudad Rodrigo
-поиск,gpt-4o-mini,fresh-15,fresh,False,4,5,0.00050115,62.5,unknown,Oleksandr Syrskyi
-поиск,gpt-4o-mini,fresh-16,fresh,True,4,3,0.0003984,49.5,Montreal Victoire,Montreal Victoire
 поиск,gpt-4o-mini,fresh-17,fresh,False,4,3,0.00040515,44.5,unknown,EOS-05
 поиск,gpt-4o-mini,fresh-18,fresh,False,9,7,0.00230655,105.2,6 November 2019,13 July
-поиск,gpt-4o-mini,fresh-19,fresh,False,9,7,0.00158415,105.4,Disney Branded Television,Disney Kids & Family
-поиск,gpt-4o-mini,fresh-20,fresh,True,2,1,0.00015285,17.8,single-elimination tournament,single-elimination
-поиск,gpt-4o-mini,fresh-21,fresh,False,7,6,0.0012249,86.3,no specific artist,Gavin Snider
-поиск,gpt-4o-mini,fresh-22,fresh,False,4,4,0.00040425,55.8,unknown,Clara and the Below
-поиск,gpt-4o-mini,fresh-23,fresh,False,9,7,0.00184455,124.9,Unknown,German Galushchenko
-поиск,gpt-4o-mini,fresh-24,fresh,False,9,8,0.0011703,132.1,2026 Commonwealth Games,a drought
-поиск,gpt-4o-mini,fresh-25,fresh,True,2,1,0.0001827,26.8,open war,"""open war"""
-поиск,gpt-4o-mini,fresh-26,fresh,False,4,3,0.0003228,56.7,0 people,nine
-поиск,gpt-4o-mini,fresh-27,fresh,False,5,4,0.00079965,77.4,Marin Alsop,Markus Hinterhäuser
-поиск,gpt-4o-mini,fresh-28,fresh,False,2,1,0.00015825,46.1,6 people,nine
-поиск,gpt-4o-mini,fresh-29,fresh,False,2,1,0.00016695,18.1,46 people,43
-поиск,gpt-4o-mini,fresh-30,fresh,False,6,6,0.00066405,69.4,Istanbul,Ankara
 поиск,gpt-4o-mini,fresh-31,fresh,True,4,3,0.0005538,47.4,Aibek Dädebai,Aibek Dädebai
 поиск,gpt-4o-mini,fresh-32,fresh,True,2,1,0.00020925,18.2,Richard Lewer,Richard Lewer
 поиск,gpt-4o-mini,fresh-33,fresh,False,8,7,0.0011115,101.8,,Marilyn Gladu
@@ -751,6 +420,338 @@ Search",Rubén Rocha Moya
 поиск + страница,claude-haiku-4.5,fresh-147,own,False,2,2,0.006938,26.5,"6,500 people","2,295"
 поиск + страница,claude-haiku-4.5,fresh-148,own,False,9,7,0.046617,94.7,The specific percentage was not found in the available sourc,50.135%
 поиск + страница,claude-haiku-4.5,fresh-149,own,True,6,5,0.022378,71.0,Adrian Veștea,Adrian Veștea
+без инструментов,claude-sonnet-4.6,fresh-0,fresh,True,1,0,0.003468,3.6,15 March,15 March
+без инструментов,claude-sonnet-4.6,fresh-1,fresh,False,1,0,0.003453,3.9,23 January,22 March
+без инструментов,claude-sonnet-4.6,fresh-2,fresh,False,1,0,0.030069,32.2,Iran,Miguel Díaz-Canel
+без инструментов,claude-sonnet-4.6,fresh-3,fresh,False,1,0,0.005835,6.7,a bilateral security agreement,a strategic partnership agreement
+без инструментов,claude-sonnet-4.6,fresh-4,fresh,False,1,0,0.003876,4.3,Native Vegetation Credit Register,A total fire ban
+без инструментов,claude-sonnet-4.6,fresh-5,fresh,False,1,0,0.004548,5.5,1 people,two people
+без инструментов,claude-sonnet-4.6,fresh-6,fresh,False,1,0,0.004452,5.3,35 people,"4,500"
+без инструментов,claude-sonnet-4.6,fresh-7,fresh,False,1,0,0.008781,11.0,Bülent Keneş,Deniz Göktaş
+без инструментов,claude-sonnet-4.6,fresh-8,fresh,False,1,0,0.008295,8.8,Evan Gershkovich,Pavel Durov
+без инструментов,claude-sonnet-4.6,fresh-9,fresh,False,1,0,0.003342,3.6,Nanjing,New Delhi
+без инструментов,claude-sonnet-4.6,fresh-10,fresh,False,1,0,0.014256,15.1,10 people,Twelve
+без инструментов,claude-sonnet-4.6,fresh-11,fresh,False,1,0,0.039519,31.2,Monk,Helter Skelter
+без инструментов,claude-sonnet-4.6,fresh-12,fresh,False,1,0,0.057408,40.4,2 million,"700,000"
+без инструментов,claude-sonnet-4.6,fresh-13,fresh,False,1,0,0.013881,15.0,42.1°C,41.5 °C
+без инструментов,claude-sonnet-4.6,fresh-14,fresh,False,1,0,0.006066,7.8,Cartagena,Ciudad Rodrigo
+без инструментов,claude-sonnet-4.6,fresh-15,fresh,True,1,0,0.016143,17.8,Oleksandr Syrskyi,Oleksandr Syrskyi
+без инструментов,claude-sonnet-4.6,fresh-16,fresh,False,1,0,0.010791,85.5,Minnesota Frost,Montreal Victoire
+без инструментов,claude-sonnet-4.6,fresh-17,fresh,False,1,0,0.007989,9.3,NVS-02,EOS-05
+без инструментов,claude-sonnet-4.6,fresh-18,fresh,False,1,0,0.005979,6.3,25 October 2021,13 July
+без инструментов,claude-sonnet-4.6,fresh-19,fresh,False,1,0,0.008082,10.1,Disney Television Animation,Disney Kids & Family
+без инструментов,claude-sonnet-4.6,fresh-20,fresh,True,1,0,0.00819,9.4,single-elimination format (round of 32),single-elimination
+без инструментов,claude-sonnet-4.6,fresh-21,fresh,False,1,0,0.008214,6.9,unknown,Gavin Snider
+без инструментов,claude-sonnet-4.6,fresh-22,fresh,False,1,0,0.009264,9.1,Renegade Rocket,Clara and the Below
+без инструментов,claude-sonnet-4.6,fresh-23,fresh,False,1,0,0.004527,4.6,Vasyl Benedychuk,German Galushchenko
+без инструментов,claude-sonnet-4.6,fresh-24,fresh,True,1,0,0.006978,7.5,drought,a drought
+без инструментов,claude-sonnet-4.6,fresh-25,fresh,False,1,0,0.003345,3.3,a national emergency,"""open war"""
+без инструментов,claude-sonnet-4.6,fresh-26,fresh,False,1,0,0.006627,8.2,5 people,nine
+без инструментов,claude-sonnet-4.6,fresh-27,fresh,False,1,0,0.00543,6.2,Teodor Currentzis,Markus Hinterhäuser
+без инструментов,claude-sonnet-4.6,fresh-28,fresh,False,1,0,0.007761,7.7,5 people,nine
+без инструментов,claude-sonnet-4.6,fresh-29,fresh,False,1,0,0.006018,6.8,0 people,43
+без инструментов,claude-sonnet-4.6,fresh-30,fresh,False,1,0,0.006039,6.9,İzmir,Ankara
+без инструментов,claude-sonnet-4.6,fresh-31,fresh,False,1,0,0.006486,8.5,Olzhas Bektenov,Aibek Dädebai
+без инструментов,claude-sonnet-4.6,fresh-32,fresh,False,1,0,0.013722,14.0,Laura Jones,Richard Lewer
+без инструментов,claude-sonnet-4.6,fresh-33,fresh,False,1,0,0.003585,4.2,Jesse Norman,Marilyn Gladu
+без инструментов,claude-sonnet-4.6,fresh-34,fresh,False,1,0,0.013596,13.6,6.2,6.3
+без инструментов,claude-sonnet-4.6,fresh-35,fresh,False,1,0,0.011385,10.3,Andrew Chin,Dina Levačić
+без инструментов,claude-sonnet-4.6,fresh-36,fresh,False,1,0,0.003387,3.4,22 people,129
+без инструментов,claude-sonnet-4.6,fresh-37,fresh,False,1,0,0.018036,22.0,4 June,15 June
+без инструментов,claude-sonnet-4.6,fresh-38,fresh,True,1,0,0.006192,14.3,Chief Minister of Kerala,Chief Minister
+без инструментов,claude-sonnet-4.6,fresh-39,fresh,False,1,0,0.004803,12.5,"Montcada i Reixac, Barcelona",Gelida
+без инструментов,claude-sonnet-4.6,fresh-40,fresh,False,1,0,0.006477,7.9,Pavel Popov,Vladimir Alekseyev
+без инструментов,claude-sonnet-4.6,fresh-41,fresh,False,1,0,0.006606,7.3,"30,000",Thirty thousand people
+без инструментов,claude-sonnet-4.6,fresh-42,fresh,False,1,0,0.006372,7.4,Narendra Modi,Prime Minister Narendra Modi
+без инструментов,claude-sonnet-4.6,fresh-43,fresh,False,1,0,0.005826,6.1,Brad Lander,Zohran Mamdani
+без инструментов,claude-sonnet-4.6,fresh-44,fresh,False,1,0,0.009375,12.3,TOI-270d,LHS 1140 b
+без инструментов,claude-sonnet-4.6,fresh-45,fresh,False,1,0,0.015567,15.9,helicopter,F-16 Fighting Falcon
+без инструментов,claude-sonnet-4.6,fresh-46,fresh,False,1,0,0.011157,13.1,No verifiable information found about this event,five
+без инструментов,claude-sonnet-4.6,fresh-47,fresh,True,1,0,0.012021,14.3,Union Education Minister,Education Minister
+без инструментов,claude-sonnet-4.6,fresh-48,fresh,False,1,0,0.006762,6.9,Rustem Umerov,Mykhailo Fedorov
+без инструментов,claude-sonnet-4.6,fresh-49,fresh,True,1,0,0.01065,11.7,life imprisonment,life imprisonment
+без инструментов,claude-sonnet-4.6,fresh-50,fresh,False,1,0,0.01338,14.9,"₺373,000","802,500 lira"
+без инструментов,claude-sonnet-4.6,fresh-51,fresh,False,1,0,0.005013,5.9,Nicolas Catel,Bruno Foucher
+без инструментов,claude-sonnet-4.6,fresh-52,fresh,False,1,0,0.006219,6.0,5.1,5.2
+без инструментов,claude-sonnet-4.6,fresh-53,fresh,False,1,0,0.004002,3.8,Jeff Vaca,Tonya McBride Robles
+без инструментов,claude-sonnet-4.6,fresh-54,fresh,False,1,0,0.003831,3.9,11 people,80
+без инструментов,claude-sonnet-4.6,fresh-55,fresh,False,1,0,0.002931,3.3,1 people,two
+без инструментов,claude-sonnet-4.6,fresh-56,fresh,True,1,0,0.005382,5.6,3%,3%
+без инструментов,claude-sonnet-4.6,fresh-57,fresh,False,1,0,0.016683,32.6,Ollanta Humala,Yoon Suk Yeol
+без инструментов,claude-sonnet-4.6,fresh-58,fresh,False,1,0,0.004608,19.2,BYD,BYD Auto
+без инструментов,claude-sonnet-4.6,fresh-59,fresh,False,1,0,0.007023,22.0,Shepard Fairey,Carson Ting
+без инструментов,claude-sonnet-4.6,fresh-60,fresh,False,1,0,0.009759,23.4,48 people,209
+без инструментов,claude-sonnet-4.6,fresh-61,fresh,False,1,0,0.004713,5.5,22 people,Fourteen
+без инструментов,claude-sonnet-4.6,fresh-62,fresh,False,1,0,0.009729,9.9,life in prison,13 years
+без инструментов,claude-sonnet-4.6,fresh-63,fresh,False,1,0,0.008646,9.7,3 people,Two
+без инструментов,claude-sonnet-4.6,fresh-64,fresh,False,1,0,0.015663,12.5,Head of Poltava Oblast Military Administration,mayor of Lutsk
+без инструментов,claude-sonnet-4.6,fresh-65,fresh,False,1,0,0.00336,3.4,18 people,16
+без инструментов,claude-sonnet-4.6,fresh-66,fresh,False,1,0,0.002709,3.1,15 people,at least six
+без инструментов,claude-sonnet-4.6,fresh-67,fresh,False,1,0,0.014076,14.0,Anna Lapwood,Liam Nassereddine
+без инструментов,claude-sonnet-4.6,fresh-68,fresh,True,1,0,0.020169,19.3,Mark Carney,Mark Carney
+без инструментов,claude-sonnet-4.6,fresh-69,fresh,False,1,0,0.001404,1.4,Wrocław,Leipzig
+без инструментов,claude-sonnet-4.6,fresh-70,fresh,False,1,0,0.009693,11.2,Eurostar begins direct services between London and Amsterdam,night train service
+без инструментов,claude-sonnet-4.6,fresh-71,fresh,False,1,0,0.004224,4.8,Daniil,Nikita Solovyov
+без инструментов,claude-sonnet-4.6,fresh-72,fresh,False,1,0,0.029394,34.9,This question cannot be verified — no credible information f,Dharmendra Pradhan
+без инструментов,claude-sonnet-4.6,fresh-73,fresh,False,1,0,0.008373,9.0,Yoon Suk Yeol,Han Hak-ja
+без инструментов,claude-sonnet-4.6,fresh-74,fresh,False,1,0,0.005061,6.0,Nicaragua's National Assembly,Daniel Ortega
+без инструментов,claude-sonnet-4.6,fresh-75,fresh,False,1,0,0.003255,3.5,Senegal,Novokuznetsk
+без инструментов,claude-sonnet-4.6,fresh-76,fresh,False,1,0,0.005874,6.2,life in prison,life imprisonment
+без инструментов,claude-sonnet-4.6,fresh-77,fresh,False,1,0,0.003021,78.8,Let me search for the result.,Carlos Vila Nova
+без инструментов,claude-sonnet-4.6,fresh-78,fresh,False,1,0,0.020268,37.0,16.0 months,13.2 months
+без инструментов,claude-sonnet-4.6,fresh-79,fresh,False,1,0,0.008742,22.1,4 games,three
+без инструментов,claude-sonnet-4.6,fresh-80,fresh,False,1,0,0.0222,26.1,SEBI's Regulation on Related Party Transactions,"UGC Equity Regulations, 2026"
+без инструментов,claude-sonnet-4.6,fresh-81,fresh,False,1,0,0.022146,26.6,"9,623,918",8.15m
+без инструментов,claude-sonnet-4.6,fresh-82,fresh,False,1,0,0.005421,6.3,26 people,28 people
+без инструментов,claude-sonnet-4.6,fresh-83,fresh,False,1,0,0.005823,6.1,Molotov cocktail,improvised explosive device
+без инструментов,claude-sonnet-4.6,fresh-84,fresh,False,1,0,0.011679,10.5,6 games,eight games
+без инструментов,claude-sonnet-4.6,fresh-85,fresh,False,1,0,0.013263,13.0,35.9°C,38 °C
+без инструментов,claude-sonnet-4.6,fresh-86,fresh,False,1,0,0.003846,4.2,£15.4 billion,£30.4bn
+без инструментов,claude-sonnet-4.6,fresh-87,fresh,False,1,0,0.003948,4.6,Gustavo Adrianzén,José Jerí
+без инструментов,claude-sonnet-4.6,fresh-88,fresh,False,1,0,0.006567,7.8,"Zamami Island, Okinawa Prefecture","Henoko, Okinawa Prefecture"
+без инструментов,claude-sonnet-4.6,fresh-89,fresh,False,1,0,0.005337,5.1,Don Sweeney,Doug Armstrong
+без инструментов,claude-sonnet-4.6,fresh-90,fresh,False,1,0,0.003252,3.1,UK Health Security Agency,Imperial College London
+без инструментов,claude-sonnet-4.6,fresh-91,fresh,False,1,0,0.009021,9.0,Rs 26.28 crore,"₹25,863 crore"
+без инструментов,claude-sonnet-4.6,fresh-92,fresh,False,1,0,0.007947,7.8,Gerardo Vargas Landeros,Rubén Rocha Moya
+без инструментов,claude-sonnet-4.6,fresh-93,fresh,False,1,0,0.012621,14.1,Unknown (the 2026 FIFA World Cup final has not yet been play,Spain
+без инструментов,claude-sonnet-4.6,fresh-94,fresh,False,1,0,0.030069,27.6,10,11th
+без инструментов,claude-sonnet-4.6,fresh-95,fresh,True,1,0,0.005115,4.5,India,India
+без инструментов,claude-sonnet-4.6,fresh-96,fresh,False,1,0,0.016845,14.2,Kazan,Istanbul
+без инструментов,claude-sonnet-4.6,fresh-97,fresh,False,1,0,0.003444,3.4,"Truist Park, Cumberland, Georgia",Citizens Bank Park
+без инструментов,claude-sonnet-4.6,fresh-98,fresh,False,1,0,0.014457,14.5,Joint Comprehensive Plan of Action II,Islamabad Memorandum
+без инструментов,claude-sonnet-4.6,fresh-99,fresh,True,1,0,0.012426,14.9,Elon Musk,Elon Musk
+без инструментов,claude-sonnet-4.6,fresh-100,fresh,False,1,0,0.01926,17.1,"374,654 km (232,797 mi)","252,756 miles"
+без инструментов,claude-sonnet-4.6,fresh-101,fresh,False,1,0,0.03582,30.5,30 days,10-day
+без инструментов,claude-sonnet-4.6,fresh-102,fresh,False,1,0,0.005382,7.0,Yaroslav Hrytsak,Oleksandr Dovhach
+без инструментов,claude-sonnet-4.6,fresh-103,fresh,False,1,0,0.006204,7.5,Óscar Ugarte,José María Balcázar
+без инструментов,claude-sonnet-4.6,fresh-104,fresh,True,1,0,0.003114,3.3,21 people,21
+без инструментов,claude-sonnet-4.6,fresh-105,fresh,False,1,0,0.004767,4.9,10 yuan (under 800 km) and 20 yuan (over 800 km),¥60–120
+без инструментов,claude-sonnet-4.6,fresh-106,fresh,False,1,0,0.003975,3.7,a new terminal,GRU Airport People Mover
+без инструментов,claude-sonnet-4.6,fresh-107,fresh,False,1,0,0.003084,3.7,presidential election,2026 Beninese parliamentary election
+без инструментов,claude-sonnet-4.6,fresh-108,fresh,False,1,0,0.010659,10.4,"Esperance, Western Australia",Michaelmas Island
+без инструментов,claude-sonnet-4.6,fresh-109,fresh,False,1,0,0.003933,4.7,terrorist incident,conspiracy to commit arson
+без инструментов,claude-sonnet-4.6,fresh-110,fresh,False,1,0,0.005847,6.9,Buddy Carter,Clay Fuller
+без инструментов,claude-sonnet-4.6,fresh-111,fresh,True,1,0,0.015666,16.9,Prime Minister of the United Kingdom,prime minister
+без инструментов,claude-sonnet-4.6,fresh-112,fresh,True,1,0,0.128778,97.2,SMILE,SMILE
+без инструментов,claude-sonnet-4.6,fresh-113,fresh,False,1,0,0.004377,5.3,"1,000",850
+без инструментов,claude-sonnet-4.6,fresh-114,fresh,False,1,0,0.012795,12.0,multi-sport facility,Urgent Care Centre
+без инструментов,claude-sonnet-4.6,fresh-115,fresh,False,1,0,0.009861,19.7,15 people,66
+без инструментов,claude-sonnet-4.6,fresh-116,fresh,False,1,0,0.011541,16.5,Riviera Country Club,Nelly Korda
+без инструментов,claude-sonnet-4.6,fresh-117,fresh,False,1,0,0.025299,23.7,Line 7,Line S2
+без инструментов,claude-sonnet-4.6,fresh-118,fresh,False,1,0,0.008466,9.4,Vincent van Gogh,Antonello da Messina
+без инструментов,claude-sonnet-4.6,fresh-119,fresh,False,1,0,0.007872,9.3,Edinburgh (to Shawfair and Blindwells) and Beaufort–Meru (Ke,Baku and Tbilisi
+без инструментов,claude-sonnet-4.6,fresh-120,fresh,False,1,0,0.02148,25.9,Operation Sentinel,Operation Southern Spear
+без инструментов,claude-sonnet-4.6,fresh-121,fresh,False,1,0,0.012861,15.4,5.7,5.6
+без инструментов,claude-sonnet-4.6,fresh-122,fresh,True,1,0,0.007083,9.7,Angus Taylor,Angus Taylor
+без инструментов,claude-sonnet-4.6,fresh-123,fresh,False,1,0,0.015918,19.5,Senegal,Burkina Faso
+без инструментов,claude-sonnet-4.6,fresh-124,fresh,False,1,0,0.006336,7.8,Bochum,Kehl
+без инструментов,claude-sonnet-4.6,fresh-125,own,False,1,0,0.005316,6.7,Złotów,Biała Podlaska
+без инструментов,claude-sonnet-4.6,fresh-126,own,False,1,0,0.0042,4.4,Order of Merit of the Republic of Poland,Order of the White Eagle
+без инструментов,claude-sonnet-4.6,fresh-127,own,False,1,0,0.013101,11.8,4.2,4.9
+без инструментов,claude-sonnet-4.6,fresh-128,own,True,1,0,0.006081,6.4,4 years and 10 months,four years
+без инструментов,claude-sonnet-4.6,fresh-129,own,False,1,0,0.003747,3.8,17 homes,more than 100
+без инструментов,claude-sonnet-4.6,fresh-130,own,False,1,0,0.012843,13.1,40 months,47 months
+без инструментов,claude-sonnet-4.6,fresh-131,own,False,1,0,0.001914,2.2,Kristianstad,Fagersta
+без инструментов,claude-sonnet-4.6,fresh-132,own,False,1,0,0.005157,5.7,13 people,30
+без инструментов,claude-sonnet-4.6,fresh-133,own,False,1,0,0.033066,31.0,Titan Syailendra,Dadan Hindayana
+без инструментов,claude-sonnet-4.6,fresh-134,own,False,1,0,0.006996,8.0,7 years,75 years
+без инструментов,claude-sonnet-4.6,fresh-135,own,False,1,0,0.032688,34.0,Teboho Mokoena,Thapelo Maseko
+без инструментов,claude-sonnet-4.6,fresh-136,own,False,1,0,0.009066,85.2,15 people,Forty-one
+без инструментов,claude-sonnet-4.6,fresh-137,own,False,1,0,0.009012,8.8,51.23%,49.66%
+без инструментов,claude-sonnet-4.6,fresh-138,own,False,1,0,0.009576,11.6,€6.4 billion,€16.4 billion
+без инструментов,claude-sonnet-4.6,fresh-139,own,False,1,0,0.004518,5.0,Siwa Oasis,Dakhla Oasis
+без инструментов,claude-sonnet-4.6,fresh-140,own,False,1,0,0.015714,17.3,S4714,S301
+без инструментов,claude-sonnet-4.6,fresh-141,own,False,1,0,0.00792,8.6,glycolaldehyde,erythrulose
+без инструментов,claude-sonnet-4.6,fresh-142,own,False,1,0,0.012759,12.2,Nodirbek Abdusattorov,Vincent Keymer
+без инструментов,claude-sonnet-4.6,fresh-143,own,False,1,0,0.008472,9.1,Magnus Carlsen,Hans Niemann
+без инструментов,claude-sonnet-4.6,fresh-144,own,False,1,0,0.003657,4.0,€375 million,€3 billion
+без инструментов,claude-sonnet-4.6,fresh-145,own,False,1,0,0.004929,5.3,Odense,Ødum
+без инструментов,claude-sonnet-4.6,fresh-146,own,False,1,0,0.007437,9.1,Willisau,Aarau
+без инструментов,claude-sonnet-4.6,fresh-147,own,False,1,0,0.003975,5.3,4 people,"2,295"
+без инструментов,claude-sonnet-4.6,fresh-148,own,False,1,0,0.011994,11.9,54.27%,50.135%
+без инструментов,claude-sonnet-4.6,fresh-149,own,False,1,0,0.004605,5.1,Cătălin Drulă,Adrian Veștea
+без инструментов,gpt-4o-mini,fresh-0,fresh,True,1,0,8.88e-05,1.3,15 March,15 March
+без инструментов,gpt-4o-mini,fresh-1,fresh,False,1,0,4.995e-05,76.3,19 February 2025,22 March
+без инструментов,gpt-4o-mini,fresh-2,fresh,False,1,0,5.535e-05,1.2,I will find the relevant information in the article about ev,Miguel Díaz-Canel
+без инструментов,gpt-4o-mini,fresh-3,fresh,False,1,0,8.43e-05,1.5,unspecified agreement,a strategic partnership agreement
+без инструментов,gpt-4o-mini,fresh-4,fresh,False,1,0,5.82e-05,1.4,I will look up the relevant article for 2026 in Australia to,A total fire ban
+без инструментов,gpt-4o-mini,fresh-5,fresh,False,1,0,9.6e-05,1.3,Unknown,two people
+без инструментов,gpt-4o-mini,fresh-6,fresh,False,1,0,6.99e-05,1.6,I will search for the relevant article on the events of 2026,"4,500"
+без инструментов,gpt-4o-mini,fresh-7,fresh,False,1,0,9.84e-05,2.0,Unknown,Deniz Göktaş
+без инструментов,gpt-4o-mini,fresh-8,fresh,False,1,0,7.65e-05,2.1,unknown,Pavel Durov
+без инструментов,gpt-4o-mini,fresh-9,fresh,False,1,0,6.975e-05,1.7,Tokyo,New Delhi
+без инструментов,gpt-4o-mini,fresh-10,fresh,False,1,0,8.445e-05,1.2,11 people,Twelve
+без инструментов,gpt-4o-mini,fresh-11,fresh,False,1,0,5.58e-05,2.2,I will look for the relevant article covering events in 2026,Helter Skelter
+без инструментов,gpt-4o-mini,fresh-12,fresh,False,1,0,9.435e-05,1.8,0,"700,000"
+без инструментов,gpt-4o-mini,fresh-13,fresh,False,1,0,8.07e-05,1.9,42.6°C,41.5 °C
+без инструментов,gpt-4o-mini,fresh-14,fresh,False,1,0,8.58e-05,1.3,unknown city,Ciudad Rodrigo
+без инструментов,gpt-4o-mini,fresh-15,fresh,False,1,0,8.85e-05,1.8,unknown,Oleksandr Syrskyi
+без инструментов,gpt-4o-mini,fresh-16,fresh,False,1,0,7.215e-05,1.4,<team name>,Montreal Victoire
+без инструментов,gpt-4o-mini,fresh-17,fresh,False,1,0,8.46e-05,3.9,Gaganyaan-1,EOS-05
+без инструментов,gpt-4o-mini,fresh-18,fresh,False,1,0,5.31e-05,1.0,Let me find the relevant information on this topic.,13 July
+без инструментов,gpt-4o-mini,fresh-19,fresh,False,1,0,9.165e-05,1.3,Disney Channel,Disney Kids & Family
+без инструментов,gpt-4o-mini,fresh-20,fresh,False,1,0,8.985e-05,1.8,32 teams,single-elimination
+без инструментов,gpt-4o-mini,fresh-21,fresh,False,1,0,5.07e-05,1.0,I will find the relevant information.,Gavin Snider
+без инструментов,gpt-4o-mini,fresh-22,fresh,False,1,0,5.505e-05,1.3,I will look for the relevant information in an appropriate a,Clara and the Below
+без инструментов,gpt-4o-mini,fresh-23,fresh,False,1,0,8.925e-05,1.1,unknown,German Galushchenko
+без инструментов,gpt-4o-mini,fresh-24,fresh,False,1,0,5.28e-05,0.9,I will find the relevant information in the appropriate arti,a drought
+без инструментов,gpt-4o-mini,fresh-25,fresh,False,1,0,9.42e-05,1.9,unspecified declaration,"""open war"""
+без инструментов,gpt-4o-mini,fresh-26,fresh,False,1,0,7.425e-05,2.1,5 people,nine
+без инструментов,gpt-4o-mini,fresh-27,fresh,False,1,0,5.46e-05,1.0,I will find the relevant article to provide the answer.,Markus Hinterhäuser
+без инструментов,gpt-4o-mini,fresh-28,fresh,False,1,0,7.605e-05,1.4,I need to look up current events in 2026 to find the accurat,nine
+без инструментов,gpt-4o-mini,fresh-29,fresh,False,1,0,9.165e-05,1.5,12 people,43
+без инструментов,gpt-4o-mini,fresh-30,fresh,False,1,0,7.2e-05,1.9,Istanbul,Ankara
+без инструментов,gpt-4o-mini,fresh-31,fresh,False,1,0,9.435e-05,1.3,ruling party,Aibek Dädebai
+без инструментов,gpt-4o-mini,fresh-32,fresh,False,1,0,5.895e-05,0.9,I will look up the information regarding the Archibald Prize,Richard Lewer
+без инструментов,gpt-4o-mini,fresh-33,fresh,False,1,0,0.00011025,2.5,No information available.,Marilyn Gladu
+без инструментов,gpt-4o-mini,fresh-34,fresh,False,1,0,7.245e-05,2.4,6.4 magnitude,6.3
+без инструментов,gpt-4o-mini,fresh-35,fresh,False,1,0,6.345e-05,1.9,I will look for information on events that happened in Febru,Dina Levačić
+без инструментов,gpt-4o-mini,fresh-36,fresh,False,1,0,9.105e-05,1.7,0 people,129
+без инструментов,gpt-4o-mini,fresh-37,fresh,False,1,0,9.24e-05,1.3,10 June,15 June
+без инструментов,gpt-4o-mini,fresh-38,fresh,False,1,0,7.695e-05,1.8,Unknown,Chief Minister
+без инструментов,gpt-4o-mini,fresh-39,fresh,False,1,0,5.52e-05,1.3,I will check the relevant article for events in Spain in 202,Gelida
+без инструментов,gpt-4o-mini,fresh-40,fresh,False,1,0,9.27e-05,1.4,prominent journalist,Vladimir Alekseyev
+без инструментов,gpt-4o-mini,fresh-41,fresh,False,1,0,7.44e-05,1.6,0,Thirty thousand people
+без инструментов,gpt-4o-mini,fresh-42,fresh,False,1,0,5.88e-05,1.2,I will find the relevant article for 2026 events in India to,Prime Minister Narendra Modi
+без инструментов,gpt-4o-mini,fresh-43,fresh,False,1,0,6.435e-05,1.3,I will search for the appropriate information regarding the ,Zohran Mamdani
+без инструментов,gpt-4o-mini,fresh-44,fresh,False,1,0,6.06e-05,1.5,I will look up the relevant information in the article about,LHS 1140 b
+без инструментов,gpt-4o-mini,fresh-45,fresh,False,1,0,5.85e-05,0.9,I will look for the relevant information about events in 202,F-16 Fighting Falcon
+без инструментов,gpt-4o-mini,fresh-46,fresh,False,1,0,5.91e-05,1.5,I will look for the relevant article for the year 2026 to fi,five
+без инструментов,gpt-4o-mini,fresh-47,fresh,False,1,0,5.385e-05,1.4,I will look up the relevant information from a suitable sour,Education Minister
+без инструментов,gpt-4o-mini,fresh-48,fresh,False,1,0,8.37e-05,1.3,unknown,Mykhailo Fedorov
+без инструментов,gpt-4o-mini,fresh-49,fresh,False,1,0,8.97e-05,2.2,Unknown,life imprisonment
+без инструментов,gpt-4o-mini,fresh-50,fresh,False,1,0,5.19e-05,1.1,I will find the relevant article first.,"802,500 lira"
+без инструментов,gpt-4o-mini,fresh-51,fresh,False,1,0,9.6e-05,1.5,Valérie Le Roy,Bruno Foucher
+без инструментов,gpt-4o-mini,fresh-52,fresh,False,1,0,7.335e-05,1.7,5.0,5.2
+без инструментов,gpt-4o-mini,fresh-53,fresh,False,1,0,9.93e-05,1.4,Unknown,Tonya McBride Robles
+без инструментов,gpt-4o-mini,fresh-54,fresh,False,1,0,0.0001152,1.7,unknown,80
+без инструментов,gpt-4o-mini,fresh-55,fresh,False,1,0,9.885e-05,1.4,100 people,two
+без инструментов,gpt-4o-mini,fresh-56,fresh,True,1,0,8.715e-05,1.8,3%,3%
+без инструментов,gpt-4o-mini,fresh-57,fresh,False,1,0,5.325e-05,0.9,I will find the relevant information from the appropriate so,Yoon Suk Yeol
+без инструментов,gpt-4o-mini,fresh-58,fresh,False,1,0,0.0001002,1.4,BYD,BYD Auto
+без инструментов,gpt-4o-mini,fresh-59,fresh,False,1,0,6.18e-05,1.6,I will look for the information regarding the official poste,Carson Ting
+без инструментов,gpt-4o-mini,fresh-60,fresh,False,1,0,8.16e-05,1.8,0 people,209
+без инструментов,gpt-4o-mini,fresh-61,fresh,False,1,0,6.96e-05,1.8,7 people,Fourteen
+без инструментов,gpt-4o-mini,fresh-62,fresh,False,1,0,7.935e-05,1.6,10 years,13 years
+без инструментов,gpt-4o-mini,fresh-63,fresh,False,1,0,5.025e-05,0.9,I will find the relevant information.,Two
+без инструментов,gpt-4o-mini,fresh-64,fresh,False,1,0,5.835e-05,1.0,"I will search for information on the events of March 2026. 
+",mayor of Lutsk
+без инструментов,gpt-4o-mini,fresh-65,fresh,False,1,0,0.00011565,2.5,0 people,16
+без инструментов,gpt-4o-mini,fresh-66,fresh,False,1,0,8.115e-05,1.2,10 people,at least six
+без инструментов,gpt-4o-mini,fresh-67,fresh,False,1,0,6e-05,2.0,I will search for the relevant article about events in 2026 ,Liam Nassereddine
+без инструментов,gpt-4o-mini,fresh-68,fresh,False,1,0,5.07e-05,1.0,I will find the relevant information.,Mark Carney
+без инструментов,gpt-4o-mini,fresh-69,fresh,False,1,0,7.92e-05,1.2,Athens,Leipzig
+без инструментов,gpt-4o-mini,fresh-70,fresh,False,1,0,8.58e-05,2.4,Eurostar service from London to Amsterdam,night train service
+без инструментов,gpt-4o-mini,fresh-71,fresh,False,1,0,9.525e-05,1.4,unknown,Nikita Solovyov
+без инструментов,gpt-4o-mini,fresh-72,fresh,False,1,0,6.78e-05,1.1,I will look for information about events in 2026 in India re,Dharmendra Pradhan
+без инструментов,gpt-4o-mini,fresh-73,fresh,False,1,0,9.6e-05,1.4,unknown,Han Hak-ja
+без инструментов,gpt-4o-mini,fresh-74,fresh,False,1,0,8.76e-05,1.3,Central Electoral Board,Daniel Ortega
+без инструментов,gpt-4o-mini,fresh-75,fresh,False,1,0,9.27e-05,1.8,India,Novokuznetsk
+без инструментов,gpt-4o-mini,fresh-76,fresh,False,1,0,7.905e-05,1.8,No information found.,life imprisonment
+без инструментов,gpt-4o-mini,fresh-77,fresh,False,1,0,8.01e-05,1.1,unknown,Carlos Vila Nova
+без инструментов,gpt-4o-mini,fresh-78,fresh,False,1,0,9.375e-05,2.2,9 months,13.2 months
+без инструментов,gpt-4o-mini,fresh-79,fresh,False,1,0,6.255e-05,1.0,"I'll check the article ""2026 in sports"" for details on the E",three
+без инструментов,gpt-4o-mini,fresh-80,fresh,False,1,0,0.00011745,2.4,unknown regulation,"UGC Equity Regulations, 2026"
+без инструментов,gpt-4o-mini,fresh-81,fresh,False,1,0,7.74e-05,1.9,unknown,8.15m
+без инструментов,gpt-4o-mini,fresh-82,fresh,False,1,0,8.055e-05,1.4,0,28 people
+без инструментов,gpt-4o-mini,fresh-83,fresh,False,1,0,8.715e-05,1.7,grenade,improvised explosive device
+без инструментов,gpt-4o-mini,fresh-84,fresh,False,1,0,8.58e-05,2.2,2 games,eight games
+без инструментов,gpt-4o-mini,fresh-85,fresh,False,1,0,0.0001062,1.5,unknown,38 °C
+без инструментов,gpt-4o-mini,fresh-86,fresh,False,1,0,6.54e-05,1.1,0,£30.4bn
+без инструментов,gpt-4o-mini,fresh-87,fresh,False,1,0,8.52e-05,2.2,Pedro Castillo,José Jerí
+без инструментов,gpt-4o-mini,fresh-88,fresh,False,1,0,9.33e-05,1.4,Unknown,"Henoko, Okinawa Prefecture"
+без инструментов,gpt-4o-mini,fresh-89,fresh,False,1,0,8.97e-05,1.6,unknown,Doug Armstrong
+без инструментов,gpt-4o-mini,fresh-90,fresh,False,1,0,8.775e-05,1.6,the Met Office,Imperial College London
+без инструментов,gpt-4o-mini,fresh-91,fresh,False,1,0,0.0001059,2.3,unknown,"₹25,863 crore"
+без инструментов,gpt-4o-mini,fresh-92,fresh,True,1,0,7.635e-05,2.4,Rubén Rocha Moya,Rubén Rocha Moya
+без инструментов,gpt-4o-mini,fresh-93,fresh,False,1,0,8.34e-05,1.9,Unknown,Spain
+без инструментов,gpt-4o-mini,fresh-94,fresh,False,1,0,8.4e-05,2.9,unknown,11th
+без инструментов,gpt-4o-mini,fresh-95,fresh,False,1,0,6.84e-05,1.0,unknown,India
+без инструментов,gpt-4o-mini,fresh-96,fresh,False,1,0,7.845e-05,2.1,"Madrid, Spain",Istanbul
+без инструментов,gpt-4o-mini,fresh-97,fresh,True,1,0,8.445e-05,1.5,"Citizens Bank Park, Philadelphia",Citizens Bank Park
+без инструментов,gpt-4o-mini,fresh-98,fresh,False,1,0,7.59e-05,1.9,,Islamabad Memorandum
+без инструментов,gpt-4o-mini,fresh-99,fresh,False,1,0,5.805e-05,1.4,I will look up information regarding the events in June 2026,Elon Musk
+без инструментов,gpt-4o-mini,fresh-100,fresh,False,1,0,0.0001095,2.3,400000 km,"252,756 miles"
+без инструментов,gpt-4o-mini,fresh-101,fresh,False,1,0,8.595e-05,1.2,3 months,10-day
+без инструментов,gpt-4o-mini,fresh-102,fresh,False,1,0,8.835e-05,1.5,unknown,Oleksandr Dovhach
+без инструментов,gpt-4o-mini,fresh-103,fresh,False,1,0,5.52e-05,1.2,I need to find the relevant information in a suitable source,José María Balcázar
+без инструментов,gpt-4o-mini,fresh-104,fresh,False,1,0,7.98e-05,1.2,10 people,21
+без инструментов,gpt-4o-mini,fresh-105,fresh,False,1,0,9.09e-05,2.6,increase in fuel surcharges,¥60–120
+без инструментов,gpt-4o-mini,fresh-106,fresh,False,1,0,5.79e-05,1.7,"I will find the relevant information for you. 
+
+Looking up t",GRU Airport People Mover
+без инструментов,gpt-4o-mini,fresh-107,fresh,False,1,0,8.76e-05,1.7,no event,2026 Beninese parliamentary election
+без инструментов,gpt-4o-mini,fresh-108,fresh,False,1,0,5.535e-05,1.3,I will check the relevant articles for information about eve,Michaelmas Island
+без инструментов,gpt-4o-mini,fresh-109,fresh,False,1,0,7.365e-05,1.1,terrorist incident,conspiracy to commit arson
+без инструментов,gpt-4o-mini,fresh-110,fresh,False,1,0,7.335e-05,1.3,unknown,Clay Fuller
+без инструментов,gpt-4o-mini,fresh-111,fresh,False,1,0,0.00010245,2.2,Leader of the Labour Party,prime minister
+без инструментов,gpt-4o-mini,fresh-112,fresh,False,1,0,9.87e-05,2.5,EU-China Earth observation satellite mission,SMILE
+без инструментов,gpt-4o-mini,fresh-113,fresh,False,1,0,8.37e-05,1.5,0 job cuts,850
+без инструментов,gpt-4o-mini,fresh-114,fresh,False,1,0,7.605e-05,1.2,sports complex,Urgent Care Centre
+без инструментов,gpt-4o-mini,fresh-115,fresh,False,1,0,8.235e-05,1.6,31 people,66
+без инструментов,gpt-4o-mini,fresh-116,fresh,False,1,0,5.61e-05,1.4,I will find the relevant information about the 2026 U.S. Wom,Nelly Korda
+без инструментов,gpt-4o-mini,fresh-117,fresh,False,1,0,6.78e-05,2.0,Line 5,Line S2
+без инструментов,gpt-4o-mini,fresh-118,fresh,False,1,0,5.325e-05,1.2,I will look for the relevant information in the appropriate ,Antonello da Messina
+без инструментов,gpt-4o-mini,fresh-119,fresh,False,1,0,7.755e-05,1.1,no information,Baku and Tbilisi
+без инструментов,gpt-4o-mini,fresh-120,fresh,False,1,0,0.00011385,2.2,enforcement operation,Operation Southern Spear
+без инструментов,gpt-4o-mini,fresh-121,fresh,False,1,0,9.66e-05,1.8,5.0,5.6
+без инструментов,gpt-4o-mini,fresh-122,fresh,False,1,0,8.175e-05,2.4,a political opponent,Angus Taylor
+без инструментов,gpt-4o-mini,fresh-123,fresh,False,1,0,6.525e-05,1.2,I will find the relevant article for 2026 and check the info,Burkina Faso
+без инструментов,gpt-4o-mini,fresh-124,fresh,False,1,0,7.965e-05,1.6,Munich,Kehl
+без инструментов,gpt-4o-mini,fresh-125,own,False,1,0,7.29e-05,1.2,unknown,Biała Podlaska
+без инструментов,gpt-4o-mini,fresh-126,own,True,1,0,9.915e-05,1.5,Order of the White Eagle,Order of the White Eagle
+без инструментов,gpt-4o-mini,fresh-127,own,False,1,0,8.955e-05,1.9,5.2,4.9
+без инструментов,gpt-4o-mini,fresh-128,own,False,1,0,8.325e-05,1.4,0 years,four years
+без инструментов,gpt-4o-mini,fresh-129,own,False,1,0,6.39e-05,1.4,I will search for the relevant article regarding events in 2,more than 100
+без инструментов,gpt-4o-mini,fresh-130,own,False,1,0,0.000117,2.4,3 months,47 months
+без инструментов,gpt-4o-mini,fresh-131,own,False,1,0,8.13e-05,1.6,Trollhättan,Fagersta
+без инструментов,gpt-4o-mini,fresh-132,own,False,1,0,9.39e-05,1.6,35 people,30
+без инструментов,gpt-4o-mini,fresh-133,own,False,1,0,5.1e-05,1.2,I will find the relevant article.,Dadan Hindayana
+без инструментов,gpt-4o-mini,fresh-134,own,False,1,0,5.7e-05,0.9,I will find the relevant article for the year 2026 to obtain,75 years
+без инструментов,gpt-4o-mini,fresh-135,own,False,1,0,8.58e-05,2.1,unknown,Thapelo Maseko
+без инструментов,gpt-4o-mini,fresh-136,own,False,1,0,8.535e-05,1.6,0 people,Forty-one
+без инструментов,gpt-4o-mini,fresh-137,own,False,1,0,6.39e-05,1.7,I will look for the article about the events in Colombia in ,49.66%
+без инструментов,gpt-4o-mini,fresh-138,own,False,1,0,0.00010065,1.8,0,€16.4 billion
+без инструментов,gpt-4o-mini,fresh-139,own,False,1,0,6e-05,1.0,I will find the relevant article about the events of 2026 in,Dakhla Oasis
+без инструментов,gpt-4o-mini,fresh-140,own,False,1,0,9.06e-05,1.3,S4711,S301
+без инструментов,gpt-4o-mini,fresh-141,own,False,1,0,0.0001038,1.5,glycolaldehyde,erythrulose
+без инструментов,gpt-4o-mini,fresh-142,own,False,1,0,6.24e-05,1.0,I will look up the relevant information for the GCT Super Ch,Vincent Keymer
+без инструментов,gpt-4o-mini,fresh-143,own,False,1,0,7.665e-05,1.2,unknown,Hans Niemann
+без инструментов,gpt-4o-mini,fresh-144,own,False,1,0,0.0001035,2.4,2 billion,€3 billion
+без инструментов,gpt-4o-mini,fresh-145,own,False,1,0,5.34e-05,1.1,I'll look up the relevant information for 2026.,Ødum
+без инструментов,gpt-4o-mini,fresh-146,own,False,1,0,8.19e-05,1.8,Zug,Aarau
+без инструментов,gpt-4o-mini,fresh-147,own,False,1,0,7.725e-05,1.3,15 people,"2,295"
+без инструментов,gpt-4o-mini,fresh-148,own,False,1,0,9.915e-05,1.6,0%,50.135%
+без инструментов,gpt-4o-mini,fresh-149,own,False,1,0,7.14e-05,1.5,<not available>,Adrian Veștea
+поиск,gpt-4o-mini,fresh-1,fresh,True,2,1,0.00014655,3.6,22 March,22 March
+поиск,gpt-4o-mini,fresh-2,fresh,False,5,4,0.000858,10.2,Iran,Miguel Díaz-Canel
+поиск,gpt-4o-mini,fresh-4,fresh,False,4,3,0.00037905,8.0,"Combatting Antisemitism, Hate and Extremism (Criminal and Mi",A total fire ban
+поиск,gpt-4o-mini,fresh-3,fresh,False,5,5,0.0005157,13.2,0,a strategic partnership agreement
+поиск,gpt-4o-mini,fresh-5,fresh,True,2,1,0.00014445,3.0,2 people,two people
+поиск,gpt-4o-mini,fresh-6,fresh,False,2,1,0.0001633499999999,3.1,519 missing people,"4,500"
+поиск,gpt-4o-mini,fresh-0,fresh,False,5,4,0.0008145,15.7,Not found,15 March
+поиск,gpt-4o-mini,fresh-9,fresh,True,2,1,0.0001397999999999,3.1,"New Delhi, India",New Delhi
+поиск,gpt-4o-mini,fresh-10,fresh,False,4,3,0.00034425,8.1,unknown,Twelve
+поиск,gpt-4o-mini,fresh-7,fresh,False,9,7,0.0023811,18.3,Ekrem İmamoğlu,Deniz Göktaş
+поиск,gpt-4o-mini,fresh-8,fresh,False,9,7,0.00169065,18.8,Unknown person.,Pavel Durov
+поиск,gpt-4o-mini,fresh-12,fresh,False,4,3,0.0005676,8.4,Unknown,"700,000"
+поиск,gpt-4o-mini,fresh-11,fresh,False,9,9,0.0018475499999999,21.6,Unknown,Helter Skelter
+поиск,gpt-4o-mini,fresh-13,fresh,False,6,5,0.0013293,13.6,40°C,41.5 °C
+поиск,gpt-4o-mini,fresh-14,fresh,False,7,6,0.0012888,15.4,no incident,Ciudad Rodrigo
+поиск,gpt-4o-mini,fresh-16,fresh,True,4,3,0.0003984,8.9,Montreal Victoire,Montreal Victoire
+поиск,gpt-4o-mini,fresh-15,fresh,False,9,8,0.00127725,19.9,unknown.,Oleksandr Syrskyi
+поиск,gpt-4o-mini,fresh-20,fresh,True,2,1,0.00015285,2.9,single-elimination tournament,single-elimination
+поиск,gpt-4o-mini,fresh-19,fresh,False,6,4,0.0009642,11.1,Disney Television,Disney Kids & Family
+поиск,gpt-4o-mini,fresh-22,fresh,False,7,6,0.00087375,16.2,unknown,Clara and the Below
+поиск,gpt-4o-mini,fresh-21,fresh,False,4,3,0.00053505,28.9,unknown artist,Gavin Snider
+поиск,gpt-4o-mini,fresh-23,fresh,False,9,7,0.00151545,18.2,Unknown,German Galushchenko
+поиск,gpt-4o-mini,fresh-25,fresh,True,2,1,0.0001809,3.5,"""open war""","""open war"""
+поиск,gpt-4o-mini,fresh-24,fresh,True,6,5,0.00074445,14.3,drought,a drought
+поиск,gpt-4o-mini,fresh-27,fresh,True,9,7,0.00161745,18.4,Markus Hinterhäuser,Markus Hinterhäuser
+поиск,gpt-4o-mini,fresh-28,fresh,False,2,1,0.00015825,3.6,6 people,nine
+поиск,gpt-4o-mini,fresh-29,fresh,False,2,1,0.00015315,3.6,46 people,43
+поиск,gpt-4o-mini,fresh-26,fresh,False,9,8,0.00129135,28.9,0 people,nine
+поиск,gpt-4o-mini,fresh-30,fresh,False,4,3,0.00041115,7.0,Istanbul,Ankara
 поиск + страница v2,gpt-4o-mini,fresh-5,fresh,True,2,1,0.00018075,26.8,2 people,two people
 поиск + страница v2,gpt-4o-mini,fresh-3,fresh,True,3,2,0.0003057,42.9,strategic partnership agreement in the defense and energy se,a strategic partnership agreement
 поиск + страница v2,gpt-4o-mini,fresh-2,fresh,True,3,2,0.0004518,43.9,Miguel Díaz-Canel,Miguel Díaz-Canel

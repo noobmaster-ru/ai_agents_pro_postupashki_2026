@@ -41,7 +41,7 @@ def main():
     ap.add_argument("--out", default="results")
     ap.add_argument("--traces", default="traces")
     ap.add_argument("--budget", type=float, default=5.0)
-    ap.add_argument("--resume", action="store_true")
+    ap.add_argument("--restart", action="store_true", help="начать заново и перезаписать results_raw.csv и трейсы")
     ap.add_argument("--plan", default="", help="cheap:поиск,mid:поиск + страница; пусто = весь план")
     ap.add_argument("--suffix", default="", help="добавка к имени конфигурации, например ' v2'")
     args = ap.parse_args()
@@ -54,7 +54,9 @@ def main():
     out = Path(args.out)
     out.mkdir(exist_ok=True)
     raw_path = out / "results_raw.csv"
-    results = pd.read_csv(raw_path) if args.resume and raw_path.exists() else pd.DataFrame()
+    results = pd.read_csv(raw_path) if raw_path.exists() and not args.restart else pd.DataFrame()
+    if len(results):
+        print(f"продолжаю {raw_path}: уже есть {len(results)} строк, недостающие будут дописаны (--restart чтобы начать заново)", flush=True)
     exp = Experiment(client, registry, Path(args.traces), workers=args.workers)
 
     for model_name, base_config in plan:

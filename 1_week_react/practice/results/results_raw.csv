@@ -1,4 +1,425 @@
 config,model,id,source,correct,steps,tool_calls,cost,seconds,answer,gold
+поиск,gpt-4o-mini,fresh-17,fresh,False,4,3,0.00040515,44.5,unknown,EOS-05
+поиск,gpt-4o-mini,fresh-18,fresh,False,9,7,0.00230655,105.2,6 November 2019,13 July
+поиск,gpt-4o-mini,fresh-31,fresh,True,4,3,0.0005538,47.4,Aibek Dädebai,Aibek Dädebai
+поиск,gpt-4o-mini,fresh-32,fresh,True,2,1,0.00020925,18.2,Richard Lewer,Richard Lewer
+поиск,gpt-4o-mini,fresh-33,fresh,False,8,7,0.0011115,101.8,,Marilyn Gladu
+поиск,gpt-4o-mini,fresh-34,fresh,False,5,4,0.00048375,59.8,unknown,6.3
+поиск,gpt-4o-mini,fresh-35,fresh,False,9,7,0.00177165,109.4,unknown,Dina Levačić
+поиск,gpt-4o-mini,fresh-36,fresh,False,2,1,0.0001593,19.1,136 people,129
+поиск,gpt-4o-mini,fresh-37,fresh,False,9,8,0.00159345,114.2,unknown,15 June
+поиск,gpt-4o-mini,fresh-38,fresh,True,2,1,0.00016005,18.0,13th Chief Minister of Keralam,Chief Minister
+поиск,gpt-4o-mini,fresh-39,fresh,False,2,1,0.0001659,18.0,"Adamuz, Córdoba",Gelida
+поиск,gpt-4o-mini,fresh-40,fresh,False,7,6,0.00085365,85.2,unknown,Vladimir Alekseyev
+поиск,gpt-4o-mini,fresh-41,fresh,False,6,6,0.00090615,81.6,unknown,Thirty thousand people
+поиск,gpt-4o-mini,fresh-42,fresh,False,6,5,0.00083475,72.2,government official,Prime Minister Narendra Modi
+поиск,gpt-4o-mini,fresh-43,fresh,True,6,5,0.00077505,71.5,1 January 2026 Zohran Mamdani,Zohran Mamdani
+поиск,gpt-4o-mini,fresh-44,fresh,False,9,7,0.0010212,206.2,нет данных,LHS 1140 b
+поиск,gpt-4o-mini,fresh-45,fresh,False,8,7,0.0008997,193.8,military aircraft,F-16 Fighting Falcon
+поиск,gpt-4o-mini,fresh-46,fresh,True,2,1,0.0001614,17.9,5 people,five
+поиск,gpt-4o-mini,fresh-47,fresh,False,2,1,0.0001751999999999,17.6,Minister of Education,Education Minister
+поиск,gpt-4o-mini,fresh-48,fresh,True,3,2,0.00023925,31.0,Mykhailo Fedorov,Mykhailo Fedorov
+поиск,gpt-4o-mini,fresh-49,fresh,False,8,8,0.0012273,210.1,unknown,life imprisonment
+поиск,gpt-4o-mini,fresh-50,fresh,False,5,4,0.00062895,104.1,No information,"802,500 lira"
+поиск,gpt-4o-mini,fresh-51,fresh,False,9,9,0.0012303,187.1,Unknown,Bruno Foucher
+поиск,gpt-4o-mini,fresh-52,fresh,False,9,7,0.00111405,187.6,5.8,5.2
+поиск,gpt-4o-mini,fresh-53,fresh,False,4,3,0.0003549,53.3,Unknown,Tonya McBride Robles
+поиск,gpt-4o-mini,fresh-54,fresh,True,2,1,0.0001668,17.3,80 people,80
+поиск,gpt-4o-mini,fresh-55,fresh,True,3,2,0.0002322,31.0,2 people,two
+поиск,gpt-4o-mini,fresh-56,fresh,False,9,8,0.0021345,115.0,не известно,3%
+поиск,gpt-4o-mini,fresh-57,fresh,False,9,7,0.001197,117.3,Unknown,Yoon Suk Yeol
+поиск,gpt-4o-mini,fresh-58,fresh,False,9,7,0.00205785,105.5,BYD,BYD Auto
+поиск,gpt-4o-mini,fresh-59,fresh,False,3,3,0.00052815,41.2,unknown,Carson Ting
+поиск,gpt-4o-mini,fresh-60,fresh,False,3,2,0.0002636999999999,30.4,0 people,209
+поиск,gpt-4o-mini,fresh-61,fresh,True,2,1,0.00014385,17.5,14 people,Fourteen
+поиск,gpt-4o-mini,fresh-62,fresh,False,5,4,0.0005907,58.3,unknown,13 years
+поиск,gpt-4o-mini,fresh-63,fresh,False,3,2,0.00023745,32.1,unknown.,Two
+поиск,gpt-4o-mini,fresh-64,fresh,False,5,4,0.00068055,58.0,unknown,mayor of Lutsk
+поиск,gpt-4o-mini,fresh-65,fresh,False,8,7,0.00098505,113.1,0 people,16
+поиск,gpt-4o-mini,fresh-66,fresh,False,5,4,0.00071895,59.1,0 people,at least six
+поиск,gpt-4o-mini,fresh-67,fresh,False,6,6,0.00062175,110.2,Maayan Licht,Liam Nassereddine
+поиск,gpt-4o-mini,fresh-68,fresh,True,5,4,0.00044685,60.0,Mark Carney,Mark Carney
+поиск,gpt-4o-mini,fresh-69,fresh,True,2,1,0.0001503,18.7,Leipzig,Leipzig
+поиск,gpt-4o-mini,fresh-70,fresh,False,5,5,0.000519,82.8,Unknown,night train service
+поиск,gpt-4o-mini,fresh-71,fresh,False,2,1,0.00016245,18.5,Nikita Solovyovat,Nikita Solovyov
+поиск,gpt-4o-mini,fresh-72,fresh,True,2,1,0.00019665,19.1,Dharmendra Pradhan,Dharmendra Pradhan
+поиск,gpt-4o-mini,fresh-73,fresh,False,6,5,0.0006471,109.0,unknown,Han Hak-ja
+поиск,gpt-4o-mini,fresh-74,fresh,True,2,1,0.0001487999999999,32.3,Daniel Ortega,Daniel Ortega
+поиск,gpt-4o-mini,fresh-75,fresh,False,6,5,0.0008989499999999,110.8,unknown,Novokuznetsk
+поиск,gpt-4o-mini,fresh-76,fresh,False,5,5,0.00050805,94.4,life sentence,life imprisonment
+поиск,gpt-4o-mini,fresh-77,fresh,False,6,5,0.00066915,95.3,unknown,Carlos Vila Nova
+поиск,gpt-4o-mini,fresh-78,fresh,False,7,6,0.00108255,101.2,6 months,13.2 months
+поиск,gpt-4o-mini,fresh-79,fresh,False,7,7,0.0008988,105.0,0 games,three
+поиск,gpt-4o-mini,fresh-80,fresh,True,4,3,0.00033405,45.4,"UGC Equity Regulations, 2026","UGC Equity Regulations, 2026"
+поиск,gpt-4o-mini,fresh-81,fresh,False,2,1,0.0001685999999999,17.8,84 million passengers,8.15m
+поиск,gpt-4o-mini,fresh-82,fresh,False,2,1,0.0001728,17.9,28 deaths,28 people
+поиск,gpt-4o-mini,fresh-83,fresh,False,9,7,0.00152445,114.3,explosive device,improvised explosive device
+поиск,gpt-4o-mini,fresh-84,fresh,False,9,7,0.0011652,106.8,0 games,eight games
+поиск,gpt-4o-mini,fresh-85,fresh,False,2,1,0.0002097,18.4,38.0 °C,38 °C
+поиск,gpt-4o-mini,fresh-86,fresh,False,6,5,0.00062055,79.5,0,£30.4bn
+поиск,gpt-4o-mini,fresh-87,fresh,False,9,7,0.0011583,113.0,unknown,José Jerí
+поиск,gpt-4o-mini,fresh-88,fresh,False,5,4,0.0005472,61.7,no information,"Henoko, Okinawa Prefecture"
+поиск,gpt-4o-mini,fresh-89,fresh,False,9,7,0.00138375,111.8,unknown,Doug Armstrong
+поиск,gpt-4o-mini,fresh-90,fresh,False,2,1,0.00023415,18.5,experts,Imperial College London
+поиск,gpt-4o-mini,fresh-91,fresh,False,3,2,0.00025335,32.1,0,"₹25,863 crore"
+поиск,gpt-4o-mini,fresh-92,fresh,False,9,7,0.00107025,123.4,Данных нет.,Rubén Rocha Moya
+поиск,gpt-4o-mini,fresh-93,fresh,True,2,1,0.0001942499999999,17.8,Spain,Spain
+поиск,gpt-4o-mini,fresh-94,fresh,True,2,1,0.00015,18.0,11th place,11th
+поиск,gpt-4o-mini,fresh-95,fresh,True,2,1,0.0001675499999999,18.3,India,India
+поиск,gpt-4o-mini,fresh-96,fresh,True,2,2,0.00019395,27.7,"Istanbul, Turkey",Istanbul
+поиск,gpt-4o-mini,fresh-97,fresh,True,2,1,0.0001521,18.2,"Citizens Bank Park, Philadelphia, Pennsylvania",Citizens Bank Park
+поиск,gpt-4o-mini,fresh-98,fresh,True,4,3,0.0005634,64.9,Islamabad Memorandum,Islamabad Memorandum
+поиск,gpt-4o-mini,fresh-99,fresh,True,6,5,0.00078285,98.8,Elon Musk,Elon Musk
+поиск,gpt-4o-mini,fresh-100,fresh,True,2,1,0.0001944,18.3,252756 miles,"252,756 miles"
+поиск,gpt-4o-mini,fresh-101,fresh,False,2,1,0.00019335,18.0,10 days,10-day
+поиск,gpt-4o-mini,fresh-102,fresh,False,6,5,0.0007392,122.5,no information,Oleksandr Dovhach
+поиск,gpt-4o-mini,fresh-103,fresh,True,7,7,0.00083235,142.4,José María Balcázar,José María Balcázar
+поиск,gpt-4o-mini,fresh-104,fresh,False,2,1,0.00016935,52.5,unknown,21
+поиск,gpt-4o-mini,fresh-105,fresh,False,2,3,0.0003377999999999,57.7,increase likely due to fuel crisis,¥60–120
+поиск,gpt-4o-mini,fresh-106,fresh,False,6,5,0.0010502999999999,84.1,Not available,GRU Airport People Mover
+поиск,gpt-4o-mini,fresh-107,fresh,False,7,5,0.0008463,90.6,no event,2026 Beninese parliamentary election
+поиск,gpt-4o-mini,fresh-108,fresh,False,9,9,0.00137535,126.1,unknown location,Michaelmas Island
+поиск,gpt-4o-mini,fresh-109,fresh,False,4,3,0.00038325,45.3,antisemitic attacks,conspiracy to commit arson
+поиск,gpt-4o-mini,fresh-110,fresh,False,4,3,0.0004086,44.5,Everton Blair,Clay Fuller
+поиск,gpt-4o-mini,fresh-111,fresh,False,2,1,0.000186,18.3,leader of the Labour Party,prime minister
+поиск,gpt-4o-mini,fresh-112,fresh,False,9,8,0.0014148,115.4,нет данных,SMILE
+поиск,gpt-4o-mini,fresh-113,fresh,False,5,4,0.00078885,61.5,Unknown,850
+поиск,gpt-4o-mini,fresh-114,fresh,False,8,7,0.0015552,105.1,unknown facility,Urgent Care Centre
+поиск,gpt-4o-mini,fresh-115,fresh,True,2,1,0.00015405,19.0,66 people,66
+поиск,gpt-4o-mini,fresh-116,fresh,True,2,1,0.0001521,18.3,"Nelly Korda, Charley Hull, Gaby López",Nelly Korda
+поиск,gpt-4o-mini,fresh-117,fresh,False,8,7,0.0010245,103.0,unknown line,Line S2
+поиск,gpt-4o-mini,fresh-118,fresh,False,4,3,0.0005049,47.2,unknown,Antonello da Messina
+поиск,gpt-4o-mini,fresh-119,fresh,False,5,4,0.00067995,59.5,unknown,Baku and Tbilisi
+поиск,gpt-4o-mini,fresh-120,fresh,False,2,1,0.00019305,18.8,military raid in Venezuela,Operation Southern Spear
+поиск,gpt-4o-mini,fresh-121,fresh,False,9,7,0.0010635,170.0,unknown,5.6
+поиск,gpt-4o-mini,fresh-122,fresh,False,9,7,0.00160725,161.9,unknown,Angus Taylor
+поиск,gpt-4o-mini,fresh-123,fresh,False,9,7,0.0012426,175.6,Algeria,Burkina Faso
+поиск,gpt-4o-mini,fresh-124,fresh,False,9,8,0.0014901,160.8,no information,Kehl
+поиск,gpt-4o-mini,fresh-125,own,False,9,7,0.0011861999999999,171.6,unknown town,Biała Podlaska
+поиск,gpt-4o-mini,fresh-126,own,True,5,4,0.00067485,99.3,Order of the White Eagle,Order of the White Eagle
+поиск,gpt-4o-mini,fresh-127,own,False,4,3,0.0003800999999999,55.7,0,4.9
+поиск,gpt-4o-mini,fresh-128,own,True,2,1,0.0001839,21.5,4 years,four years
+поиск,gpt-4o-mini,fresh-129,own,False,2,1,0.0001569,22.7,100 homes,more than 100
+поиск,gpt-4o-mini,fresh-130,own,False,6,5,0.00067335,79.3,0 months,47 months
+поиск,gpt-4o-mini,fresh-131,own,False,6,5,0.00064365,75.6,unknown,Fagersta
+поиск,gpt-4o-mini,fresh-132,own,False,5,4,0.0004842,61.3,47 people,30
+поиск,gpt-4o-mini,fresh-133,own,False,9,7,0.0015267,104.3,unknown,Dadan Hindayana
+поиск,gpt-4o-mini,fresh-134,own,True,4,3,0.0003261,44.8,75 years,75 years
+поиск,gpt-4o-mini,fresh-135,own,False,6,5,0.00078225,71.7,unknown,Thapelo Maseko
+поиск,gpt-4o-mini,fresh-136,own,True,2,1,0.00016005,17.7,41 people,Forty-one
+поиск,gpt-4o-mini,fresh-137,own,True,2,1,0.00017235,17.3,49.66%,49.66%
+поиск,gpt-4o-mini,fresh-138,own,False,7,6,0.0010077,84.6,0,€16.4 billion
+поиск,gpt-4o-mini,fresh-139,own,False,6,6,0.0005781,80.9,Siwa Oasis,Dakhla Oasis
+поиск,gpt-4o-mini,fresh-140,own,False,9,7,0.0020139,198.0,S4711,S301
+поиск,gpt-4o-mini,fresh-141,own,True,8,7,0.0011733,137.9,erythrulose,erythrulose
+поиск,gpt-4o-mini,fresh-142,own,False,4,3,0.0003921,44.8,unknown,Vincent Keymer
+поиск,gpt-4o-mini,fresh-143,own,False,4,3,0.0004065,45.0,not specified,Hans Niemann
+поиск,gpt-4o-mini,fresh-144,own,False,9,7,0.001164,189.9,unknown,€3 billion
+поиск,gpt-4o-mini,fresh-145,own,False,9,7,0.00148575,164.9,unknown location,Ødum
+поиск,gpt-4o-mini,fresh-146,own,False,9,7,0.00117915,181.0,швейцарский город,Aarau
+поиск,gpt-4o-mini,fresh-147,own,False,3,2,0.00024675,91.1,6500 people,"2,295"
+поиск,gpt-4o-mini,fresh-148,own,False,9,7,0.00210405,135.0,51.7%,50.135%
+поиск,gpt-4o-mini,fresh-149,own,False,9,7,0.0011172,107.6,unknown,Adrian Veștea
+поиск + страница,gpt-4o-mini,fresh-0,fresh,True,4,3,0.00063915,36.0,15 March,15 March
+поиск + страница,gpt-4o-mini,fresh-1,fresh,True,2,1,0.00018465,17.7,22 March 2026,22 March
+поиск + страница,gpt-4o-mini,fresh-2,fresh,True,3,2,0.0004503,26.9,Miguel Díaz-Canel,Miguel Díaz-Canel
+поиск + страница,gpt-4o-mini,fresh-3,fresh,False,9,8,0.0013012499999999,176.4,cooperation agreement.,a strategic partnership agreement
+поиск + страница,gpt-4o-mini,fresh-4,fresh,True,4,3,0.0005814,36.9,"total fire ban 9 January, statewide emergency 10 January",A total fire ban
+поиск + страница,gpt-4o-mini,fresh-5,fresh,True,2,1,0.00017925,17.6,2 people,two people
+поиск + страница,gpt-4o-mini,fresh-6,fresh,False,2,1,0.00019815,17.6,519 missing people,"4,500"
+поиск + страница,gpt-4o-mini,fresh-7,fresh,True,5,4,0.0007344,77.0,Deniz Göktaş,Deniz Göktaş
+поиск + страница,gpt-4o-mini,fresh-8,fresh,True,3,2,0.0004266,26.5,Pavel Durov,Pavel Durov
+поиск + страница,gpt-4o-mini,fresh-9,fresh,True,3,2,0.0003549,27.0,New Delhi,New Delhi
+поиск + страница,gpt-4o-mini,fresh-10,fresh,True,5,4,0.0005829,52.4,12 people,Twelve
+поиск + страница,gpt-4o-mini,fresh-11,fresh,True,3,2,0.000303,27.2,Helter Skelter: Arthur Jafa and Richard Prince,Helter Skelter
+поиск + страница,gpt-4o-mini,fresh-12,fresh,False,3,2,0.0003726,29.3,unknown,"700,000"
+поиск + страница,gpt-4o-mini,fresh-13,fresh,True,3,2,0.0004095,29.8,41.5 °C,41.5 °C
+поиск + страница,gpt-4o-mini,fresh-14,fresh,True,3,2,0.000411,29.1,Ciudad Rodrigo,Ciudad Rodrigo
+поиск + страница,gpt-4o-mini,fresh-15,fresh,True,4,3,0.0005813999999999,140.0,Oleksandr Syrskyi,Oleksandr Syrskyi
+поиск + страница,gpt-4o-mini,fresh-16,fresh,True,6,5,0.00087135,110.4,Montreal Victoire 1 Walter Cup,Montreal Victoire
+поиск + страница,gpt-4o-mini,fresh-17,fresh,False,6,5,0.0011178,116.2,propulsion module for BepiColombo,EOS-05
+поиск + страница,gpt-4o-mini,fresh-18,fresh,False,9,7,0.00246945,160.6,6 November 2019,13 July
+поиск + страница,gpt-4o-mini,fresh-19,fresh,False,9,7,0.0020643,131.8,Disney Television,Disney Kids & Family
+поиск + страница,gpt-4o-mini,fresh-20,fresh,True,2,1,0.00018915,26.4,single-elimination tournament,single-elimination
+поиск + страница,gpt-4o-mini,fresh-21,fresh,False,9,7,0.0017001,116.3,Unknown artist,Gavin Snider
+поиск + страница,gpt-4o-mini,fresh-22,fresh,True,4,3,0.0004983,41.6,Clara and the Below,Clara and the Below
+поиск + страница,gpt-4o-mini,fresh-23,fresh,True,3,2,0.00035295,27.9,German Galushchenko,German Galushchenko
+поиск + страница,gpt-4o-mini,fresh-24,fresh,True,4,4,0.00050295,49.0,drought,a drought
+поиск + страница,gpt-4o-mini,fresh-25,fresh,True,4,3,0.0006378,36.5,open war,"""open war"""
+поиск + страница,gpt-4o-mini,fresh-26,fresh,False,7,6,0.00131595,64.9,0 people,nine
+поиск + страница,gpt-4o-mini,fresh-27,fresh,False,9,7,0.0019563,100.0,most likely a short answer.,Markus Hinterhäuser
+поиск + страница,gpt-4o-mini,fresh-28,fresh,True,3,2,0.000363,27.1,9 people,nine
+поиск + страница,gpt-4o-mini,fresh-29,fresh,False,2,1,0.0002025,18.7,46 people,43
+поиск + страница,gpt-4o-mini,fresh-30,fresh,True,3,2,0.00038535,28.1,Ankara,Ankara
+поиск + страница,gpt-4o-mini,fresh-31,fresh,False,5,4,0.0005493,58.8,Ädilet party,Aibek Dädebai
+поиск + страница,gpt-4o-mini,fresh-32,fresh,True,8,7,0.00171315,83.3,Richard Lewer,Richard Lewer
+поиск + страница,gpt-4o-mini,fresh-33,fresh,False,9,7,0.0019332,218.5,unknown,Marilyn Gladu
+поиск + страница,gpt-4o-mini,fresh-34,fresh,True,4,3,0.00052635,39.9,6.3,6.3
+поиск + страница,gpt-4o-mini,fresh-35,fresh,False,9,7,0.00181455,186.5,unknown,Dina Levačić
+поиск + страница,gpt-4o-mini,fresh-36,fresh,False,6,5,0.00075045,138.0,136 people,129
+поиск + страница,gpt-4o-mini,fresh-37,fresh,True,3,2,0.0003366,28.2,15 June,15 June
+поиск + страница,gpt-4o-mini,fresh-38,fresh,True,3,2,0.0003828,27.9,Chief Minister of Kerala,Chief Minister
+поиск + страница,gpt-4o-mini,fresh-39,fresh,True,5,4,0.00064395,88.8,Gelida,Gelida
+поиск + страница,gpt-4o-mini,fresh-40,fresh,False,6,6,0.0008436,161.9,unknown,Vladimir Alekseyev
+поиск + страница,gpt-4o-mini,fresh-41,fresh,True,3,2,0.00034815,51.7,30000 people,Thirty thousand people
+поиск + страница,gpt-4o-mini,fresh-42,fresh,False,3,2,0.0004116,84.8,Prime Minister of India,Prime Minister Narendra Modi
+поиск + страница,gpt-4o-mini,fresh-43,fresh,True,4,3,0.00049005,71.5,Zohran Mamdani,Zohran Mamdani
+поиск + страница,gpt-4o-mini,fresh-44,fresh,True,7,6,0.00135435,70.9,LHS 1140 b,LHS 1140 b
+поиск + страница,gpt-4o-mini,fresh-45,fresh,True,3,2,0.00032985,26.4,F-16 Fighting Falcon,F-16 Fighting Falcon
+поиск + страница,gpt-4o-mini,fresh-46,fresh,True,3,2,0.00040275,27.0,5 people,five
+поиск + страница,gpt-4o-mini,fresh-47,fresh,True,3,2,0.0004083,26.2,Education Minister,Education Minister
+поиск + страница,gpt-4o-mini,fresh-48,fresh,True,4,3,0.0005203499999999,35.1,Mykhailo Fedorov,Mykhailo Fedorov
+поиск + страница,gpt-4o-mini,fresh-49,fresh,True,3,2,0.00042285,26.5,life imprisonment,life imprisonment
+поиск + страница,gpt-4o-mini,fresh-50,fresh,True,4,3,0.00057435,35.0,802500 lira ($18500),"802,500 lira"
+поиск + страница,gpt-4o-mini,fresh-51,fresh,True,3,2,0.0003018,26.3,Bruno Foucher,Bruno Foucher
+поиск + страница,gpt-4o-mini,fresh-52,fresh,True,3,2,0.00034005,26.9,5.2 magnitude,5.2
+поиск + страница,gpt-4o-mini,fresh-53,fresh,False,3,2,0.0003864,27.8,unknown,Tonya McBride Robles
+поиск + страница,gpt-4o-mini,fresh-54,fresh,True,2,1,0.00020385,17.7,80 people,80
+поиск + страница,gpt-4o-mini,fresh-55,fresh,True,2,1,0.00018375,17.5,2 people,two
+поиск + страница,gpt-4o-mini,fresh-56,fresh,True,4,3,0.00048315,35.9,3% inflation,3%
+поиск + страница,gpt-4o-mini,fresh-57,fresh,False,9,7,0.00132615,103.6,unknown,Yoon Suk Yeol
+поиск + страница,gpt-4o-mini,fresh-58,fresh,False,9,8,0.00183225,123.1,Volkswagen,BYD Auto
+поиск + страница,gpt-4o-mini,fresh-59,fresh,False,9,7,0.0022059,96.9,unknown,Carson Ting
+поиск + страница,gpt-4o-mini,fresh-60,fresh,True,3,2,0.00030795,27.2,209 people,209
+поиск + страница,gpt-4o-mini,fresh-61,fresh,True,3,2,0.0002934,26.1,14 people,Fourteen
+поиск + страница,gpt-4o-mini,fresh-62,fresh,False,3,2,0.00035745,27.9,no specific prison sentence,13 years
+поиск + страница,gpt-4o-mini,fresh-63,fresh,True,3,2,0.00035175,26.4,2 people,Two
+поиск + страница,gpt-4o-mini,fresh-64,fresh,True,4,3,0.00052305,39.3,mayor of Lutsk,mayor of Lutsk
+поиск + страница,gpt-4o-mini,fresh-65,fresh,True,3,2,0.0003723,26.4,16 people,16
+поиск + страница,gpt-4o-mini,fresh-66,fresh,False,4,3,0.00055605,39.9,6 people,at least six
+поиск + страница,gpt-4o-mini,fresh-67,fresh,True,3,2,0.00034605,27.4,Liam Nassereddine,Liam Nassereddine
+поиск + страница,gpt-4o-mini,fresh-68,fresh,True,3,2,0.0003387,26.6,Mark Carney,Mark Carney
+поиск + страница,gpt-4o-mini,fresh-69,fresh,True,2,1,0.0001865999999999,17.4,Leipzig,Leipzig
+поиск + страница,gpt-4o-mini,fresh-70,fresh,True,3,2,0.00035685,26.7,"European Sleeper begins a night train service between Paris,",night train service
+поиск + страница,gpt-4o-mini,fresh-71,fresh,False,2,1,0.00019875,17.7,Nikita Solovyovat,Nikita Solovyov
+поиск + страница,gpt-4o-mini,fresh-72,fresh,True,2,1,0.00023505,17.5,Dharmendra Pradhan,Dharmendra Pradhan
+поиск + страница,gpt-4o-mini,fresh-73,fresh,True,3,2,0.00033945,26.6,Han Hak-ja 2 years,Han Hak-ja
+поиск + страница,gpt-4o-mini,fresh-74,fresh,True,2,1,0.0001851,57.4,Daniel Ortega,Daniel Ortega
+поиск + страница,gpt-4o-mini,fresh-75,fresh,False,6,5,0.0009687,143.2,Chester,Novokuznetsk
+поиск + страница,gpt-4o-mini,fresh-76,fresh,True,3,2,0.0004638,56.9,life imprisonment,life imprisonment
+поиск + страница,gpt-4o-mini,fresh-77,fresh,False,4,3,0.0004524,96.1,no information,Carlos Vila Nova
+поиск + страница,gpt-4o-mini,fresh-78,fresh,True,3,2,0.0003357,40.2,13.2 months,13.2 months
+поиск + страница,gpt-4o-mini,fresh-79,fresh,False,9,7,0.00128085,149.0,4 games,three
+поиск + страница,gpt-4o-mini,fresh-80,fresh,True,3,2,0.0004107,75.4,"UGC Equity Regulations, 2026","UGC Equity Regulations, 2026"
+поиск + страница,gpt-4o-mini,fresh-81,fresh,False,4,3,0.0005949,78.5,84 million passengers,8.15m
+поиск + страница,gpt-4o-mini,fresh-82,fresh,True,2,1,0.0002091,36.2,28 people,28 people
+поиск + страница,gpt-4o-mini,fresh-83,fresh,True,7,6,0.0012342,76.4,improvised explosive device,improvised explosive device
+поиск + страница,gpt-4o-mini,fresh-84,fresh,False,7,6,0.0009135,76.0,0 games,eight games
+поиск + страница,gpt-4o-mini,fresh-85,fresh,False,3,3,0.0005208,41.2,38.0 °C,38 °C
+поиск + страница,gpt-4o-mini,fresh-86,fresh,False,5,4,0.0006843,46.2,30400000000 pounds,£30.4bn
+поиск + страница,gpt-4o-mini,fresh-87,fresh,True,3,2,0.0003578999999999,26.4,José Jerí,José Jerí
+поиск + страница,gpt-4o-mini,fresh-88,fresh,True,4,3,0.000525,40.0,"Henoko, Okinawa Prefecture, 16 March","Henoko, Okinawa Prefecture"
+поиск + страница,gpt-4o-mini,fresh-89,fresh,False,5,4,0.0008982,49.0,unknown,Doug Armstrong
+поиск + страница,gpt-4o-mini,fresh-90,fresh,False,5,4,0.0008566499999999,49.0,World Weather Attribution,Imperial College London
+поиск + страница,gpt-4o-mini,fresh-91,fresh,True,3,2,0.00035955,26.6,25863 crore,"₹25,863 crore"
+поиск + страница,gpt-4o-mini,fresh-92,fresh,True,5,4,0.0006679499999999,45.0,Rubén Rocha Moya,Rubén Rocha Moya
+поиск + страница,gpt-4o-mini,fresh-93,fresh,True,2,1,0.00023055,17.4,Spain,Spain
+поиск + страница,gpt-4o-mini,fresh-94,fresh,False,5,4,0.0008004,44.4,16th place,11th
+поиск + страница,gpt-4o-mini,fresh-95,fresh,True,2,1,0.00020385,17.5,India,India
+поиск + страница,gpt-4o-mini,fresh-96,fresh,False,2,2,0.0002483999999999,26.2,"Huelva, Spain",Istanbul
+поиск + страница,gpt-4o-mini,fresh-97,fresh,True,2,1,0.0001976999999999,18.1,"Citizens Bank Park, Philadelphia, Pennsylvania",Citizens Bank Park
+поиск + страница,gpt-4o-mini,fresh-98,fresh,False,9,7,0.00240525,112.5,нет информации,Islamabad Memorandum
+поиск + страница,gpt-4o-mini,fresh-99,fresh,True,2,1,0.0001854,17.4,Elon Musk,Elon Musk
+поиск + страница,gpt-4o-mini,fresh-100,fresh,True,3,2,0.00045765,37.3,252756 miles,"252,756 miles"
+поиск + страница,gpt-4o-mini,fresh-101,fresh,False,5,4,0.0008994,45.2,10 days,10-day
+поиск + страница,gpt-4o-mini,fresh-102,fresh,False,5,4,0.00076845,45.5,unknown,Oleksandr Dovhach
+поиск + страница,gpt-4o-mini,fresh-103,fresh,True,3,2,0.0003239999999999,28.2,José María Balcázar,José María Balcázar
+поиск + страница,gpt-4o-mini,fresh-104,fresh,False,5,5,0.00081735,49.2,10 people,21
+поиск + страница,gpt-4o-mini,fresh-105,fresh,False,2,2,0.00035685,26.7,likely not available,¥60–120
+поиск + страница,gpt-4o-mini,fresh-106,fresh,False,7,6,0.00121815,71.1,нет информации,GRU Airport People Mover
+поиск + страница,gpt-4o-mini,fresh-107,fresh,True,3,2,0.0002796,26.4,2026 Beninese parliamentary election,2026 Beninese parliamentary election
+поиск + страница,gpt-4o-mini,fresh-108,fresh,False,9,7,0.0014754,143.7,unknown location,Michaelmas Island
+поиск + страница,gpt-4o-mini,fresh-109,fresh,False,3,2,0.0004403999999999,35.3,antisemitic attacks,conspiracy to commit arson
+поиск + страница,gpt-4o-mini,fresh-110,fresh,False,4,3,0.00056025,35.5,unknown,Clay Fuller
+поиск + страница,gpt-4o-mini,fresh-111,fresh,True,2,1,0.0002205,17.8,Prime Minister,prime minister
+поиск + страница,gpt-4o-mini,fresh-112,fresh,True,4,3,0.00064635,95.5,SMILE,SMILE
+поиск + страница,gpt-4o-mini,fresh-113,fresh,True,3,2,0.0004233,26.8,850 job cuts,850
+поиск + страница,gpt-4o-mini,fresh-114,fresh,True,3,2,0.00044565,26.9,Urgent Care Centre,Urgent Care Centre
+поиск + страница,gpt-4o-mini,fresh-115,fresh,True,2,1,0.00019485,17.6,66 people,66
+поиск + страница,gpt-4o-mini,fresh-116,fresh,True,3,2,0.0003147,28.5,"Nelly Korda, Charley Hull, Gaby López",Nelly Korda
+поиск + страница,gpt-4o-mini,fresh-117,fresh,False,9,7,0.0016653,137.6,unknown line,Line S2
+поиск + страница,gpt-4o-mini,fresh-118,fresh,True,4,3,0.00051315,95.4,Antonello da Messina (4 paintings),Antonello da Messina
+поиск + страница,gpt-4o-mini,fresh-119,fresh,False,9,7,0.00161235,143.1,unknown,Baku and Tbilisi
+поиск + страница,gpt-4o-mini,fresh-120,fresh,False,4,3,0.000516,73.2,"""tanker to tanker"" policy",Operation Southern Spear
+поиск + страница,gpt-4o-mini,fresh-121,fresh,True,8,7,0.0016248,71.9,5.6 earthquake 10 people,5.6
+поиск + страница,gpt-4o-mini,fresh-122,fresh,True,3,2,0.0002769,34.8,Angus Taylor,Angus Taylor
+поиск + страница,gpt-4o-mini,fresh-123,fresh,False,7,6,0.0011742,87.8,uncertain,Burkina Faso
+поиск + страница,gpt-4o-mini,fresh-124,fresh,True,4,3,0.00056895,41.7,Kehl,Kehl
+поиск + страница,gpt-4o-mini,fresh-125,own,True,3,2,0.0003894,26.7,Biała Podlaska,Biała Podlaska
+поиск + страница,gpt-4o-mini,fresh-126,own,True,3,2,0.00032505,26.4,Order of the White Eagle,Order of the White Eagle
+поиск + страница,gpt-4o-mini,fresh-127,own,True,3,2,0.00031395,26.4,4.9,4.9
+поиск + страница,gpt-4o-mini,fresh-128,own,True,2,1,0.0002202,17.8,4 years,four years
+поиск + страница,gpt-4o-mini,fresh-129,own,False,3,2,0.000339,25.9,100 homes,more than 100
+поиск + страница,gpt-4o-mini,fresh-130,own,True,7,7,0.001401,65.9,47 months 3 people,47 months
+поиск + страница,gpt-4o-mini,fresh-131,own,True,4,3,0.0004338,48.1,Fagersta,Fagersta
+поиск + страница,gpt-4o-mini,fresh-132,own,False,6,6,0.0008964,79.5,47 people,30
+поиск + страница,gpt-4o-mini,fresh-133,own,True,3,2,0.00034335,26.3,Dadan Hindayana,Dadan Hindayana
+поиск + страница,gpt-4o-mini,fresh-134,own,True,3,2,0.0003306,26.2,75 years,75 years
+поиск + страница,gpt-4o-mini,fresh-135,own,False,6,5,0.0008712,62.6,unknown,Thapelo Maseko
+поиск + страница,gpt-4o-mini,fresh-136,own,True,2,1,0.00019485,18.2,41 people,Forty-one
+поиск + страница,gpt-4o-mini,fresh-137,own,True,2,1,0.00020865,17.9,49.66%,49.66%
+поиск + страница,gpt-4o-mini,fresh-138,own,False,6,5,0.0009495,55.0,16400000000 euros,€16.4 billion
+поиск + страница,gpt-4o-mini,fresh-139,own,True,8,9,0.00109485,102.7,Dakhla Oasis,Dakhla Oasis
+поиск + страница,gpt-4o-mini,fresh-140,own,False,8,7,0.00183945,99.4,unknown,S301
+поиск + страница,gpt-4o-mini,fresh-141,own,True,5,4,0.00071925,50.0,erythrulose,erythrulose
+поиск + страница,gpt-4o-mini,fresh-142,own,False,9,7,0.0021807,80.1,unknown,Vincent Keymer
+поиск + страница,gpt-4o-mini,fresh-143,own,False,6,5,0.0010461,52.3,unknown,Hans Niemann
+поиск + страница,gpt-4o-mini,fresh-144,own,True,5,5,0.0009351,50.5,3 billion euros,€3 billion
+поиск + страница,gpt-4o-mini,fresh-145,own,True,3,2,0.00028005,26.1,Ødum 37°C,Ødum
+поиск + страница,gpt-4o-mini,fresh-146,own,True,3,2,0.00027975,26.2,Aarau,Aarau
+поиск + страница,gpt-4o-mini,fresh-147,own,False,2,1,0.00020835,55.2,6500 people,"2,295"
+поиск + страница,gpt-4o-mini,fresh-148,own,True,3,2,0.0003387,47.7,50.135%,50.135%
+поиск + страница,gpt-4o-mini,fresh-149,own,True,4,3,0.00041565,78.1,Adrian Veștea,Adrian Veștea
+поиск + страница,claude-haiku-4.5,fresh-1,fresh,True,2,1,0.005724,22.2,22 March 2026,22 March
+поиск + страница,claude-haiku-4.5,fresh-3,fresh,True,3,2,0.009166,43.3,strategic partnership agreement in the defense and energy se,a strategic partnership agreement
+поиск + страница,claude-haiku-4.5,fresh-5,fresh,True,2,2,0.006341,45.8,2 people,two people
+поиск + страница,claude-haiku-4.5,fresh-0,fresh,True,3,2,0.0104619999999999,49.1,15 March,15 March
+поиск + страница,claude-haiku-4.5,fresh-6,fresh,False,2,1,0.005957,34.1,519 people,"4,500"
+поиск + страница,claude-haiku-4.5,fresh-9,fresh,True,3,2,0.009725,52.4,New Delhi,New Delhi
+поиск + страница,claude-haiku-4.5,fresh-2,fresh,True,5,4,0.019286,106.0,"Miguel Díaz-Canel, First Secretary of the Communist Party of",Miguel Díaz-Canel
+поиск + страница,claude-haiku-4.5,fresh-8,fresh,True,4,3,0.013917,63.2,Pavel Durov,Pavel Durov
+поиск + страница,claude-haiku-4.5,fresh-7,fresh,True,4,3,0.014159,65.6,Deniz Göktaş,Deniz Göktaş
+поиск + страница,claude-haiku-4.5,fresh-11,fresh,True,3,2,0.009823,42.5,Helter Skelter: Arthur Jafa and Richard Prince,Helter Skelter
+поиск + страница,claude-haiku-4.5,fresh-12,fresh,True,4,4,0.015365,86.0,"700,000 children","700,000"
+поиск + страница,claude-haiku-4.5,fresh-4,fresh,True,3,3,0.009967,194.1,A total fire ban comes into force in Victoria on 9 January 2,A total fire ban
+поиск + страница,claude-haiku-4.5,fresh-14,fresh,True,3,4,0.011331,44.5,Ciudad Rodrigo,Ciudad Rodrigo
+поиск + страница,claude-haiku-4.5,fresh-15,fresh,True,4,3,0.013554,40.8,Oleksandr Syrskyi,Oleksandr Syrskyi
+поиск + страница,claude-haiku-4.5,fresh-10,fresh,False,8,7,0.029076,86.8,"Based on my search attempts, I was unable to find specific i",Twelve
+поиск + страница,claude-haiku-4.5,fresh-13,fresh,False,9,8,0.054603,93.8,38.5 °C,41.5 °C
+поиск + страница,claude-haiku-4.5,fresh-17,fresh,True,7,6,0.026221,73.5,"EOS-05, India's first geostationary Earth observation satell",EOS-05
+поиск + страница,claude-haiku-4.5,fresh-16,fresh,True,5,7,0.022171,77.1,Montreal Victoire,Montreal Victoire
+поиск + страница,claude-haiku-4.5,fresh-18,fresh,True,7,6,0.03129,85.5,13 July 2026,13 July
+поиск + страница,claude-haiku-4.5,fresh-20,fresh,True,2,1,0.006111,17.9,single-elimination tournament,single-elimination
+поиск + страница,claude-haiku-4.5,fresh-19,fresh,True,5,4,0.018703,146.9,Disney Kids & Family,Disney Kids & Family
+поиск + страница,claude-haiku-4.5,fresh-22,fresh,True,4,4,0.014047,140.8,Clara and the Below,Clara and the Below
+поиск + страница,claude-haiku-4.5,fresh-21,fresh,True,5,4,0.016565,145.3,Gavin Snider,Gavin Snider
+поиск + страница,claude-haiku-4.5,fresh-23,fresh,True,3,3,0.010803,36.4,German Galushchenko,German Galushchenko
+поиск + страница,claude-haiku-4.5,fresh-24,fresh,True,2,2,0.0067709999999999,27.2,drought,a drought
+поиск + страница,claude-haiku-4.5,fresh-25,fresh,True,2,2,0.006748,28.0,open war,"""open war"""
+поиск + страница,claude-haiku-4.5,fresh-28,fresh,False,2,1,0.0061309999999999,22.2,6 people,nine
+поиск + страница,claude-haiku-4.5,fresh-27,fresh,True,3,3,0.010695,45.0,Markus Hinterhäuser,Markus Hinterhäuser
+поиск + страница,claude-haiku-4.5,fresh-26,fresh,True,4,3,0.013784,53.2,9 people,nine
+поиск + страница,claude-haiku-4.5,fresh-29,fresh,False,2,1,0.006036,25.2,46 people,43
+поиск + страница,claude-haiku-4.5,fresh-31,fresh,False,4,3,0.014862,42.4,Oljas Bektenov formed the Second Bektenov Government as Prim,Aibek Dädebai
+поиск + страница,claude-haiku-4.5,fresh-30,fresh,True,5,4,0.016996,53.9,Ankara,Ankara
+поиск + страница,claude-haiku-4.5,fresh-32,fresh,True,7,6,0.02493,76.4,Richard Lewer,Richard Lewer
+поиск + страница,claude-haiku-4.5,fresh-34,fresh,True,4,4,0.013923,44.5,6.3,6.3
+поиск + страница,claude-haiku-4.5,fresh-36,fresh,False,2,1,0.005842,61.2,136 people,129
+поиск + страница,claude-haiku-4.5,fresh-37,fresh,True,3,3,0.01009,70.2,15 June,15 June
+поиск + страница,claude-haiku-4.5,fresh-33,fresh,False,9,7,0.0413899999999999,187.5,Information not found in available sources,Marilyn Gladu
+поиск + страница,claude-haiku-4.5,fresh-38,fresh,True,2,1,0.005891,18.4,Chief Minister of Kerala,Chief Minister
+поиск + страница,claude-haiku-4.5,fresh-39,fresh,False,2,1,0.006737,18.8,"Adamuz, Córdoba, Spain (date was January 18, 2026, not Janua",Gelida
+поиск + страница,claude-haiku-4.5,fresh-35,fresh,False,9,7,0.036838,197.2,Unable to determine - information not found in available sou,Dina Levačić
+поиск + страница,claude-haiku-4.5,fresh-40,fresh,False,4,3,0.013129,42.0,Lieutenant General Vladimir Alexeyev,Vladimir Alekseyev
+поиск + страница,claude-haiku-4.5,fresh-41,fresh,True,4,3,0.014397,47.4,"30,000 people",Thirty thousand people
+поиск + страница,claude-haiku-4.5,fresh-43,fresh,True,2,1,0.006016,18.4,Zohran Mamdani,Zohran Mamdani
+поиск + страница,claude-haiku-4.5,fresh-42,fresh,True,3,3,0.010347,35.7,Prime Minister Narendra Modi,Prime Minister Narendra Modi
+поиск + страница,claude-haiku-4.5,fresh-44,fresh,True,3,3,0.010092,36.5,LHS 1140 b,LHS 1140 b
+поиск + страница,claude-haiku-4.5,fresh-46,fresh,True,2,1,0.006106,20.4,5 people,five
+поиск + страница,claude-haiku-4.5,fresh-45,fresh,True,3,3,0.009989,36.0,F-16 Fighting Falcon,F-16 Fighting Falcon
+поиск + страница,claude-haiku-4.5,fresh-47,fresh,False,2,1,0.006248,19.3,Minister of Education,Education Minister
+поиск + страница,claude-haiku-4.5,fresh-48,fresh,True,2,1,0.006161,44.9,Mykhailo Fedorov,Mykhailo Fedorov
+поиск + страница,claude-haiku-4.5,fresh-49,fresh,True,3,3,0.010737,44.8,life imprisonment,life imprisonment
+поиск + страница,claude-haiku-4.5,fresh-51,fresh,True,3,2,0.009163,70.9,Bruno Foucher,Bruno Foucher
+поиск + страница,claude-haiku-4.5,fresh-53,fresh,True,3,3,0.01012,63.8,Tonya McBride Robles,Tonya McBride Robles
+поиск + страница,claude-haiku-4.5,fresh-54,fresh,True,2,1,0.005879,17.8,80 people,80
+поиск + страница,claude-haiku-4.5,fresh-50,fresh,False,8,7,0.030234,188.4,Unable to determine the specific fine from available sources,"802,500 lira"
+поиск + страница,claude-haiku-4.5,fresh-55,fresh,True,2,1,0.005785,17.8,2 people,two
+поиск + страница,claude-haiku-4.5,fresh-52,fresh,True,7,7,0.026106,195.3,5.2,5.2
+поиск + страница,claude-haiku-4.5,fresh-56,fresh,True,4,3,0.013772,52.5,3%,3%
+поиск + страница,claude-haiku-4.5,fresh-59,fresh,True,5,4,0.0193489999999999,70.3,"Carson Ting of Canada, Minerva GM of Mexico, and Hank Willis",Carson Ting
+поиск + страница,claude-haiku-4.5,fresh-60,fresh,True,3,3,0.010612,58.7,209 people,209
+поиск + страница,claude-haiku-4.5,fresh-57,fresh,False,9,10,0.044073,171.5,Unable to determine from available sources,Yoon Suk Yeol
+поиск + страница,claude-haiku-4.5,fresh-58,fresh,False,9,7,0.037069,140.7,BYD,BYD Auto
+поиск + страница,claude-haiku-4.5,fresh-61,fresh,True,2,1,0.005744,62.1,14 people,Fourteen
+поиск + страница,claude-haiku-4.5,fresh-62,fresh,False,5,4,0.019469,90.5,Unable to determine from available sources - March 9 entry s,13 years
+поиск + страница,claude-haiku-4.5,fresh-63,fresh,True,3,2,0.009698,28.5,2 people,Two
+поиск + страница,claude-haiku-4.5,fresh-64,fresh,True,3,2,0.00962,26.9,mayor of Lutsk,mayor of Lutsk
+поиск + страница,claude-haiku-4.5,fresh-65,fresh,True,4,4,0.014337,48.9,16 people,16
+поиск + страница,claude-haiku-4.5,fresh-66,fresh,False,4,3,0.014741,41.2,6 people,at least six
+поиск + страница,claude-haiku-4.5,fresh-67,fresh,False,9,12,0.036453,231.3,Unable to determine - information not found in available sou,Liam Nassereddine
+поиск + страница,claude-haiku-4.5,fresh-68,fresh,True,8,7,0.0354439999999999,82.4,Mark Carney,Mark Carney
+поиск + страница,claude-haiku-4.5,fresh-69,fresh,True,2,1,0.005765,17.7,Leipzig,Leipzig
+поиск + страница,claude-haiku-4.5,fresh-70,fresh,True,3,3,0.0104029999999999,36.9,"European Sleeper begins a night train service between Paris,",night train service
+поиск + страница,claude-haiku-4.5,fresh-71,fresh,False,2,1,0.005916,19.3,Nikita Solovyovat,Nikita Solovyov
+поиск + страница,claude-haiku-4.5,fresh-72,fresh,True,2,2,0.006703,26.9,Dharmendra Pradhan,Dharmendra Pradhan
+поиск + страница,claude-haiku-4.5,fresh-73,fresh,True,3,2,0.009923,27.4,Han Hak-ja,Han Hak-ja
+поиск + страница,claude-haiku-4.5,fresh-74,fresh,True,2,1,0.005779,17.9,Daniel Ortega,Daniel Ortega
+поиск + страница,claude-haiku-4.5,fresh-75,fresh,False,9,8,0.04035,197.1,Unable to determine - information not found in available sou,Novokuznetsk
+поиск + страница,claude-haiku-4.5,fresh-76,fresh,True,3,3,0.011287,67.0,life imprisonment,life imprisonment
+поиск + страница,claude-haiku-4.5,fresh-77,fresh,True,3,2,0.009257,73.1,Carlos Vila Nova was reelected president with 55.94% of the ,Carlos Vila Nova
+поиск + страница,claude-haiku-4.5,fresh-78,fresh,True,4,5,0.017408,89.6,13.2 months,13.2 months
+поиск + страница,claude-haiku-4.5,fresh-79,fresh,False,9,7,0.035624,142.2,Information not found in available sources,three
+поиск + страница,claude-haiku-4.5,fresh-80,fresh,True,2,2,0.006416,27.7,"UGC Equity Regulations, 2026","UGC Equity Regulations, 2026"
+поиск + страница,claude-haiku-4.5,fresh-81,fresh,False,7,7,0.02989,86.5,Data not found,8.15m
+поиск + страница,claude-haiku-4.5,fresh-82,fresh,False,2,2,0.006521,25.7,28 deaths,28 people
+поиск + страница,claude-haiku-4.5,fresh-83,fresh,True,3,4,0.010659,39.7,improvised explosive device,improvised explosive device
+поиск + страница,claude-haiku-4.5,fresh-84,fresh,False,7,7,0.02841,82.2,Information not available in accessible sources,eight games
+поиск + страница,claude-haiku-4.5,fresh-85,fresh,False,2,2,0.007516,28.2,38.0 °C,38 °C
+поиск + страница,claude-haiku-4.5,fresh-86,fresh,True,3,3,0.009895,36.8,£30.4bn,£30.4bn
+поиск + страница,claude-haiku-4.5,fresh-87,fresh,True,8,7,0.037327,143.9,"José Jerí (censured February 17, 2026, not January 9)",José Jerí
+поиск + страница,claude-haiku-4.5,fresh-88,fresh,True,4,3,0.013295,40.4,"Henoko, Okinawa Prefecture","Henoko, Okinawa Prefecture"
+поиск + страница,claude-haiku-4.5,fresh-89,fresh,True,7,7,0.030376,163.9,Doug Armstrong,Doug Armstrong
+поиск + страница,claude-haiku-4.5,fresh-90,fresh,True,4,3,0.016408,38.4,"Imperial College London, the London School of Hygiene and Tr",Imperial College London
+поиск + страница,claude-haiku-4.5,fresh-91,fresh,True,3,3,0.010231,100.3,"₹25,863 crore","₹25,863 crore"
+поиск + страница,claude-haiku-4.5,fresh-92,fresh,True,4,3,0.014451,126.3,Rubén Rocha Moya,Rubén Rocha Moya
+поиск + страница,claude-haiku-4.5,fresh-93,fresh,True,2,1,0.006364,39.1,Spain,Spain
+поиск + страница,claude-haiku-4.5,fresh-94,fresh,True,6,5,0.0257599999999999,82.1,11th place,11th
+поиск + страница,claude-haiku-4.5,fresh-95,fresh,True,2,1,0.0059889999999999,18.3,India,India
+поиск + страница,claude-haiku-4.5,fresh-96,fresh,True,2,1,0.005781,18.2,Istanbul,Istanbul
+поиск + страница,claude-haiku-4.5,fresh-97,fresh,True,2,1,0.005886,18.5,"Philadelphia, Pennsylvania (at Citizens Bank Park)",Citizens Bank Park
+поиск + страница,claude-haiku-4.5,fresh-98,fresh,True,3,4,0.013563,48.4,Islamabad Memorandum of Understanding,Islamabad Memorandum
+поиск + страница,claude-haiku-4.5,fresh-99,fresh,True,2,1,0.005849,19.1,Elon Musk,Elon Musk
+поиск + страница,claude-haiku-4.5,fresh-100,fresh,True,2,2,0.007447,28.7,"252,756 miles (406,771 km)","252,756 miles"
+поиск + страница,claude-haiku-4.5,fresh-101,fresh,False,2,1,0.00663,20.7,10 days,10-day
+поиск + страница,claude-haiku-4.5,fresh-102,fresh,False,5,4,0.018829,73.6,Unable to determine from available sources,Oleksandr Dovhach
+поиск + страница,claude-haiku-4.5,fresh-103,fresh,True,6,5,0.025749,79.8,José María Balcázar,José María Balcázar
+поиск + страница,claude-haiku-4.5,fresh-104,fresh,False,5,4,0.017276,66.3,"Unfortunately, I'm unable to find specific information about",21
+поиск + страница,claude-haiku-4.5,fresh-105,fresh,True,3,3,0.011033,50.1,¥60–120 (US$8.70–17.5),¥60–120
+поиск + страница,claude-haiku-4.5,fresh-106,fresh,False,9,7,0.039862,196.2,Unable to determine from available sources,GRU Airport People Mover
+поиск + страница,claude-haiku-4.5,fresh-107,fresh,True,3,3,0.0095599999999999,36.1,2026 Beninese parliamentary election,2026 Beninese parliamentary election
+поиск + страница,claude-haiku-4.5,fresh-108,fresh,False,9,7,0.031589,183.1,Unable to determine from available sources,Michaelmas Island
+поиск + страница,claude-haiku-4.5,fresh-109,fresh,False,9,7,0.0319399999999999,224.7,Unable to determine - information not found in available sea,conspiracy to commit arson
+поиск + страница,claude-haiku-4.5,fresh-110,fresh,False,4,3,0.013597,130.2,"Based on my search results, I cannot find information about ",Clay Fuller
+поиск + страница,claude-haiku-4.5,fresh-111,fresh,True,3,3,0.01056,36.6,Prime Minister,prime minister
+поиск + страница,claude-haiku-4.5,fresh-112,fresh,True,3,3,0.010932,35.8,SMILE,SMILE
+поиск + страница,claude-haiku-4.5,fresh-113,fresh,True,5,4,0.018624,54.1,850 job cuts,850
+поиск + страница,claude-haiku-4.5,fresh-114,fresh,True,3,4,0.012086,44.6,Urgent Care Centre,Urgent Care Centre
+поиск + страница,claude-haiku-4.5,fresh-115,fresh,False,3,2,0.010207,28.6,25 people,66
+поиск + страница,claude-haiku-4.5,fresh-116,fresh,True,2,1,0.006205,28.3,Nelly Korda,Nelly Korda
+поиск + страница,claude-haiku-4.5,fresh-117,fresh,False,9,7,0.034704,113.1,Unable to determine from available sources,Line S2
+поиск + страница,claude-haiku-4.5,fresh-118,fresh,True,4,3,0.013445,40.6,Antonello da Messina,Antonello da Messina
+поиск + страница,claude-haiku-4.5,fresh-119,fresh,False,7,9,0.035179,118.4,"Beijing, Pyongyang, Baku, Tbilisi, Abu Dhabi, Fujairah, Torn",Baku and Tbilisi
+поиск + страница,claude-haiku-4.5,fresh-120,fresh,True,4,3,0.014964,45.0,Operation Southern Spear,Operation Southern Spear
+поиск + страница,claude-haiku-4.5,fresh-121,fresh,False,9,7,0.033228,153.5,Unable to determine - information not found in available sou,5.6
+поиск + страница,claude-haiku-4.5,fresh-122,fresh,True,3,4,0.012499,44.4,Angus Taylor,Angus Taylor
+поиск + страница,claude-haiku-4.5,fresh-123,fresh,False,9,12,0.038782,231.1,Unable to determine from available sources,Burkina Faso
+поиск + страница,claude-haiku-4.5,fresh-124,fresh,True,4,3,0.013836,126.4,Kehl,Kehl
+поиск + страница,claude-haiku-4.5,fresh-125,own,True,3,3,0.0106109999999999,58.0,Biała Podlaska,Biała Podlaska
+поиск + страница,claude-haiku-4.5,fresh-126,own,True,3,4,0.012409,93.3,Order of the White Eagle,Order of the White Eagle
+поиск + страница,claude-haiku-4.5,fresh-127,own,True,3,2,0.009692,48.4,4.9,4.9
+поиск + страница,claude-haiku-4.5,fresh-128,own,True,2,2,0.007398,22.8,4 years,four years
+поиск + страница,claude-haiku-4.5,fresh-129,own,True,3,2,0.01019,29.4,more than 100 homes,more than 100
+поиск + страница,claude-haiku-4.5,fresh-130,own,True,7,6,0.026876,79.4,47 months,47 months
+поиск + страница,claude-haiku-4.5,fresh-131,own,True,3,2,0.009408,31.1,Fagersta,Fagersta
+поиск + страница,claude-haiku-4.5,fresh-132,own,True,4,3,0.013488,42.3,30 people,30
+поиск + страница,claude-haiku-4.5,fresh-133,own,True,5,4,0.019975,53.6,Dadan Hindayana,Dadan Hindayana
+поиск + страница,claude-haiku-4.5,fresh-134,own,True,2,1,0.0059489999999999,18.3,75 years,75 years
+поиск + страница,claude-haiku-4.5,fresh-135,own,False,9,7,0.043967,137.1,Unable to determine from available sources,Thapelo Maseko
+поиск + страница,claude-haiku-4.5,fresh-136,own,True,2,2,0.006446,27.4,41 people,Forty-one
+поиск + страница,claude-haiku-4.5,fresh-137,own,True,2,2,0.00698,26.6,49.66%,49.66%
+поиск + страница,claude-haiku-4.5,fresh-138,own,True,3,4,0.011931,49.7,€16.4 billion,€16.4 billion
+поиск + страница,claude-haiku-4.5,fresh-139,own,True,3,2,0.009335,27.5,Dakhla Oasis,Dakhla Oasis
+поиск + страница,claude-haiku-4.5,fresh-140,own,True,3,3,0.01102,55.8,S301,S301
+поиск + страница,claude-haiku-4.5,fresh-141,own,True,3,3,0.010135,35.5,erythrulose,erythrulose
+поиск + страница,claude-haiku-4.5,fresh-142,own,True,8,7,0.0312879999999999,181.5,Vincent Keymer,Vincent Keymer
+поиск + страница,claude-haiku-4.5,fresh-143,own,False,9,8,0.0413269999999999,162.1,The winner's name is not available in the sources accessed.,Hans Niemann
+поиск + страница,claude-haiku-4.5,fresh-144,own,True,3,2,0.009496,69.4,€3 billion,€3 billion
+поиск + страница,claude-haiku-4.5,fresh-145,own,True,4,4,0.018659,90.0,Ødum,Ødum
+поиск + страница,claude-haiku-4.5,fresh-146,own,True,3,2,0.009049,48.9,Aarau,Aarau
+поиск + страница,claude-haiku-4.5,fresh-147,own,False,2,2,0.006938,26.5,"6,500 people","2,295"
+поиск + страница,claude-haiku-4.5,fresh-148,own,False,9,7,0.046617,94.7,The specific percentage was not found in the available sourc,50.135%
+поиск + страница,claude-haiku-4.5,fresh-149,own,True,6,5,0.022378,71.0,Adrian Veștea,Adrian Veștea
 без инструментов,claude-sonnet-4.6,fresh-0,fresh,True,1,0,0.003468,3.6,15 March,15 March
 без инструментов,claude-sonnet-4.6,fresh-1,fresh,False,1,0,0.003453,3.9,23 January,22 March
 без инструментов,claude-sonnet-4.6,fresh-2,fresh,False,1,0,0.030069,32.2,Iran,Miguel Díaz-Canel
@@ -248,7 +669,7 @@ config,model,id,source,correct,steps,tool_calls,cost,seconds,answer,gold
 без инструментов,gpt-4o-mini,fresh-95,fresh,False,1,0,6.84e-05,1.0,unknown,India
 без инструментов,gpt-4o-mini,fresh-96,fresh,False,1,0,7.845e-05,2.1,"Madrid, Spain",Istanbul
 без инструментов,gpt-4o-mini,fresh-97,fresh,True,1,0,8.445e-05,1.5,"Citizens Bank Park, Philadelphia",Citizens Bank Park
-без инструментов,gpt-4o-mini,fresh-98,fresh,False,1,0,7.59e-05,1.9,None,Islamabad Memorandum
+без инструментов,gpt-4o-mini,fresh-98,fresh,False,1,0,7.59e-05,1.9,,Islamabad Memorandum
 без инструментов,gpt-4o-mini,fresh-99,fresh,False,1,0,5.805e-05,1.4,I will look up information regarding the events in June 2026,Elon Musk
 без инструментов,gpt-4o-mini,fresh-100,fresh,False,1,0,0.0001095,2.3,400000 km,"252,756 miles"
 без инструментов,gpt-4o-mini,fresh-101,fresh,False,1,0,8.595e-05,1.2,3 months,10-day
@@ -306,15 +727,15 @@ Looking up t",GRU Airport People Mover
 поиск,gpt-4o-mini,fresh-2,fresh,False,5,4,0.000858,10.2,Iran,Miguel Díaz-Canel
 поиск,gpt-4o-mini,fresh-4,fresh,False,4,3,0.00037905,8.0,"Combatting Antisemitism, Hate and Extremism (Criminal and Mi",A total fire ban
 поиск,gpt-4o-mini,fresh-3,fresh,False,5,5,0.0005157,13.2,0,a strategic partnership agreement
-поиск,gpt-4o-mini,fresh-5,fresh,True,2,1,0.00014445000000000001,3.0,2 people,two people
-поиск,gpt-4o-mini,fresh-6,fresh,False,2,1,0.00016334999999999999,3.1,519 missing people,"4,500"
+поиск,gpt-4o-mini,fresh-5,fresh,True,2,1,0.00014445,3.0,2 people,two people
+поиск,gpt-4o-mini,fresh-6,fresh,False,2,1,0.0001633499999999,3.1,519 missing people,"4,500"
 поиск,gpt-4o-mini,fresh-0,fresh,False,5,4,0.0008145,15.7,Not found,15 March
-поиск,gpt-4o-mini,fresh-9,fresh,True,2,1,0.00013979999999999998,3.1,"New Delhi, India",New Delhi
+поиск,gpt-4o-mini,fresh-9,fresh,True,2,1,0.0001397999999999,3.1,"New Delhi, India",New Delhi
 поиск,gpt-4o-mini,fresh-10,fresh,False,4,3,0.00034425,8.1,unknown,Twelve
 поиск,gpt-4o-mini,fresh-7,fresh,False,9,7,0.0023811,18.3,Ekrem İmamoğlu,Deniz Göktaş
-поиск,gpt-4o-mini,fresh-8,fresh,False,9,7,0.0016906500000000001,18.8,Unknown person.,Pavel Durov
+поиск,gpt-4o-mini,fresh-8,fresh,False,9,7,0.00169065,18.8,Unknown person.,Pavel Durov
 поиск,gpt-4o-mini,fresh-12,fresh,False,4,3,0.0005676,8.4,Unknown,"700,000"
-поиск,gpt-4o-mini,fresh-11,fresh,False,9,9,0.0018475499999999999,21.6,Unknown,Helter Skelter
+поиск,gpt-4o-mini,fresh-11,fresh,False,9,9,0.0018475499999999,21.6,Unknown,Helter Skelter
 поиск,gpt-4o-mini,fresh-13,fresh,False,6,5,0.0013293,13.6,40°C,41.5 °C
 поиск,gpt-4o-mini,fresh-14,fresh,False,7,6,0.0012888,15.4,no incident,Ciudad Rodrigo
 поиск,gpt-4o-mini,fresh-16,fresh,True,4,3,0.0003984,8.9,Montreal Victoire,Montreal Victoire
