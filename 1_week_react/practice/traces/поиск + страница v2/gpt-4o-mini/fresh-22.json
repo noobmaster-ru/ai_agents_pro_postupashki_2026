@@ -1,0 +1,81 @@
+{
+ "task": {
+  "id": "fresh-22",
+  "source": "fresh",
+  "question": "In animation, what is the name of the indie animated series created by Matt Braly that was fully funded on March 17, 2026?",
+  "answer": "Clara and the Below",
+  "evidence": "March 17: The Kickstarter campaign for Amphibia creator Matt Braly's indie animated series Clara and the Below was fully funded within 15 minutes of launching.",
+  "page": "2026 in animation",
+  "url": "https://en.wikipedia.org/wiki/2026_in_animation",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница v2",
+ "model": "gpt-4o-mini",
+ "answer": "FINAL: Clara and the Below",
+ "final": "Clara and the Below",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.00037319999999999996,
+ "seconds": 67.7,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "In animation, what is the name of the indie animated series created by Matt Braly that was fully funded on March 17, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_FPUCKIMjGZuTABZ8FkKBHe64",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"indie animated series created by Matt Braly March 17 2026\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_FPUCKIMjGZuTABZ8FkKBHe64",
+   "content": "[Matt Braly] Matthew Benjakarn Braly (born November 8, 1988) is a Thai-American animator, storyboard artist, writer, and director. He is best known as the creator and executive producer of the Disney Channel animated series Amphibia. He also worked as a director on Gravity Falls and Big City Greens."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_ZT9Q7Yf3XyCwFF2dbsXlheJn",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 in animation\",\"keywords\":\"Matt Braly indie animated series\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_ZT9Q7Yf3XyCwFF2dbsXlheJn",
+   "content": "[2026 in animation] The teaser trailer for the indie animated series, Clara and the Below, created by Amphibia creator Matt Braly, was released on YouTube.\nMarch 17: The Kickstarter campaign for Amphibia creator Matt Braly's indie animated series Clara and the Below was fully funded within 15 minutes of launching.\nFebruary 10: Amphibia creator Matt Braly announces that Sony Pictures Animation has canceled a planned film that he and Steven Universe creator Rebecca Sugar had been working on together.\nAstra TV Award for Best Animated Series: Hazbin Hotel\nCritics' Choice Television Award for Best Animated Series: South Park\nBud Cort, American actor and comedian (voice of Toyman in the DC Animated Universe, Tempest in The Mask: Animated Series, The King in The Little Prince, Josiah Wormwood in the Batman: The Animated Series episode \"The Cape and Cowl Conspiracy\"), dies at age 77.\nSally Grace, English actress (voice of Weasel and Owl in The Animals of Farthing Wood, Mrs. Wicket in Mr. Bean: The Animated Series), dies at age 74.\nMarch 28: Richard Donat, Canadian actor (voice of Deej in Star Wars: Ewoks, Big Hawk in Trailer Park Boys: The Animated Series), dies at age 84.\nApril 26: Gerry Conway, American comic book writer and screenwriter (My Little Pony, The Transformers, G.I. Joe: A Real American Hero, Dino-Riders, The Centurions, Dinosaucers, Batman: The Animated Series, Spider-Man), dies at age 73.\nTim Curry, English actor and singer (voice of Taurus Bulba in Darkwing Duck, Captain Hook in Peter Pan and the Pirates, Hexxus in Ferngully: The Last Rainforest, Nigel Thornberry in The Wild Thornberrys, Forte in Beauty and the Beast: The Enchanted Christmas, Ben Ravencroft in Scooby-Doo and the Witch's Ghost, Joseph Chadwick in the Ben 10 franchise, Drake in The Pebble and the Penguin, Lord Dragonus in Mighty Ducks, Palpatine in Seasons 5 and 6 of Star Wars: The Clone Wars, Mr. Salamone in Eloise: The Animated Series, Pretorius in The Mask: Animated Series, King Acorn in So"
+  },
+  {
+   "role": "assistant",
+   "content": "FINAL: Clara and the Below",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

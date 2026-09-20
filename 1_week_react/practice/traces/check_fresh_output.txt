@@ -1,0 +1,7 @@
+записей: 150, проблем: 0
+
+Sonnet без инструментов: 3 из 150 верно, 2%. Потрачено $0.248
+критерий свежести пройден
+  fresh-20: In the 2026 FIFA World Cup, what format was used for the knockout stage starting June 28? -> The 2026 FIFA World Cup knockout stage s
+  fresh-43: Who was sworn in as the Mayor of New York City on January 1, 2026? -> Zohran Mamdani was sworn in as the Mayor
+  fresh-122: Who ousted Sussan Ley in February 2026 in Australian politics? -> Angus Taylor

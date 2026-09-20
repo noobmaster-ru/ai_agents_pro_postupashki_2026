@@ -1,0 +1,95 @@
+{
+ "task": {
+  "id": "fresh-49",
+  "source": "fresh",
+  "question": "What was the sentence given to Asiya Andrabi in India on March 24, 2026?",
+  "answer": "life imprisonment",
+  "evidence": "24 March – A special NIA court sentences Kashmiri separatist Asiya Andrabi to life imprisonment for her involvement in terrorist activities in Kashmir.",
+  "page": "2026 in India",
+  "url": "https://en.wikipedia.org/wiki/2026_in_India",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница",
+ "model": "claude-haiku-4.5",
+ "answer": "Perfect! I found the information about Asiya Andrabi's sentencing.\n\nFINAL: life imprisonment",
+ "final": "life imprisonment",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.010737,
+ "seconds": 44.8,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "What was the sentence given to Asiya Andrabi in India on March 24, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": "I'll search for information about Asiya Andrabi's sentencing on March 24, 2026.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_011pUwrStjE7mJhWkuUZxHV3",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Asiya Andrabi sentence March 24 2026 India\"}"
+     }
+    },
+    {
+     "type": "function",
+     "index": 1,
+     "id": "toolu_bdrk_014GtAD4KXrnHKMeRdRabBre",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"2026 in India March events\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_011pUwrStjE7mJhWkuUZxHV3",
+   "content": "[Asiya Andrabi] Asiya Andrabi is a Kashmiri separatist and founding leader of Dukhtaran-e-Millat. This group is part of the separatist organisation All Parties Hurriyat Conference in the Kashmir Valley. Government of India has declared it as a banned organization. The organisation claims that it aims for the freedom of Kashmir from India. Until her arrest, she was one of the most important women separatists in the valley. She is married to Ashiq Hussain Faktoo (a founding member of the Hizbul Mujahideen) in 1990. Her husband has been in jail since 1992, convicted of murder. Asiya Andrabi had a major role in starting and backing-up various protests in the Kashmir Valley. She is best known for supporting Masarat Alam in the 2010 Kashmir unrest across Kashmir by using her village network of Dukhtaran-e-Millat operatives for rally support. She hoisted the Pakistan flag and sang the Pakistani national anthem in Kashmir on 25 March 2015. Later on, she was booked for that. On 12 September 2015, she slaughtered a cow and released a video in a bid to defy the ban on sale of beef in Jammu and Kashmir. On 6 July 2018, Asiya was taken into custody by the National Investigation Agency (NIA)."
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_014GtAD4KXrnHKMeRdRabBre",
+   "content": "[2026 in India] The following is a list of events for the year 2026 in India."
+  },
+  {
+   "role": "assistant",
+   "content": "Let me search more specifically in the 2026 in India article for March events.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01CXryPdka8oxnCZLo6tr7t6",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\": \"2026 in India\", \"keywords\": \"Asiya Andrabi sentence March 24\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01CXryPdka8oxnCZLo6tr7t6",
+   "content": "[2026 in India] 24 March – A special NIA court sentences Kashmiri separatist Asiya Andrabi to life imprisonment for her involvement in terrorist activities in Kashmir.\n24 January – A fire at a four-story building in Hyderabad, Telangana, kills six people.\n7 February – 8 March – 2026 Men's T20 World Cup.\n=== March ===\n1 March – At least 15 people are killed and 18 others are critically injured in an explosion at an explosives factory in Nagpur district, Maharashtra.\n2 March – Prime Minister Narendra Modi and Canadian Prime Minister Mark Carney announce that Canada and India have agreed to a deal that would strengthen their economic partnership, in a move aimed at boosting ties after two years of strained relationship between the two countries.\n4 March – The United States allows India to buy Russian oil until 4 April.\n5 March –\n7 March – The government allows the Iranian Navy vessel IRIS Lavan to dock in Kochi on humanitarian grounds amid the 2026 Iran war.\n8 March – India beat New Zealand in the final match and win the 2026 Men's T20 World Cup in cricket.\n11 March –\n14 March – Sonam Wangchuk is released from jail after the government quashes the National Security Act (India) against him in aftermath of the Ladakh protests.\n16 March – At least 10 patients are killed in a fire at SCB Medical College in Cuttack, Odisha.\n18 March –\n19 March – The Government of India constitutes the National Dental Commission (NDC), replacing the Dental Council of India established under the Dentists Act, 1948, to align dental education and regulation with global standards.\n19–21 March – President Droupadi Murmu undertakes a three-day spiritual tour of Uttar Pradesh, visiting Ayodhya, Mathura and Vrindavan, where she offers prayers at the ISKCON Temple and Prem Mandir, Vrindavan.\n23 March –\nMarch 2026 – India is awarded hosting rights for the 2028 World Athletics Indoor Championships, with Bhubaneswar selected as the host city, making India the fourth Asian nation to host the event.\n25 Ma"
+  },
+  {
+   "role": "assistant",
+   "content": "Perfect! I found the information about Asiya Andrabi's sentencing.\n\nFINAL: life imprisonment",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

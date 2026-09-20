@@ -1,0 +1,109 @@
+{
+ "task": {
+  "id": "fresh-122",
+  "source": "fresh",
+  "question": "Who ousted Sussan Ley in February 2026 in Australian politics?",
+  "answer": "Angus Taylor",
+  "evidence": "February 13 – Sussan Ley, the first female leader of the Liberal Party of Australia, was ousted by Angus Taylor.",
+  "page": "2026 in politics",
+  "url": "https://en.wikipedia.org/wiki/2026_in_politics",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница",
+ "model": "claude-haiku-4.5",
+ "answer": "Perfect! I found the information. According to the 2026 in Australia article, Angus Taylor ousted Sussan Ley in February 2026.\n\nFINAL: Angus Taylor",
+ "final": "Angus Taylor",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.012499,
+ "seconds": 44.4,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "Who ousted Sussan Ley in February 2026 in Australian politics?"
+  },
+  {
+   "role": "assistant",
+   "content": "I'll search for information about this event in Australian politics from February 2026.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01FjjGcpMCPzNwy9yCd96gsq",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Sussan Ley ousted February 2026 Australian politics\"}"
+     }
+    },
+    {
+     "type": "function",
+     "index": 1,
+     "id": "toolu_bdrk_01BUmPuM7axBGCbj4fwKiTd6",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Sussan Ley February 2026\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01FjjGcpMCPzNwy9yCd96gsq",
+   "content": "[Sussan Ley] Sussan Penelope Ley (née Braybrooks; born 14 December 1961) is an Australian retired politician who served as the leader of the Opposition from 2025 to 2026, holding office as the 16th leader of the Liberal Party. She was the member of Parliament (MP) for the New South Wales division of Farrer from 2001 to 2026, and served as a minister in the Abbott, Turnbull, and Morrison governments. Born into an English family in Nigeria, Ley grew up in the Trucial States (now the United Arab Emirates) and England, before moving to Australia as a teenager. Prior to entering politics, she worked as a commercial pilot, farmer and public servant based in Albury. She was elected to the House of Representatives at the 2001 federal election, winning the regional New South Wales seat of Farrer. Ley was appointed parliamentary secretary by John Howard in 2004, serving until the Coalition's defeat at the 2007 election. After the election, she held positions the Nelson, Turnbull, and Abbott shadow ministries. After the Liberal–National Coalition's victory at the 2013 election, Ley was appointed Assistant Minister for Education by Tony Abbott, later joining the cabinet in 2014 as Minister for Health and Minister for Sport. She continued to serve in the cabinet until January 2017, resigning amid a scandal regarding her travel expenses. She would return to the ministry in August 2018 after Scott Morrison succeeded Malcolm Turnbull as prime minister, becoming an assistant minister and later returning to cabinet in 2019 as Minister for the Environment, remaining in this position until the Coalition's defeat at the 2022 election. Ley was elected unopposed as deputy leader of the Liberal Party under Peter Dutton after the 2022 defeat. After Dutton lost his seat in the Coalition's landslide defeat at the 2025 election, she was elected Liberal leader at a leadership election, becoming leader of the Opposition as the first woman in Australian history to hold either position. In her ten"
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01BUmPuM7axBGCbj4fwKiTd6",
+   "content": "[Sussan Ley] Sussan Penelope Ley (née Braybrooks; born 14 December 1961) is an Australian retired politician who served as the leader of the Opposition from 2025 to 2026, holding office as the 16th leader of the Liberal Party. She was the member of Parliament (MP) for the New South Wales division of Farrer from 2001 to 2026, and served as a minister in the Abbott, Turnbull, and Morrison governments. Born into an English family in Nigeria, Ley grew up in the Trucial States (now the United Arab Emirates) and England, before moving to Australia as a teenager. Prior to entering politics, she worked as a commercial pilot, farmer and public servant based in Albury. She was elected to the House of Representatives at the 2001 federal election, winning the regional New South Wales seat of Farrer. Ley was appointed parliamentary secretary by John Howard in 2004, serving until the Coalition's defeat at the 2007 election. After the election, she held positions the Nelson, Turnbull, and Abbott shadow ministries. After the Liberal–National Coalition's victory at the 2013 election, Ley was appointed Assistant Minister for Education by Tony Abbott, later joining the cabinet in 2014 as Minister for Health and Minister for Sport. She continued to serve in the cabinet until January 2017, resigning amid a scandal regarding her travel expenses. She would return to the ministry in August 2018 after Scott Morrison succeeded Malcolm Turnbull as prime minister, becoming an assistant minister and later returning to cabinet in 2019 as Minister for the Environment, remaining in this position until the Coalition's defeat at the 2022 election. Ley was elected unopposed as deputy leader of the Liberal Party under Peter Dutton after the 2022 defeat. After Dutton lost his seat in the Coalition's landslide defeat at the 2025 election, she was elected Liberal leader at a leadership election, becoming leader of the Opposition as the first woman in Australian history to hold either position. In her ten"
+  },
+  {
+   "role": "assistant",
+   "content": "The search results show that Sussan Ley was leader of the Opposition from 2025 to 2026, but I need more specific information about who ousted her. Let me search for more details about events in February 2026.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01YWbTKkVmqL3uTWm5q6G5Ce",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"2026 Australian politics Liberal Party leader\"}"
+     }
+    },
+    {
+     "type": "function",
+     "index": 1,
+     "id": "toolu_bdrk_015ngtHv8c2BRmzvwk33XaGf",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\": \"2026 in Australia\", \"keywords\": \"Sussan Ley February ousted leader\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01YWbTKkVmqL3uTWm5q6G5Ce",
+   "content": "[Leader of the Liberal Party of Australia] The leader of the Liberal Party, also known as leader of the Parliamentary Liberal Party, is the highest office within the Liberal Party of Australia, as well as within the Liberal–National Coalition. The incumbent leader is Angus Taylor, who was elected on 13 February 2026."
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_015ngtHv8c2BRmzvwk33XaGf",
+   "content": "[2026 in Australia] Sussan Ley until 13 February, then Angus Taylor\nNational leader David Littleproud confirms the party had again quit the Coalition, saying \"our partyroom has made it clear that we cannot be part of a shadow ministry under Sussan Ley\" and that \"we sit by ourselves\" in the parliament. This is the second time the National party left the Coalition since 2025.\n2026 Liberal Party of Australia leadership spill is held. Angus Taylor wins the election against Sussan Ley.\nOpposition Leader\n=== State and territory leaders ===\nOpposition Leader – Kellie Sloane\nOpposition Leader – Steven Miles\nOpposition Leader – Ashton Hurn\nOpposition Leader – Josh Willie\nOpposition Leader – Jess Wilson\nOpposition Leader – Basil Zempilas\nOpposition Leader – Mark Parton\nOpposition Leader – Selena Uibo\nGovernor of New South Wales – Margaret Beazley\n4 January – Over 60 prominent sportspeople including tennis player Lleyton Hewitt, canoeist Jessica Fox, swimmer Ian Thorpe and former cricket team captain Michael Clarke pen an open letter calling on Prime Minister Anthony Albanese to establish a federal royal commission into antisemitism, radicalisation and the 2025 Bondi Beach shooting.\n21 January – National Party of Australia senators Bridget McKenzie, Ross Cadell and Susan McDonald quit the Ley shadow ministry after opposing the official Liberal–National Coalition position on the hate speech law. Following this, the eight remaining National frontbenchers also resign from the shadow cabinet.\n28 January – Colin Boyce announces he will challenge David Littleproud for the leadership of the National Party of Australia.\n=== February ===\n2 February –\n2026 National Party of Australia leadership spill: Incumbent leader David Littleproud is re-elected, defeating Queensland MP Colin Boyce.\n5 February –\nThe Australian Federal Police charge a 19-year old Sydney teenager with one count of using a social media platform to issue a death threat against Israeli President Isaac Herzog, who is expe"
+  },
+  {
+   "role": "assistant",
+   "content": "Perfect! I found the information. According to the 2026 in Australia article, Angus Taylor ousted Sussan Ley in February 2026.\n\nFINAL: Angus Taylor",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

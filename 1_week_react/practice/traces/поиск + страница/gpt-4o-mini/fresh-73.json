@@ -1,0 +1,81 @@
+{
+ "task": {
+  "id": "fresh-73",
+  "source": "fresh",
+  "question": "Who was sentenced to two years' imprisonment for bribery in South Korea on August 31, 2026?",
+  "answer": "Han Hak-ja",
+  "evidence": "31 August – A court in Seoul sentences Unification Church leader Han Hak-ja to two years' imprisonment for bribery involving former first lady Kim Keon Hee.",
+  "page": "2026 in South Korea",
+  "url": "https://en.wikipedia.org/wiki/2026_in_South_Korea",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница",
+ "model": "gpt-4o-mini",
+ "answer": "FINAL: Han Hak-ja 2 years",
+ "final": "Han Hak-ja 2 years",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.00033945,
+ "seconds": 26.6,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "Who was sentenced to two years' imprisonment for bribery in South Korea on August 31, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_px0TaHXQ2cqae4SPuRp4puuo",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"August 31 2026 South Korea bribery sentencing\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_px0TaHXQ2cqae4SPuRp4puuo",
+   "content": "[2026 in South Korea] Scheduled events in 2026 in South Korea."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_k6ZWWjZUKpKkSyVxsRHKQ6l2",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 in South Korea\",\"keywords\":\"bribery sentenced August 31\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_k6ZWWjZUKpKkSyVxsRHKQ6l2",
+   "content": "[2026 in South Korea] Former president Yoon Suk Yeol is convicted and sentenced to five years' imprisonment on charges of abuse of power, obstruction of justice and falsification of documents in one of four trials relating to the 2024 South Korean martial law crisis.\n21 January – Former prime minister Han Duck-soo is convicted and sentenced to 23 years' imprisonment on charges relating to the 2024 South Korean martial law crisis.\n28 January – Former first lady Kim Keon Hee is convicted and sentenced to 20 months' imprisonment on charges of accepting bribes from the Unification Church.\n12 February – Former interior minister Lee Sang-min is convicted and sentenced to seven years' imprisonment on charges relating to the 2024 South Korean martial law crisis.\n19 February – Former president Yoon Suk Yeol is convicted and sentenced to life imprisonment for insurrection relating to the 2024 South Korean martial law crisis.\n12 June – Former president Yoon Suk Yeol is sentenced to 30 years' imprisonment for sending drones into North Korea as part of efforts to stage provocations to justify the imposition of martial law in 2024.\n22 June – Former justice minister Park Sung-jae is sentenced to 25 years' imprisonment for his role in abetting the imposition of martial law in 2024.\n=== August ===\n10 August – Two former Chinese military officers are arrested in separate incidents on suspicion of spying.\n17 August –\n24 August – A police officer is arrested for issuing false information following the discovery of four bodies linked to missing persons cases in Jeju Province.\n31 August – A court in Seoul sentences Unification Church leader Han Hak-ja to two years' imprisonment for bribery involving former first lady Kim Keon Hee.\n15 August – National Liberation Day of Korea\n31st Busan International Film Festival\n29 August – Lee Yong-joo, 44, actor."
+  },
+  {
+   "role": "assistant",
+   "content": "FINAL: Han Hak-ja 2 years",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

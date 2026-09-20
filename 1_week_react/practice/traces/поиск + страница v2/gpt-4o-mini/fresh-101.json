@@ -1,0 +1,183 @@
+{
+ "task": {
+  "id": "fresh-101",
+  "source": "fresh",
+  "question": "What is the duration of the ceasefire in the 2026 Lebanon war?",
+  "answer": "10-day",
+  "evidence": "April 16 – 2026 Lebanon war: A US-brokered 10-day ceasefire takes effect between Israel and Lebanon, following ambassador-level talks in the White House.",
+  "page": "2026",
+  "url": "https://en.wikipedia.org/wiki/2026",
+  "sonnet_answer": "unknown",
+  "agent_ok": false
+ },
+ "config": "поиск + страница v2",
+ "model": "gpt-4o-mini",
+ "answer": "The initial ceasefire in the 2026 Lebanon war was agreed on 16 April 2026 for a duration of 10 days, which was extended multiple times. FINAL: 10 days",
+ "final": "10 days",
+ "correct": false,
+ "steps": 7,
+ "cost": 0.0015195,
+ "seconds": 169.9,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "What is the duration of the ceasefire in the 2026 Lebanon war?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_VwqvxFOk10zIPyRs6MOeHayZ",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"2026 Lebanon war ceasefire duration\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_VwqvxFOk10zIPyRs6MOeHayZ",
+   "content": "[January 2025 Gaza war ceasefire] A hostages-and-prisoners exchange and armistice between Israel and Hamas-led Palestinian militant groups in the Gaza Strip took effect from 19 January to 18 March 2025, during the Gaza war. It included eight rounds of hostage-and-prisoner exchanges between Israel and Hamas. The initial proposal included three stages, beginning with a six-week ceasefire and the release of all Israelis and Palestinians by both parties, an end to the war, Israel's withdrawal from the Gaza Strip, and a reconstruction plan. The proposal was first drafted by mediators from the United States, Egypt, and Qatar, accepted by Hamas on 5 May 2024. On 10 June, the UN Security Council supported it as Resolution 2735. Later in 2024, Israeli prime minister Benjamin Netanyahu rejected a permanent ceasefire, while some US officials also accused Hamas of hindering the proposal. President-elect Donald Trump joined President Biden in pressuring Israel to accept a similar proposal. A variation of the proposal was accepted by Israel and Hamas on 15 January 2025. On 17 January, the deal was signed and approved by the Security Cabinet of Israel and later the full Cabinet of Israel. During the first stage, in exchange of the release of 30–50 Palestinians prisoners for every Israeli released, Hamas released 33 hostages. Israel agreed to provide \"intensive and sufficient\" quantities of humanitarian aid, allow displaced Palestinians to return home and begin a phased withdrawal from Gaza. In the second stage, Israel would accept a permanent ceasefire and Hamas would release the remaining living male hostages, both civilians and soldiers, for an exchange of Palestinian prisoners. In the third stage, the remains of deceased Israeli hostages would be released. Under the 5 May proposal, Israel would commit to lifting the blockade on the Gaza Strip, but this commitment was not present in the 31 May proposal. From the beginning of the implementation of the deal, Israel was consistentl"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_KMXKDUqC4UdLUfo8SKRHsUSn",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"2026 in Lebanon\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_KMXKDUqC4UdLUfo8SKRHsUSn",
+   "content": "[2026 Lebanon war] Since 2 March 2026, there has been an ongoing war in Lebanon between Israel and the militant group Hezbollah, with Israel invading parts of Lebanon. It is a resumption of major fighting in the Hezbollah–Israel conflict, and part of the wider conflict in the Middle East. The war has precipitated a humanitarian crisis, resulted in the deaths of more than 4,000 people from Israeli strikes in Lebanon, and seen the forced displacement of over 1 million. Hezbollah's response to the Gaza war led to the 2024 Israeli invasion of Lebanon. After an Israel-Lebanon ceasefire agreement in November 2024, Israel still conducted airstrikes, saying that Hezbollah breached ceasefire conditions. Hezbollah launched strikes on Israel on 2 March 2026, in response to Israel and the United States launching a war against Iran, Hezbollah's main backer, and assassinating its supreme leader. Israel resumed airstrikes across Lebanon on a larger scale and, on March 16, began ground operations in southern Lebanon. The main bridges on the Litani River were blown up by Israel to cut off the south from the rest of Lebanon; Bint Jbeil became a site of intense ground combat. Israel announced it would demolish Lebanese border villages and occupy Lebanon up to the Litani. Lebanon moved to ban Hezbollah's military activities; it also condemned Israeli attacks on Lebanese civilians. Iran called for an end to Israeli attacks in Lebanon as a condition for a ceasefire in the wider war. After a ceasefire halted the Iran war, Hezbollah halted its attacks. Israeli Prime Minister Benjamin Netanyahu said the ceasefire did not apply to Lebanon, contradicting Iran and the Pakistani mediator, and launched the largest airstrikes of the war. On 16 April, Israel and Lebanon agreed to a 10-day ceasefire, later extended more than once. On 3 June, Israel and Lebanon reached an agreement, facilitated by the US. On June 4, Hezbollah rejected the Lebanon-Israel deal and demanded a full ceasefire and a full "
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_Ql619UZ11veH2RsBgJCxfx8X",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 Lebanon war\",\"keywords\":\"ceasefire duration\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_Ql619UZ11veH2RsBgJCxfx8X",
+   "content": "[2026 Lebanon war] Hezbollah's response to the Gaza war led to the 2024 Israeli invasion of Lebanon. After an Israel-Lebanon ceasefire agreement in November 2024, Israel still conducted airstrikes, saying that Hezbollah breached ceasefire conditions. Hezbollah launched strikes on Israel on 2 March 2026, in response to Israel and the United States launching a war against Iran, Hezbollah's main backer, and assassinating its supreme leader. Israel resumed airstrikes across Lebanon on a larger scale and, on March 16, began ground operations in southern Lebanon. The main bridges on the Litani River were blown up by Israel to cut off the south from the rest of Lebanon; Bint Jbeil became a site of intense ground combat. Israel announced it would demolish Lebanese border villages and occupy Lebanon up to the Litani. Lebanon moved to ban Hezbollah's military activities; it also condemned Israeli attacks on Lebanese civilians. Iran called for an end to Israeli attacks in Lebanon as a condition for a ceasefire in the wider war.\nAfter a ceasefire halted the Iran war, Hezbollah halted its attacks. Israeli Prime Minister Benjamin Netanyahu said the ceasefire did not apply to Lebanon, contradicting Iran and the Pakistani mediator, and launched the largest airstrikes of the war. On 16 April, Israel and Lebanon agreed to a 10-day ceasefire, later extended more than once. On 3 June, Israel and Lebanon reached an agreement, facilitated by the US. On June 4, Hezbollah rejected the Lebanon-Israel deal and demanded a full ceasefire and a full Israeli withdrawal from Lebanon. Speaker of Lebanese Parliament Nabih Berri suggested that Hezbollah and Israel both withdraw from south of the Litani.\nOn 15 June, the Islamabad Memorandum was agreed between the US and Iran, including a ceasefire in Lebanon. Israeli forces remained in occupied areas of Lebanon. On 19 June, U.S. President Donald Trump announced an Israel-Hezbollah truce entering into force at 4 p.m. local time. On 26 June, US secreta"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_IFEArUdFUBfPRHKTYC608HJl",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 Lebanon war\",\"keywords\":\"ceasefire\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_IFEArUdFUBfPRHKTYC608HJl",
+   "content": "[2026 Lebanon war] Hezbollah's response to the Gaza war led to the 2024 Israeli invasion of Lebanon. After an Israel-Lebanon ceasefire agreement in November 2024, Israel still conducted airstrikes, saying that Hezbollah breached ceasefire conditions. Hezbollah launched strikes on Israel on 2 March 2026, in response to Israel and the United States launching a war against Iran, Hezbollah's main backer, and assassinating its supreme leader. Israel resumed airstrikes across Lebanon on a larger scale and, on March 16, began ground operations in southern Lebanon. The main bridges on the Litani River were blown up by Israel to cut off the south from the rest of Lebanon; Bint Jbeil became a site of intense ground combat. Israel announced it would demolish Lebanese border villages and occupy Lebanon up to the Litani. Lebanon moved to ban Hezbollah's military activities; it also condemned Israeli attacks on Lebanese civilians. Iran called for an end to Israeli attacks in Lebanon as a condition for a ceasefire in the wider war.\nAfter a ceasefire halted the Iran war, Hezbollah halted its attacks. Israeli Prime Minister Benjamin Netanyahu said the ceasefire did not apply to Lebanon, contradicting Iran and the Pakistani mediator, and launched the largest airstrikes of the war. On 16 April, Israel and Lebanon agreed to a 10-day ceasefire, later extended more than once. On 3 June, Israel and Lebanon reached an agreement, facilitated by the US. On June 4, Hezbollah rejected the Lebanon-Israel deal and demanded a full ceasefire and a full Israeli withdrawal from Lebanon. Speaker of Lebanese Parliament Nabih Berri suggested that Hezbollah and Israel both withdraw from south of the Litani.\nOn 15 June, the Islamabad Memorandum was agreed between the US and Iran, including a ceasefire in Lebanon. Israeli forces remained in occupied areas of Lebanon. On 19 June, U.S. President Donald Trump announced an Israel-Hezbollah truce entering into force at 4 p.m. local time. On 26 June, US secreta"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_I4nbdbRWDSqKQ93Ha9I0GK2c",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 Lebanon war\",\"keywords\":\"truce ceasefire\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_I4nbdbRWDSqKQ93Ha9I0GK2c",
+   "content": "[2026 Lebanon war] On 15 June, the Islamabad Memorandum was agreed between the US and Iran, including a ceasefire in Lebanon. Israeli forces remained in occupied areas of Lebanon. On 19 June, U.S. President Donald Trump announced an Israel-Hezbollah truce entering into force at 4 p.m. local time. On 26 June, US secretary of state Marco Rubio announced a framework deal between Israel and Lebanon for \"lasting peace and security\". The agreement includes full disarmament of Hezbollah; it was rejected by Hezbollah. On 30 June, Iran announced that it, along with the US and Lebanon, has reached an agreement to establish a committee to oversee the conclusion of the war. On 15 July, the US State Department reported that Israel has agreed to withdraw from pilot zones in southern Lebanon. On 20 July, the US announced that Israel handed over sections of the buffer zone occupied by it in southern Lebanon to the Lebanese government as per its U.S.-mediated deal with Beirut. Lebanon's army began deploying in Zawtar al-Gharbiyeh on July 21, after an Israeli withdrawal in line with the agreement.\nOn 16 April, President Trump announced that Israel and Lebanon agreed to a 10-day truce, after his conversations with Prime Minister Netanyahu and President Aoun. The ceasefire entered into force on the night of 16/17 April local time. The IDF said the death of Ali Reda Abbas and other unnamed Hezbollah commanders, and alleged to have eliminated over 150 militants by the end of operations. Israeli defense minister Katz said that the IDF will hold its positions in southern Lebanon, and the Israeli military warned residents of the area to remain north of the Litani River, while the Lebanese military reported several violations of the ceasefire by Israel. The violations reportedly took place with attacks in Khiam and Bint Jbeil, and shelling in Dibbin. According to IDF commanders, residents will not be allowed to return to 55 villages that are in its operational zone, and PM Netanyahu stressed"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_2yVSPZRX0VYYJ1HHLUC0qEpn",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"2026 Lebanon war ceasefire end\"}"
+     }
+    },
+    {
+     "type": "function",
+     "index": 1,
+     "id": "call_qNohkchmbmhTJtkfiqQHthjo",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\": \"2026 Lebanon war\", \"keywords\": \"April June\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_2yVSPZRX0VYYJ1HHLUC0qEpn",
+   "content": "[2026 Israel–Lebanon ceasefire] The 2026 Israel–Lebanon ceasefire is a cessation of hostilities agreed between Israel and Lebanon on 16 April 2026, amid the ongoing 2026 Lebanon war and wider regional conflict linked to the 2026 Iran war. The agreement, brokered by the United States, established a 10-day truce intended to halt active fighting and create conditions for further negotiations toward a longer-term settlement. The ceasefire came into effect shortly after its announcement and marked the first direct diplomatic engagement between Israel and Lebanon in decades. On 17 April, Iran announced that passage of commercial vessels through the Hormuz Strait was completely open during the truce in Lebanon, but closed it again the next day in response to the US refusal to lift its naval blockade. On 23 April, US President Donald Trump announced that Israel and Lebanon agreed to a three-week extension of the ceasefire. On 27 April, Hezbollah leader Naim Qassem stated that the group will not revert to the pre-March status and will respond to Israeli attacks. On 15 May, the truce was extended for another 45 days. On 1 June, Israel and Hezbollah agreed to a ceasefire, with Israel committing not to target Beirut's southern suburbs and Hezbollah vowing not to attack Israel, under a US proposal aiming to extend the ceasefire to all of Lebanon. On 3 June, Israel and Lebanon agreed to renew the ceasefire, mediated by the US, and plan to establish \"pilot zones\". On 4 June, Hezbollah rejected the truce deal announced the previous day and instead demanded a comprehensive truce and full withdrawal of Israel from Lebanon. On 19 June, an American official said that Israel and Hezbollah agreed to a truce mediated by the US, Qatar and Iran. On 26 June, US Secretary of State Marco Rubio announced a framework deal between Israel and Lebanon for \"lasting peace and security\" via US mediation. The agreement includes a cease-fire, requiring Hezbollah to end hostilities and withdraw from sout"
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_qNohkchmbmhTJtkfiqQHthjo",
+   "content": "[2026 Lebanon war] After a ceasefire halted the Iran war, Hezbollah halted its attacks. Israeli Prime Minister Benjamin Netanyahu said the ceasefire did not apply to Lebanon, contradicting Iran and the Pakistani mediator, and launched the largest airstrikes of the war. On 16 April, Israel and Lebanon agreed to a 10-day ceasefire, later extended more than once. On 3 June, Israel and Lebanon reached an agreement, facilitated by the US. On June 4, Hezbollah rejected the Lebanon-Israel deal and demanded a full ceasefire and a full Israeli withdrawal from Lebanon. Speaker of Lebanese Parliament Nabih Berri suggested that Hezbollah and Israel both withdraw from south of the Litani.\nOn 15 June, the Islamabad Memorandum was agreed between the US and Iran, including a ceasefire in Lebanon. Israeli forces remained in occupied areas of Lebanon. On 19 June, U.S. President Donald Trump announced an Israel-Hezbollah truce entering into force at 4 p.m. local time. On 26 June, US secretary of state Marco Rubio announced a framework deal between Israel and Lebanon for \"lasting peace and security\". The agreement includes full disarmament of Hezbollah; it was rejected by Hezbollah. On 30 June, Iran announced that it, along with the US and Lebanon, has reached an agreement to establish a committee to oversee the conclusion of the war. On 15 July, the US State Department reported that Israel has agreed to withdraw from pilot zones in southern Lebanon. On 20 July, the US announced that Israel handed over sections of the buffer zone occupied by it in southern Lebanon to the Lebanese government as per its U.S.-mediated deal with Beirut. Lebanon's army began deploying in Zawtar al-Gharbiyeh on July 21, after an Israeli withdrawal in line with the agreement.\n=== Fifth week (30 March – 5 April) ===\nOn 1 April, an Israeli Navy strike in Beirut killed the commander of Hezbollah's Southern Front, Hajj Yusuf Ismail Hashem, whose predecessor Ali Karaki was killed in September 2024. Hezbollah confi"
+  },
+  {
+   "role": "assistant",
+   "content": "The initial ceasefire in the 2026 Lebanon war was agreed on 16 April 2026 for a duration of 10 days, which was extended multiple times. FINAL: 10 days",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "task": {
+  "id": "fresh-22",
+  "source": "fresh",
+  "question": "In animation, what is the name of the indie animated series created by Matt Braly that was fully funded on March 17, 2026?",
+  "answer": "Clara and the Below",
+  "evidence": "March 17: The Kickstarter campaign for Amphibia creator Matt Braly's indie animated series Clara and the Below was fully funded within 15 minutes of launching.",
+  "page": "2026 in animation",
+  "url": "https://en.wikipedia.org/wiki/2026_in_animation",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница",
+ "model": "gpt-4o-mini",
+ "answer": "FINAL: Clara and the Below",
+ "final": "Clara and the Below",
+ "correct": true,
+ "steps": 4,
+ "cost": 0.0004983,
+ "seconds": 41.6,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "In animation, what is the name of the indie animated series created by Matt Braly that was fully funded on March 17, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_RmgHO68ZapnIrYSEeTopy1Kz",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"indie animated series created by Matt Braly fully funded March 17, 2026\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_RmgHO68ZapnIrYSEeTopy1Kz",
+   "content": "[Matt Braly] Matthew Benjakarn Braly (born November 8, 1988) is a Thai-American animator, storyboard artist, writer, and director. He is best known as the creator and executive producer of the Disney Channel animated series Amphibia. He also worked as a director on Gravity Falls and Big City Greens."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_X52adzjYcTbLbvTwUxd7wbeG",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"2026 in animation\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_X52adzjYcTbLbvTwUxd7wbeG",
+   "content": "[2026 in animation] 2026 in animation is an overview of notable events, including notable awards, list of films released, television show debuts and endings, and notable deaths."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_1sgfWlC1dpw0EKSiLA87jub6",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 in animation\",\"keywords\":\"indie animated series Matt Braly March 17\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_1sgfWlC1dpw0EKSiLA87jub6",
+   "content": "[2026 in animation] The Phineas and Ferb spin-off short series titled Agent P, Under C premiered on Disney+, with its first episode uploaded to YouTube.\nJanuary 17: The final ten episodes from the fifth season of Phineas and Ferb were released on Disney+.\nA crossover series between Cocomelon and Hello Kitty, titled CoComelon Playdates with Sanrio Friends, was released on YouTube.\nFebruary 10: Amphibia creator Matt Braly announces that Sony Pictures Animation has canceled a planned film that he and Steven Universe creator Rebecca Sugar had been working on together.\nGlitch Productions announces that Knights of Guinevere would be produced as a full series.\nThe teaser trailer for the indie animated series, Clara and the Below, created by Amphibia creator Matt Braly, was released on YouTube.\n=== March ===\nMarch 1: Various Cartoon Network, Warner Bros. Animation, and Hanna-Barbera series were added to Tubi.\nMarch 2: The thirteenth season of Gabby's Dollhouse, titled \"Fairylandia\", premiered on Netflix.\nMarch 6:\nParamount+ greenlights a new Garfield series starring Lamorne Morris as the titular character.\nMarch 7:\nMarch 9: It is confirmed that Donald Glover will voice Yoshi in The Super Mario Galaxy Movie.\nMarch 12:\nMarch 15: 98th Academy Awards:\nKPop Demon Hunters directed by Maggie Kang and Chris Appelhans wins Best Animated Feature.\nThe Girl Who Cried Pearls directed by Chris Lavis and Maciek Szczerbowski wins Best Animated Short.\nMarch 17: The Kickstarter campaign for Amphibia creator Matt Braly's indie animated series Clara and the Below was fully funded within 15 minutes of launching.\nMarch 18: Season 4 of Invincible premiered on Prime Video.\nMarch 19: Bugs Bunny was added as a skin to Fortnite.\nMarch 20: The eighth and penultimate episode of The Amazing Digital Circus, titled \"hjsakldfhl\", was released on YouTube.\nMarch 21:\nMarch 26: Lola Bunny & Daffy Duck were added as skins to Fortnite.\nMarch 28: Hercules, Megara, & Hades, from Disney's Hercules, were all added a"
+  },
+  {
+   "role": "assistant",
+   "content": "FINAL: Clara and the Below",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

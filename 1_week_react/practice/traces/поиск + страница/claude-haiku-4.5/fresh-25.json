@@ -1,0 +1,73 @@
+{
+ "task": {
+  "id": "fresh-25",
+  "source": "fresh",
+  "question": "In the Afghanistan–Pakistan war, what did the government of Pakistan declare on February 26, 2026?",
+  "answer": "\"open war\"",
+  "evidence": "February 26 – 2026 Afghanistan–Pakistan war: The government of Pakistan declares \"open war\" against the Taliban in Afghanistan.",
+  "page": "2026",
+  "url": "https://en.wikipedia.org/wiki/2026",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница",
+ "model": "claude-haiku-4.5",
+ "answer": "Perfect! I found the information. According to the search results about the 2026 Afghanistan-Pakistan war, on February 26, 2026, Pakistan declared an \"open war\" against Afghanistan.\n\nFINAL: open war",
+ "final": "open war",
+ "correct": true,
+ "steps": 2,
+ "cost": 0.0067480000000000005,
+ "seconds": 28.0,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "In the Afghanistan–Pakistan war, what did the government of Pakistan declare on February 26, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": "I'll search for information about what Pakistan declared on February 26, 2026 in the Afghanistan-Pakistan war.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01U8yzCkG3UiLqN7PDE6XiHn",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Afghanistan Pakistan war February 26 2026\"}"
+     }
+    },
+    {
+     "type": "function",
+     "index": 1,
+     "id": "toolu_bdrk_01G252vZ9mpXoaoDggGg7qVs",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Pakistan declaration February 2026\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01U8yzCkG3UiLqN7PDE6XiHn",
+   "content": "[2026 Afghanistan–Pakistan war] A war began in late February 2026 between Afghanistan and Pakistan following Pakistani airstrikes on militant targets in eastern Afghanistan. Pakistan said the strikes targeted militant camps belonging to the Pakistani Taliban (TTP) and the Islamic State – Khorasan Province (ISIS–K), in retaliation for recent cross-border attacks in Pakistan, while Afghan authorities and the United Nations Assistance Mission in Afghanistan (UNAMA) have reported casualties, though with different figures. The initial strikes escalated into a broader cross-border confrontation involving airstrikes, artillery exchanges, drone incidents, and clashes at multiple points along the Afghanistan–Pakistan border. On 26 February, Taliban forces launched retaliatory attacks on Pakistani military positions and border outposts, describing them as a calculated response. Pakistan subsequently declared an \"open war\" against Afghanistan and launched Operation Ghazab lil Haq, a large-scale campaign involving air and ground strikes against Taliban positions across eastern Afghanistan. Both sides have reported widely differing casualty figures and military outcomes, with each disputing the other's claims regarding losses, damage, and responsibility for civilian casualties. Independent reporting and satellite imagery have indicated that many Pakistani strikes were directed at military-related sites. The conflict has had significant humanitarian and political consequences. UNAMA reported civilian deaths and injuries and urged compliance with international law. Thousands of people have been displaced on both sides of the border, and reports from Afghanistan have described restrictions on media coverage, pressure on civilians to participate in anti-Pakistan activities, and efforts to mobilize additional fighters."
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01G252vZ9mpXoaoDggGg7qVs",
+   "content": "[2026 Bishkek SCO summit] The 2026 Bishkek SCO summit was the 26th meeting of the Council of Heads of State of the Shanghai Cooperation Organisation (SCO), held from 31 August to 1 September 2026 in Bishkek, Kyrgyzstan. It was the fourth time that Kyrgyzstan hosted the meeting, and it closed Kyrgyzstan's 2025–2026 rotating chairmanship, marking the 25th anniversary of the organisation's founding. The summit was chaired by Kyrgyz President Sadyr Japarov, under the theme \"25 Years of the SCO: Together for Sustainable Peace, Development and Prosperity\". The summit adopted the Bishkek Declaration and 27 other documents, and Kyrgyzstan handed the rotating chairmanship to Pakistan at the summit's conclusion."
+  },
+  {
+   "role": "assistant",
+   "content": "Perfect! I found the information. According to the search results about the 2026 Afghanistan-Pakistan war, on February 26, 2026, Pakistan declared an \"open war\" against Afghanistan.\n\nFINAL: open war",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "task": {
+  "id": "fresh-18",
+  "source": "fresh",
+  "question": "In Germany, what was the date when a Munich court imprisoned an Iraqi couple for enslaving and raping Yazidi girls?",
+  "answer": "13 July",
+  "evidence": "13 July – A Munich court imprisons an Iraqi couple who were members of Islamic State for enslaving and raping Yazidi girls.",
+  "page": "2026 in Germany",
+  "url": "https://en.wikipedia.org/wiki/2026_in_Germany",
+  "sonnet_answer": "November 25, 2021",
+  "agent_ok": false
+ },
+ "config": "поиск + страница",
+ "model": "claude-haiku-4.5",
+ "answer": "Perfect! I found the information. According to the Wikipedia article on the 2026 Munich Yazidi genocide trial, the Munich court imprisoned the Iraqi couple on **13 July 2026**.\n\nFINAL: 13 July 2026",
+ "final": "13 July 2026",
+ "correct": true,
+ "steps": 7,
+ "cost": 0.03129,
+ "seconds": 85.5,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "In Germany, what was the date when a Munich court imprisoned an Iraqi couple for enslaving and raping Yazidi girls?"
+  },
+  {
+   "role": "assistant",
+   "content": "I'll search for information about this case in Germany involving an Iraqi couple and Yazidi girls.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01NsYmePyR82Zu3iZH6GCmxG",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Munich court Iraqi couple enslaving raping Yazidi girls\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01NsYmePyR82Zu3iZH6GCmxG",
+   "content": "[Yazidi genocide] The Yazidi genocide also known as the 74th firman by Yazidis, was perpetrated by the Islamic State in Iraq and Syria between 2014 and 2017. It was characterized by massacres, genocidal rape, and forced conversions to Islam. The Yazidis are a Kurdish-speaking people who are indigenous to Kurdistan who practice Yazidism, a monotheistic Iranian ethnoreligion derived from the Indo-Iranian tradition. Over a period of three years, Islamic State militants trafficked thousands of Yazidi women and girls and killed thousands of Yazidi men. The United Nations reported that the Islamic State killed about 5,000 Yazidis and trafficked about 10,800 Yazidi women and girls in a \"forced conversion campaign\" throughout Iraq. By 2015, upwards of 71% of the global Yazidi population was displaced by the genocide, with most Yazidi refugees having fled to Iraq's Kurdistan Region and Syria's Rojava. The persecution of Yazidis, along with other religious minorities, took place after the Islamic State's Northern Iraq offensive of June 2014. Amid numerous atrocities committed by the Islamic State, the Yazidi genocide attracted international attention and prompted the United States to establish CJTF–OIR, a military coalition consisting of many Western countries and Turkey, Morocco, and Jordan. Additionally, the United States, the United Kingdom, and Australia made emergency airdrops to support Yazidi refugees who were trapped in the Sinjar Mountains due to the Islamic State's Northern Iraq offensive of August 2014. During the Sinjar massacre, in which the Islamic State killed and abducted thousands of trapped Yazidis, the United States and the United Kingdom began carrying out airstrikes on the advancing Islamic State militants, while the People's Defense Units and the Kurdistan Workers' Party jointly formed a humanitarian corridor to evacuate the rest of the Yazidi refugees from the Sinjar Mountains. The United Nations and several other organizations, including the Council of"
+  },
+  {
+   "role": "assistant",
+   "content": "This search gave general information about the Yazidi genocide. Let me search more specifically for the Munich court case.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01U7V9Qm74kAETpPHcSz7wLK",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Munich court Iraqi couple imprisoned Yazidi 2024\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01U7V9Qm74kAETpPHcSz7wLK",
+   "content": "[Yazidi genocide] The Yazidi genocide also known as the 74th firman by Yazidis, was perpetrated by the Islamic State in Iraq and Syria between 2014 and 2017. It was characterized by massacres, genocidal rape, and forced conversions to Islam. The Yazidis are a Kurdish-speaking people who are indigenous to Kurdistan who practice Yazidism, a monotheistic Iranian ethnoreligion derived from the Indo-Iranian tradition. Over a period of three years, Islamic State militants trafficked thousands of Yazidi women and girls and killed thousands of Yazidi men. The United Nations reported that the Islamic State killed about 5,000 Yazidis and trafficked about 10,800 Yazidi women and girls in a \"forced conversion campaign\" throughout Iraq. By 2015, upwards of 71% of the global Yazidi population was displaced by the genocide, with most Yazidi refugees having fled to Iraq's Kurdistan Region and Syria's Rojava. The persecution of Yazidis, along with other religious minorities, took place after the Islamic State's Northern Iraq offensive of June 2014. Amid numerous atrocities committed by the Islamic State, the Yazidi genocide attracted international attention and prompted the United States to establish CJTF–OIR, a military coalition consisting of many Western countries and Turkey, Morocco, and Jordan. Additionally, the United States, the United Kingdom, and Australia made emergency airdrops to support Yazidi refugees who were trapped in the Sinjar Mountains due to the Islamic State's Northern Iraq offensive of August 2014. During the Sinjar massacre, in which the Islamic State killed and abducted thousands of trapped Yazidis, the United States and the United Kingdom began carrying out airstrikes on the advancing Islamic State militants, while the People's Defense Units and the Kurdistan Workers' Party jointly formed a humanitarian corridor to evacuate the rest of the Yazidi refugees from the Sinjar Mountains. The United Nations and several other organizations, including the Council of"
+  },
+  {
+   "role": "assistant",
+   "content": "Let me try a different search approach focusing on the trial verdict.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01UNmAbCtdhs8YinxnZ1948V",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Iraq couple slavery Yazidi girls Germany trial verdict\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01UNmAbCtdhs8YinxnZ1948V",
+   "content": "[History of slavery] The history of slavery spans many different cultures, tribes, nationalities and religions from ancient periods to the present day. Likewise, its victims have come from many different ethnicities and religious groups. The social, economic and legal positions of slaves have differed vastly in different systems of slavery in different times and places. Slavery has been found in some hunter-gatherer populations, particularly as hereditary slavery, but the conditions of agriculture with increasing social and economic complexity following the Neolithic Revolution which began in Western Asia circa 10,000 BC offer greater opportunity for mass chattel slavery. Slavery was institutionalized by the time the first civilizations emerged (such as Sumer, Akkad, Assyria and Babylonia, Mesopotamia, which dates back as far as 5400 BC). Slavery features in the Mesopotamian Code of Hammurabi (c. 1750 BC), which refers to it as an established institution. Slavery was widespread in the ancient world in Europe, Western Asia, the Indian subcontinent, Central Asia, East Asia, North Africa, West Africa, Central Africa, East Africa (including the Horn of Africa) and the Americas. Slavery became less common throughout Europe during the Early Middle Ages but continued to be practiced in some areas. Both Christians and Muslims captured and enslaved each other during centuries of warfare in the Mediterranean and Europe. Islamic slavery encompassed mainly Western and Central Asia, Northern and Eastern Africa, India, and Europe from the 7th to the 20th century. Islamic law approved of the enslavement of non-Muslims, and slaves were trafficked from non-Muslim lands: from the North via the Balkan slave trade and the Crimean slave trade; from the East via the Bukhara slave trade; from the West via Andalusian slave trade; and from the South via the Trans-Saharan slave trade, the Red Sea slave trade and the Indian Ocean slave trade. Beginning in the 16th century, European merchants,"
+  },
+  {
+   "role": "assistant",
+   "content": "Let me search with a more specific query about the court case.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_01TZEZjqFRtVbpSswEtcSZkP",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"Munich court imprisonment Iraqi couple Yazidi women\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_01TZEZjqFRtVbpSswEtcSZkP",
+   "content": "[Yazidi genocide] The Yazidi genocide also known as the 74th firman by Yazidis, was perpetrated by the Islamic State in Iraq and Syria between 2014 and 2017. It was characterized by massacres, genocidal rape, and forced conversions to Islam. The Yazidis are a Kurdish-speaking people who are indigenous to Kurdistan who practice Yazidism, a monotheistic Iranian ethnoreligion derived from the Indo-Iranian tradition. Over a period of three years, Islamic State militants trafficked thousands of Yazidi women and girls and killed thousands of Yazidi men. The United Nations reported that the Islamic State killed about 5,000 Yazidis and trafficked about 10,800 Yazidi women and girls in a \"forced conversion campaign\" throughout Iraq. By 2015, upwards of 71% of the global Yazidi population was displaced by the genocide, with most Yazidi refugees having fled to Iraq's Kurdistan Region and Syria's Rojava. The persecution of Yazidis, along with other religious minorities, took place after the Islamic State's Northern Iraq offensive of June 2014. Amid numerous atrocities committed by the Islamic State, the Yazidi genocide attracted international attention and prompted the United States to establish CJTF–OIR, a military coalition consisting of many Western countries and Turkey, Morocco, and Jordan. Additionally, the United States, the United Kingdom, and Australia made emergency airdrops to support Yazidi refugees who were trapped in the Sinjar Mountains due to the Islamic State's Northern Iraq offensive of August 2014. During the Sinjar massacre, in which the Islamic State killed and abducted thousands of trapped Yazidis, the United States and the United Kingdom began carrying out airstrikes on the advancing Islamic State militants, while the People's Defense Units and the Kurdistan Workers' Party jointly formed a humanitarian corridor to evacuate the rest of the Yazidi refugees from the Sinjar Mountains. The United Nations and several other organizations, including the Council of"
+  },
+  {
+   "role": "assistant",
+   "content": "Let me try searching for \"2024 in Germany\" or similar to find the specific trial information.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_016rmUk7RsurZfmykSePNgBL",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"2024 in Germany crime trial\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_016rmUk7RsurZfmykSePNgBL",
+   "content": "[Prosecution of Syrian civil war criminals] International and national courts outside Syria have begun the prosecution of Syrian civil war criminals. War crimes perpetrated by the Syrian government under Bashar Al-Assad or rebel groups include extermination, murder, rape or other forms of sexual violence, torture and imprisonment. \"[A]ccountability for serious violations of international humanitarian law and human rights is central to achieving and maintaining durable peace in Syria\", stated UN Under-Secretary-General Rosemary DiCarlo. The first war crimes trial related to the Syrian civil war concluded on 12 July 2016 in Germany. It was the case of Aria L. performed under the Völkerstrafgesetzbuch (Code of Crimes against International Law (CCAIL)). As of December 2024, the evidence collection and cooperation with prosecutors by the Independent International Commission of Inquiry on the Syrian Arab Republic (COI) had led to 50 convictions for war crimes and crimes against humanity during the Syrian civil war. In 2026, the Syrian transitional government began holding trials for regime officials including Atef Najib and Amjad Youssef."
+  },
+  {
+   "role": "assistant",
+   "content": "Let me search more specifically for the Iraqi couple trial in Munich.",
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "toolu_bdrk_017FoyHZbyU8M11qDy3XaT4Z",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\": \"\\\"Iraqi couple\\\" \\\"Yazidi\\\" \\\"Munich\\\"\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "toolu_bdrk_017FoyHZbyU8M11qDy3XaT4Z",
+   "content": "[2026 Munich Yazidi genocide trial] Twana H.S. and Asia R.A., an Iraqi Kurdish former married couple and former members of the Islamic State (IS), were convicted by the Higher Regional Court (Oberlandesgericht) in Munich, Germany, on 13 July 2026 of genocide, crimes against humanity, and war crimes, among other offences, over the enslavement, torture, and sexual abuse of two Yazidi girls in Iraq and Syria between 2015 and 2017. Twana H.S. was sentenced to life imprisonment; Asia R.A., who was a minor for part of the period covered by the charges, received a juvenile sentence of nine years and six months. The case was tried under Germany's application of the principle of universal jurisdiction, which allows German courts to prosecute genocide, crimes against humanity, and war crimes committed abroad regardless of the nationality of the perpetrator or victim. It followed several earlier German prosecutions of IS members over crimes against Yazidis, including the 2021 genocide conviction of Taha al-Jumailly and the related 2021 conviction of his then-wife Jennifer Wenisch, both also tried before Munich courts."
+  },
+  {
+   "role": "assistant",
+   "content": "Perfect! I found the information. According to the Wikipedia article on the 2026 Munich Yazidi genocide trial, the Munich court imprisoned the Iraqi couple on **13 July 2026**.\n\nFINAL: 13 July 2026",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

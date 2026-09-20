@@ -1,0 +1,8 @@
+requests
+pydantic
+python-dotenv
+pandas
+matplotlib
+pytest
+tabulate
+tqdm

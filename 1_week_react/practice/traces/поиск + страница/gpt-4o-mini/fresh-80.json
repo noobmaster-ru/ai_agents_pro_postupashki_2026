@@ -1,0 +1,81 @@
+{
+ "task": {
+  "id": "fresh-80",
+  "source": "fresh",
+  "question": "What regulation did the Supreme Court of India stay on January 29, 2026?",
+  "answer": "UGC Equity Regulations, 2026",
+  "evidence": "29 January – The Supreme Court of India stays the implementation of the UGC Equity Regulations, 2026 citing misuse by specific groups.",
+  "page": "2026 in India",
+  "url": "https://en.wikipedia.org/wiki/2026_in_India",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница",
+ "model": "gpt-4o-mini",
+ "answer": "The Supreme Court of India stayed the implementation of the UGC Equity Regulations, 2026 on January 29, 2026. FINAL: UGC Equity Regulations, 2026",
+ "final": "UGC Equity Regulations, 2026",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.0004107,
+ "seconds": 75.4,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "What regulation did the Supreme Court of India stay on January 29, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_VyEYxgD0biVfCiAyltZR4Cnx",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"Supreme Court of India stay January 29 2026\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_VyEYxgD0biVfCiAyltZR4Cnx",
+   "content": "[UGC Equity Regulations, 2026] The University Grants Commission (Promotion of Equity in Higher Education Institutions) Regulations, 2026, commonly referred to as the UGC Equity Regulations, 2026 or the Anti-Discrimination Rules, 2026, are regulations notified by the University Grants Commission (UGC) in India aimed at addressing discrimination within higher education institutions (HEIs). The regulations seek to replace the existing 2012 regulations with more stringent measures to ensure inclusion for students from marginalized backgrounds, particularly the Scheduled Castes (SC), Scheduled Tribes (ST) and Other Backward Classes (OBC). The bill saw protests against the Bharatiya Janta Party (BJP) across the country. As of 29 January 2026, the Supreme Court of India has stayed the proposed regulations."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_YwjISlhTtnA1qmwsQDiedDCj",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 in India\",\"keywords\":\"Supreme Court stay January 29\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_YwjISlhTtnA1qmwsQDiedDCj",
+   "content": "[2026 in India] === January ===\n2 January – At least 14 people die and several people are hospitalised after drinking contaminated water in Indore, Madhya Pradesh.\n5 January – A magnitude 5.1 earthquake hits Assam, injuring three people.\n9 January –\nAt least 20 people are reported killed after being attacked by a single wild elephant roaming the forests of West Singhbhum district, Jharkhand since 1 January.\n19 January –\n20 January – At least two people are killed in clashes after a youth's murder in Kokrajhar, Assam.\n21 January –\n22 January – A Casspir of the Indian Army falls into a gorge in Doda, Jammu and Kashmir, killing 10 soldiers and injuring 10 others.\n24 January – A fire at a four-story building in Hyderabad, Telangana, kills six people.\n26 January – Protests break out across the country over the UGC Bill 2026.\n27 January – India and the European Union reach a free trade agreement.\n28 January – 2026 Baramati Learjet 45 crash: Five people, including Maharashtra deputy chief minister, Ajit Pawar, are killed after a Learjet 45 crashes and explodes at Baramati Airport in Maharashtra.\n29 January – The Supreme Court of India stays the implementation of the UGC Equity Regulations, 2026 citing misuse by specific groups.\n30 January – At least 25 people are killed in a fire at a Wow! Momo restaurant in Kolkata.\n27 February – A special court in Delhi discharges Arvind Kejriwal, Manish Sisodia, K. Kavitha and 22 others in the Delhi liquor scam case.\nThe Supreme Court rules in favor of removing life support from Harish Rana, who had been in a vegetative state following a fall in 2013, marking the first time that passive euthanasia has been allowed by an Indian court.\nA special court in Madurai convicts all nine police personnel involved in the 2020 Sathankulam custodial death case.\n24 March – A special NIA court sentences Kashmiri separatist Asiya Andrabi to life imprisonment for her involvement in terrorist activities in Kashmir.\n27 March – Lawmakers from the Jammu & K"
+  },
+  {
+   "role": "assistant",
+   "content": "The Supreme Court of India stayed the implementation of the UGC Equity Regulations, 2026 on January 29, 2026. FINAL: UGC Equity Regulations, 2026",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

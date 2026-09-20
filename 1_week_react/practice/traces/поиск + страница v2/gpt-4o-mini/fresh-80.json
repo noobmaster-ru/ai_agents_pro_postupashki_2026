@@ -1,0 +1,95 @@
+{
+ "task": {
+  "id": "fresh-80",
+  "source": "fresh",
+  "question": "What regulation did the Supreme Court of India stay on January 29, 2026?",
+  "answer": "UGC Equity Regulations, 2026",
+  "evidence": "29 January – The Supreme Court of India stays the implementation of the UGC Equity Regulations, 2026 citing misuse by specific groups.",
+  "page": "2026 in India",
+  "url": "https://en.wikipedia.org/wiki/2026_in_India",
+  "sonnet_answer": "unknown",
+  "agent_ok": true
+ },
+ "config": "поиск + страница v2",
+ "model": "gpt-4o-mini",
+ "answer": "On January 29, 2026, the Supreme Court of India stayed the implementation of the UGC Equity Regulations, 2026. FINAL: UGC Equity Regulations, 2026",
+ "final": "UGC Equity Regulations, 2026",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.00050355,
+ "seconds": 30.3,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "What regulation did the Supreme Court of India stay on January 29, 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_Qfl5mFoaVEXfkZ30R5TzZ9Ah",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"Supreme Court of India stay January 29 2026\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_Qfl5mFoaVEXfkZ30R5TzZ9Ah",
+   "content": "[UGC Equity Regulations, 2026] The University Grants Commission (Promotion of Equity in Higher Education Institutions) Regulations, 2026, commonly referred to as the UGC Equity Regulations, 2026 or the Anti-Discrimination Rules, 2026, are regulations notified by the University Grants Commission (UGC) in India aimed at addressing discrimination within higher education institutions (HEIs). The regulations seek to replace the existing 2012 regulations with more stringent measures to ensure inclusion for students from marginalized backgrounds, particularly the Scheduled Castes (SC), Scheduled Tribes (ST) and Other Backward Classes (OBC). The bill saw protests against the Bharatiya Janta Party (BJP) across the country. As of 29 January 2026, the Supreme Court of India has stayed the proposed regulations."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_4U4N09PMKwfqneMxzI8mfOgU",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\": \"2026 in India\", \"keywords\": \"Supreme Court stay January 29\"}"
+     }
+    },
+    {
+     "type": "function",
+     "index": 1,
+     "id": "call_wgPHNSGFr18d077sSz4Unln5",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\": \"2026\", \"keywords\": \"Supreme Court stay January 29\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_4U4N09PMKwfqneMxzI8mfOgU",
+   "content": "[2026 in India] 29 January – The Supreme Court of India stays the implementation of the UGC Equity Regulations, 2026 citing misuse by specific groups.\nThe Supreme Court rules in favor of removing life support from Harish Rana, who had been in a vegetative state following a fall in 2013, marking the first time that passive euthanasia has been allowed by an Indian court.\n27 May – The Supreme Court of India upholds the constitutional validity of the Special Intensive Revision in a landmark verdict.\nThe government of Tamil Nadu moves the Supreme Court against the order of Madras High Court imposing a ban of slaughter of cows in Tamil Nadu.\nThe Supreme Court directs the Director of All India Institutes of Medical Sciences (AIIMS) to constitute a medical board to examine the health of convicted godman Asaram who sought an interim bail on medical grounds.\nThe Supreme Court permits Taj Trapezium Zone Authority to process pending applications for the establishment of non polluting Micro, Small and Medium Enterprises (MSME) within the Taj Trapezium Zone.\n=== January ===\n2 January – At least 14 people die and several people are hospitalised after drinking contaminated water in Indore, Madhya Pradesh.\n5 January – A magnitude 5.1 earthquake hits Assam, injuring three people.\n9 January –\nAt least 20 people are reported killed after being attacked by a single wild elephant roaming the forests of West Singhbhum district, Jharkhand since 1 January.\n19 January –\n20 January – At least two people are killed in clashes after a youth's murder in Kokrajhar, Assam.\n21 January –\n22 January – A Casspir of the Indian Army falls into a gorge in Doda, Jammu and Kashmir, killing 10 soldiers and injuring 10 others.\n24 January – A fire at a four-story building in Hyderabad, Telangana, kills six people.\n26 January – Protests break out across the country over the UGC Bill 2026.\n27 January – India and the European Union reach a free trade agreement.\n28 January – 2026 Baramati Learjet 45 crash: Five p"
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_wgPHNSGFr18d077sSz4Unln5",
+   "content": "[2026] The early part of the year saw escalating armed conflicts in the Americas and Middle East. In January, the United States launched a military operation in Venezuela that captured sitting President Nicolás Maduro, leading to a blockade of Venezuelan oil exports that contributed to a crisis in Cuba. In Syria, an offensive by the Syrian government led to the Syrian Democratic Forces eventually being integrated into the Syrian Army, ending the Rojava Revolution, while in Yemen, a counteroffensive by the Yemeni government led to the collapse of the Southern Transitional Council. In February, Pakistan launched airstrikes against Afghanistan, leading to an open war between both nations. In Iran, in response to authorities cracking down on protests, the United States and Israel began a war in late February with the assassination of Supreme Leader Ali Khamenei, which resulted in widespread economic grief, fuel shortages and retaliatory strikes on Gulf nations, as well as the closure of the Strait of Hormuz and a naval blockade.\nJanuary 18 – 46 people are killed and 292 are injured after two trains derail in Adamuz in southern Spain.\nJanuary 29\n2026 Ceuta migrant crisis: Approximately 80,000 people illegally enter Ceuta, Spain with smaller numbers attempting to cross into Melilla, having swam from Morocco. This follows a Supreme Court of Spain decision prohibiting the hot return of migrants arriving by sea. At least 111 people are killed.\n=== January ===\nJanuary 1\nJanuary 2 – Equatorial Guinea moves its capital from Malabo to Ciudad de la Paz.\nJanuary 3 – The United States launches several airstrikes on multiple locations across northern Venezuela, capturing Venezuelan president Nicolás Maduro and first lady Cilia Flores.\nJanuary 5 – Delcy Rodríguez is formally sworn in as the acting president of Venezuela after the capture of Nicolás Maduro.\nJanuary 6\nJanuary 7 – The United States seizes two shadow fleet tankers, including one under a Russian flag, in the United States"
+  },
+  {
+   "role": "assistant",
+   "content": "On January 29, 2026, the Supreme Court of India stayed the implementation of the UGC Equity Regulations, 2026. FINAL: UGC Equity Regulations, 2026",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "task": {
+  "id": "fresh-126",
+  "source": "own",
+  "question": "Which Polish state honour did President Nawrocki strip from Volodymyr Zelenskyy in June 2026?",
+  "answer": "Order of the White Eagle",
+  "evidence": "19 June – President Nawrocki strips Ukrainian president Volodymyr Zelenskyy of the Order of the White Eagle, Poland's highest state honour, after Zelenskyy honored a special operations forces unit with the name \"Heroes of the Ukrainian Insurgent Army\", a Nazi-collaborating organization that conducted a genocide against Poles in Volhynia and Eastern Galicia.",
+  "page": "2026 in Poland",
+  "url": "https://en.wikipedia.org/wiki/2026_in_Poland",
+  "sonnet_answer": "unknown",
+  "agent_ok": null
+ },
+ "config": "поиск + страница v2",
+ "model": "gpt-4o-mini",
+ "answer": "FINAL: Order of the White Eagle",
+ "final": "Order of the White Eagle",
+ "correct": true,
+ "steps": 3,
+ "cost": 0.00032505,
+ "seconds": 25.1,
+ "messages": [
+  {
+   "role": "system",
+   "content": "Ты решаешь задачи. Если нужно посчитать или найти факт, вызывай инструменты, а не угадывай. Вопросы могут быть о событиях 2025-2026 годов, которых нет в твоих знаниях: такие факты лежат в обзорных статьях англоязычной Википедии с названиями вида '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' или просто '2026'. Сначала найди подходящую статью, затем читай её текст по ключевым словам из вопроса, если такой инструмент доступен. Не повторяй один и тот же вызов с теми же аргументами. Когда ответ готов, напиши его последней строкой в формате FINAL: <ответ>. В FINAL только сам ответ без пояснений: число цифрами (например 43, 2295, 41.5); если спрашивают сколько людей, лет, игр или месяцев, добавь это слово по-английски (2 people, 4 years, 8 games); дата как день и месяц по-английски (например 15 March); имя, название или короткая фраза так, как они написаны в источнике. Если факт найти не удалось, всё равно дай самый вероятный короткий ответ."
+  },
+  {
+   "role": "user",
+   "content": "Which Polish state honour did President Nawrocki strip from Volodymyr Zelenskyy in June 2026?"
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_4g7uioijZe5DrNswbRd9qssi",
+     "function": {
+      "name": "web_search",
+      "arguments": "{\"query\":\"2026 in Poland\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_4g7uioijZe5DrNswbRd9qssi",
+   "content": "[2026 in Poland] Events in the year 2026 in Poland."
+  },
+  {
+   "role": "assistant",
+   "content": null,
+   "refusal": null,
+   "reasoning": null,
+   "tool_calls": [
+    {
+     "type": "function",
+     "index": 0,
+     "id": "call_qFR9ls3CDi9CNfZdSpcF9pjd",
+     "function": {
+      "name": "page_find",
+      "arguments": "{\"title\":\"2026 in Poland\",\"keywords\":\"Nawrocki Zelenskyy honour\"}"
+     }
+    }
+   ]
+  },
+  {
+   "role": "tool",
+   "tool_call_id": "call_qFR9ls3CDi9CNfZdSpcF9pjd",
+   "content": "[2026 in Poland] 19 June – President Nawrocki strips Ukrainian president Volodymyr Zelenskyy of the Order of the White Eagle, Poland's highest state honour, after Zelenskyy honored a special operations forces unit with the name \"Heroes of the Ukrainian Insurgent Army\", a Nazi-collaborating organization that conducted a genocide against Poles in Volhynia and Eastern Galicia.\n3 February – A resident of Hrubieszów is sentenced to 3.5 years' imprisonment for spying as part of a Russian plot to assassinate Ukrainian president Volodymyr Zelenskyy in 2024.\n19 February – President Nawrocki signs a law lifting special support measures for Ukrainian refugees.\n12 March – President Nawrocki vetoes the EU-sponsored Security Action For Europe (SAFE) scheme that would have raised nearly 44 billion euros in loans to improve defense capabilities, citing issues of national sovereignty.\n27 June – Informal summit held in Jurata, attended by president Nawrocki, Estonian president Alar Karis, Latvian president Edgars Rinkēvičs, Lithuanian president Gitanas Nausėda and Romanian president Nicușor Dan, with talks focusing on cooperation on NATO's eastern flank.\nCeremony marking the 70th anniversary of the outbreak of the anti-communist 1956 Poznań protests held in Poznań, attended by president Nawrocki, Hungarian president Tamás Sulyok, Latvian president Edgars Rinkēvičs and Albanian president Bajram Begaj, with a joint statement signed by the four Presidents."
+  },
+  {
+   "role": "assistant",
+   "content": "FINAL: Order of the White Eagle",
+   "refusal": null,
+   "reasoning": null
+  }
+ ]
+}
