@@ -18,6 +18,11 @@ FINISH_PROMPT = ("Tools are no longer available. Answer from what you already ha
 RAG_SYSTEM = ("Answer the question using only the numbered sources. Cite the source number like [2]. "
               "If the sources do not contain the answer, reply exactly NOT_FOUND. " + FINAL_RULES)
 PLAIN_SYSTEM = "Answer the question from your own knowledge. If you do not know, reply exactly NOT_FOUND. " + FINAL_RULES
+FINAL_RULES_V2 = ("The last line must be FINAL: <short answer>. The short answer is a single item, not a list: a number in digits "
+                  "together with the unit word used in the source (2 people, 13 years, 8 games, 802,500 lira, 47 months), "
+                  "or a date as day and month (for example 15 March), or a name, a title or a short phrase exactly as written "
+                  "in the source. Do not add explanations after FINAL:.")
+RAG_SYSTEM_V2 = RAG_SYSTEM.replace(FINAL_RULES, FINAL_RULES_V2)
 AGENT_SYSTEM = ("You answer questions about events of 2026. Never answer from memory: look facts up with the knowledge_base tool. "
                 "Facts live in Wikipedia year pages such as '2026 in Japan', '2026 in sports', '2026 in science', '2026 in politics' or '2026'. "
                 "If the first result is off topic, search again with different or more specific words or restrict the page, "

@@ -69,10 +69,11 @@ def refusal_table(answerable: pd.DataFrame, unanswerable: pd.DataFrame) -> pd.Da
 
 def diagnose(results: pd.DataFrame, config: str, model: str) -> dict:
     part = results[(results["config"] == config) & (results["model"] == model)]
-    wrong = part[~part["correct"]]
-    return {"всего провалов": int(len(wrong)), "поиск не нашёл": int((~wrong["found"]).sum()),
-            "нашёл, но ответ неверный": int(wrong["found"].sum()),
-            "ids не нашёл": list(wrong[~wrong["found"]]["id"]), "ids нашёл": list(wrong[wrong["found"]]["id"])}
+    wrong = part[~part["correct"].astype(bool)]
+    found = wrong["found"].fillna(False).astype(bool)
+    return {"всего провалов": int(len(wrong)), "поиск не нашёл": int((~found).sum()),
+            "нашёл, но ответ неверный": int(found.sum()),
+            "ids не нашёл": list(wrong[~found]["id"]), "ids нашёл": list(wrong[found]["id"])}
 
 
 def last_week_rows(tasks: list[dict], week1_csv: Path, config: str, model: str, label: str) -> pd.DataFrame:

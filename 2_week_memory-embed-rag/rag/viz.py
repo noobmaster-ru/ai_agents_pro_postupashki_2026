@@ -20,7 +20,9 @@ def recall_chart(curves: dict[str, dict[int, float]], path=None, chosen_k: int |
     for (name, curve), color in zip(curves.items(), PALETTE):
         ax.plot([str(k) for k in curve], [v * 100 for v in curve.values()], marker="o", lw=2.2, color=color, label=name)
     if chosen_k is not None:
-        ax.axvline(str(chosen_k), color=COLORS["grey"], ls="--", lw=1.2)
+        ks = list(next(iter(curves.values())))
+        if chosen_k in ks:
+            ax.axvline(ks.index(chosen_k), color=COLORS["grey"], ls="--", lw=1.2)
     ax.set_xlabel("k, сколько кусков берём"); ax.set_ylabel("recall@k, %"); ax.set_ylim(0, 105)
     ax.legend(frameon=False); ax.grid(alpha=0.3)
     return _save(fig, path)
@@ -38,12 +40,13 @@ def money_chart(table: pd.DataFrame, path=None, baseline: tuple[str, float] | No
     if baseline:
         ax.axhline(baseline[1] * 100, color=COLORS["grey"], ls="--", lw=1.2)
         ax.annotate(baseline[0], (0.01, baseline[1] * 100 + 1.5), xycoords=("axes fraction", "data"), fontsize=8, color=COLORS["grey"])
+    offsets = [(8, 8), (8, -18), (-8, 8), (-8, -18)]
     for i, (_, r) in enumerate(table.iterrows()):
         color = COLORS["amber"] if "sonnet" in r["model"] else COLORS["teal"] if "haiku" in r["model"] else COLORS["violet"]
         ax.scatter(r["cost_per_task"] * 100, r["accuracy"] * 100, s=110, color=color)
-        left = i % 2 == 1
+        dx, dy = offsets[i % len(offsets)]
         ax.annotate(f"{r['config']}\n{r['model']}", (r["cost_per_task"] * 100, r["accuracy"] * 100), fontsize=8,
-                    xytext=(-8 if left else 8, 6), textcoords="offset points", ha="right" if left else "left")
+                    xytext=(dx, dy), textcoords="offset points", ha="left" if dx > 0 else "right")
     ax.set_xscale("log"); ax.set_xlim(table["cost_per_task"].min() * 100 / 8, table["cost_per_task"].max() * 100 * 6)
     ax.set_ylim(-5, 105); ax.set_xlabel("цена вопроса, центы (логарифмическая шкала)"); ax.set_ylabel("доля верных, %"); ax.grid(alpha=0.3)
     return _save(fig, path)

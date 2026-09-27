@@ -27,7 +27,30 @@ python make_report.py results/results_raw.csv
 
 Для пробного прогона `python run_homework.py --limit 10`.
 
-
-
 ## Вторая домашка
+
+Лежит в [2_week_memory-embed-rag/](2_week_memory-embed-rag/), отчёт с графиком recall@k, таблицей гибрида, итоговой таблицей, таблицей отказов, разбором провалов и графиком токенов памяти в [2_week_memory-embed-rag/README.md](2_week_memory-embed-rag/README.md), выполненный ноутбук в [2_week_memory-embed-rag/homework02.ipynb](2_week_memory-embed-rag/homework02.ipynb).
+
+Что внутри:
+
+- `data/corpus.jsonl` — полные тексты 47 страниц Википедии про 2026 год, `data/questions.jsonl` — 148 вопросов с цитатами, `data/unanswerable.jsonl` — 10 вопросов без ответа, `data/embeddings_cache.npz` — кэш эмбеддингов;
+- `rag/` — нарезка, кэш эмбеддингов, Milvus, поиск и гибрид, RAG-ответ, инструмент `knowledge_base`, память агента, замер и графики; агент и клиент OpenRouter берутся из первой домашки;
+- `docker-compose.yml` — Milvus standalone;
+- `tests/` — 20 тестов без модели и без ключа;
+- `results/`, `img/` — таблицы и картинки итогового прогона.
+
+Запуск с чистого клона:
+
+```
+cd 2_week_memory-embed-rag
+python -m venv ../.venv && source ../.venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env                       # вписать OPENROUTER_API_KEY
+docker compose up -d                       # Milvus на localhost:19530
+python -m pytest -q tests
+python run_eval.py                         # прогоны, результаты кэшируются в results/
+python build_notebook.py --run             # собрать и выполнить ноутбук
+```
+
+Без Docker: `MILVUS_URI=data/milvus_lite.db` переключает тот же код на Milvus Lite.
 

@@ -8,7 +8,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from rag import (DATA, RESULTS, MODELS, Ledger, LLMClient, EmbeddingCache, VectorStore, chunk_corpus, chunk_lines, emb_text,
                  load_jsonl, make_settings)
 from rag.evaluation import evaluate
-from rag.rag import AgentAnswerer, PlainAnswerer, RagAnswerer, Retriever, make_registry
+from rag.rag import RAG_SYSTEM_V2, AgentAnswerer, PlainAnswerer, RagAnswerer, Retriever, make_registry
 
 CONFIGS = {
     "plain_sonnet": ("strong", "без инструментов"),
@@ -16,6 +16,7 @@ CONFIGS = {
     "rag_cheap": ("cheap", "RAG всегда, k=5"),
     "agent_cheap": ("cheap", "агент с knowledge_base"),
     "rag_mid": ("mid", "RAG всегда, k=5"),
+    "rag_cheap_v2": ("cheap", "RAG всегда, k=5, промпт v2"),
 }
 
 
@@ -52,7 +53,7 @@ def main():
         if name.startswith("plain"):
             fn = PlainAnswerer(client)
         elif name.startswith("rag"):
-            fn = RagAnswerer(client, retriever, k=args.k)
+            fn = RagAnswerer(client, retriever, k=args.k, **({"system": RAG_SYSTEM_V2} if name.endswith("_v2") else {}))
         else:
             fn = AgentAnswerer(client, make_registry(retriever, args.k))
         traces = []

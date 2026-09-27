@@ -1,0 +1,11 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-0,False,False,True,5.31e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-1,False,False,True,5.22e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-2,False,False,True,7.8e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-3,False,False,True,5.79e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-4,False,False,True,4.995e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-5,False,False,True,6.855e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-6,False,False,True,6.675e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-7,False,False,True,5.01e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-8,False,False,True,5.895e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5, промпт v2",gpt-4o-mini,none-9,False,False,True,5.325e-05,1,1,NOT_FOUND,

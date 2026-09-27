@@ -28,7 +28,7 @@ class Ledger:
         return sum(c["cost"] for c in self.by_run(run_id))
 
     def table(self) -> pd.DataFrame:
-        df = pd.DataFrame(self.calls)
+        df = pd.DataFrame(self.calls, columns=["tag", "model", "prompt", "completion", "cost", "seconds", "run_id"])
         return df.groupby(["tag", "model"]).agg(calls=("cost", "size"), prompt=("prompt", "sum"),
                                                 completion=("completion", "sum"), cost=("cost", "sum"),
                                                 seconds=("seconds", "sum")).round(5)

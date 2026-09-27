@@ -1,0 +1,11 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+"RAG всегда, k=5",claude-haiku-4.5,none-0,False,False,True,0.000393,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-1,False,False,True,0.000394,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-2,False,False,True,0.000799,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-3,False,False,True,0.000627,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-4,False,False,True,0.00064,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-5,False,False,True,0.000741,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-6,False,False,True,0.000656,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-7,False,False,True,0.000643,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-8,False,False,True,0.000578,1,1,NOT_FOUND,
+"RAG всегда, k=5",claude-haiku-4.5,none-9,False,False,True,0.00062,1,1,NOT_FOUND,

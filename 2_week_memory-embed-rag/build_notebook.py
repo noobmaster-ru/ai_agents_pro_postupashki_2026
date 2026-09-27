@@ -114,7 +114,7 @@ out = agent_fn(tasks[3]["question"], MODELS["cheap"])
 print(final_answer(out["answer"]), "| эталон:", tasks[3]["answer"], "| обращений к базе:", out["searches"], "| цена, центов:", round(out["cost"] * 100, 4))"""),
     ("code", """names = {"plain_sonnet": "сильная модель, без инструментов", "plain_cheap": "дешёвая модель, без инструментов",
          "rag_cheap": "дешёвая модель, RAG всегда, k=5", "agent_cheap": "дешёвая модель, агент с knowledge_base",
-         "rag_mid": "средняя модель, RAG всегда, k=5"}
+         "rag_mid": "средняя модель, RAG всегда, k=5", "rag_cheap_v2": "дешёвая модель, RAG всегда, k=5, промпт v2"}
 frames, none_frames = [], []
 for name, label in names.items():
     df, dn = pd.read_csv(RESULTS / f"{name}.csv"), pd.read_csv(RESULTS / f"{name}_unanswerable.csv")
@@ -173,7 +173,7 @@ print(assistant.talk("s2", second, "Что интересного случило
 print(assistant.talk("s2", second, "Хоккей я забросила, теперь слежу за футболом. И я переехала в Калининград."))
 print(assistant.talk("s2", second, "Кто выиграл чемпионат мира по футболу 2026?"))
 print("\\nфакты после второй сессии:", assistant.end_session(second))
-print("что вспоминается на вопрос про город:", memory.recall("в каком городе живёт пользователь", 1))
+print("что вспоминается на вопрос «где теперь живёт Лена?»:", memory.recall("где теперь живёт Лена, в каком городе?", 2))
 pd.DataFrame(journal.read())[["session", "time", "role", "text"]].assign(text=lambda d: d["text"].str[:80])"""),
     ("md", """**График токенов.** Один и тот же диалог из десяти вопросов двумя способами: «вся история в контексте» и «окно из четырёх сообщений плюс факты». Считаем токены на входе по репликам и суммарную цену."""),
     ("code", """SCRIPT = [t["question"] for t in tasks[40:50]]
@@ -196,7 +196,7 @@ store.index("course", pdf, cache.embed([emb_text(c) for c in pdf])); cache.save(
 pdf_retriever = Retriever(store, cache, "course", 3)
 course_rag = RagAnswerer(client, pdf_retriever, k=3, system=COURSE_SYSTEM, tag="pdf")
 for q in ["Что такое RRF и зачем он нужен?", "Сколько баллов дают за память: две сессии, замену факта, график токенов и тесты без модели?",
-          "Какой бюджет на замер в пятидесяти вопросах в пяти конфигурациях?"]:
+          "Во сколько центов обошёлся весь прогон семинарского ноутбука и сколько из них съела сильная модель?"]:
     out = course_rag(q, MODELS["cheap"])
     print(q, "\\n ", " ".join(out["answer"].split())[:300], "\\n  источники:", [(h["page"], h["section"]) for h in out["hits"]], "\\n")"""),
     ("code", """ledger.table(), round(ledger.total, 4)"""),
