@@ -1,0 +1,149 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+без инструментов,gpt-4o-mini,fresh-0,False,False,False,2.07e-05,1,0,16 March 2026,15 March
+без инструментов,gpt-4o-mini,fresh-1,False,False,False,2.805e-05,1,0,14 February,22 March
+без инструментов,gpt-4o-mini,fresh-2,False,False,True,1.785e-05,1,0,NOT_FOUND,Miguel Díaz-Canel
+без инструментов,gpt-4o-mini,fresh-3,False,False,True,1.74e-05,1,0,NOT_FOUND,a strategic partnership agreement
+без инструментов,gpt-4o-mini,fresh-4,False,False,False,2.43e-05,1,0,"2026: January, Victoria, Australia, new measures.",A total fire ban
+без инструментов,gpt-4o-mini,fresh-5,False,False,True,1.83e-05,1,0,NOT_FOUND,two people
+без инструментов,gpt-4o-mini,fresh-7,False,False,True,1.77e-05,1,0,NOT_FOUND,Deniz Göktaş
+без инструментов,gpt-4o-mini,fresh-8,False,False,True,1.8e-05,1,0,NOT_FOUND,Pavel Durov
+без инструментов,gpt-4o-mini,fresh-9,False,False,False,2.145e-05,1,0,2026: a number in digits,New Delhi
+без инструментов,gpt-4o-mini,fresh-10,False,False,False,2.115e-05,1,0,11: a number in digits,Twelve
+без инструментов,gpt-4o-mini,fresh-11,False,False,True,1.95e-05,1,0,NOT_FOUND,Helter Skelter
+без инструментов,gpt-4o-mini,fresh-12,False,False,True,1.905e-05,1,0,NOT_FOUND,"700,000"
+без инструментов,gpt-4o-mini,fresh-13,False,False,True,1.8e-05,1,0,NOT_FOUND,41.5 °C
+без инструментов,gpt-4o-mini,fresh-14,False,False,True,1.83e-05,1,0,NOT_FOUND,Ciudad Rodrigo
+без инструментов,gpt-4o-mini,fresh-15,False,False,True,1.92e-05,1,0,NOT_FOUND,Oleksandr Syrskyi
+без инструментов,gpt-4o-mini,fresh-16,False,False,True,1.845e-05,1,0,NOT_FOUND,Montreal Victoire
+без инструментов,gpt-4o-mini,fresh-17,False,False,True,1.83e-05,1,0,NOT_FOUND,EOS-05
+без инструментов,gpt-4o-mini,fresh-18,False,False,False,3.3e-05,1,0,30 November,13 July
+без инструментов,gpt-4o-mini,fresh-19,False,False,True,1.875e-05,1,0,NOT_FOUND,Disney Kids & Family
+без инструментов,gpt-4o-mini,fresh-20,False,False,False,5.115e-05,1,0,a number in digits: 2026,single-elimination
+без инструментов,gpt-4o-mini,fresh-21,False,False,True,1.86e-05,1,0,NOT_FOUND,Gavin Snider
+без инструментов,gpt-4o-mini,fresh-22,False,False,False,2.415e-05,1,0,Amphibia: 17 March 2026,Clara and the Below
+без инструментов,gpt-4o-mini,fresh-23,False,False,True,1.875e-05,1,0,NOT_FOUND,German Galushchenko
+без инструментов,gpt-4o-mini,fresh-24,False,False,True,1.83e-05,1,0,NOT_FOUND,a drought
+без инструментов,gpt-4o-mini,fresh-25,False,False,True,1.95e-05,1,0,NOT_FOUND,"""open war"""
+без инструментов,gpt-4o-mini,fresh-26,False,False,False,2.415e-05,1,0,3: 24 August 2026,nine
+без инструментов,gpt-4o-mini,fresh-27,False,False,True,2.01e-05,1,0,NOT_FOUND,Markus Hinterhäuser
+без инструментов,gpt-4o-mini,fresh-28,False,False,True,1.995e-05,1,0,NOT_FOUND,nine
+без инструментов,gpt-4o-mini,fresh-29,False,False,True,1.875e-05,1,0,NOT_FOUND,43
+без инструментов,gpt-4o-mini,fresh-30,False,False,True,1.83e-05,1,0,NOT_FOUND,Ankara
+без инструментов,gpt-4o-mini,fresh-31,False,False,True,1.845e-05,1,0,NOT_FOUND,Aibek Dädebai
+без инструментов,gpt-4o-mini,fresh-32,False,False,True,1.785e-05,1,0,NOT_FOUND,Richard Lewer
+без инструментов,gpt-4o-mini,fresh-33,False,False,True,1.815e-05,1,0,NOT_FOUND,Marilyn Gladu
+без инструментов,gpt-4o-mini,fresh-34,False,False,True,1.875e-05,1,0,NOT_FOUND,6.3
+без инструментов,gpt-4o-mini,fresh-35,False,False,True,1.875e-05,1,0,NOT_FOUND,Dina Levačić
+без инструментов,gpt-4o-mini,fresh-37,False,False,False,1.89e-05,1,0,06 June,15 June
+без инструментов,gpt-4o-mini,fresh-38,False,False,True,1.845e-05,1,0,NOT_FOUND,Chief Minister
+без инструментов,gpt-4o-mini,fresh-39,False,False,True,1.83e-05,1,0,NOT_FOUND,Gelida
+без инструментов,gpt-4o-mini,fresh-40,False,False,True,1.8e-05,1,0,NOT_FOUND,Vladimir Alekseyev
+без инструментов,gpt-4o-mini,fresh-41,False,False,True,1.83e-05,1,0,NOT_FOUND,Thirty thousand people
+без инструментов,gpt-4o-mini,fresh-42,False,False,True,1.77e-05,1,0,NOT_FOUND,Prime Minister Narendra Modi
+без инструментов,gpt-4o-mini,fresh-43,False,False,True,1.845e-05,1,0,NOT_FOUND,Zohran Mamdani
+без инструментов,gpt-4o-mini,fresh-44,False,False,True,1.89e-05,1,0,NOT_FOUND,LHS 1140 b
+без инструментов,gpt-4o-mini,fresh-45,False,False,True,1.86e-05,1,0,NOT_FOUND,F-16 Fighting Falcon
+без инструментов,gpt-4o-mini,fresh-46,False,False,False,2.52e-05,1,0,"0: 1 August, 2026, Moscow bombing.",five
+без инструментов,gpt-4o-mini,fresh-47,False,False,True,1.815e-05,1,0,NOT_FOUND,Education Minister
+без инструментов,gpt-4o-mini,fresh-48,False,False,True,1.8e-05,1,0,NOT_FOUND,Mykhailo Fedorov
+без инструментов,gpt-4o-mini,fresh-49,False,False,True,1.86e-05,1,0,NOT_FOUND,life imprisonment
+без инструментов,gpt-4o-mini,fresh-50,False,False,True,1.92e-05,1,0,NOT_FOUND,"802,500 lira"
+без инструментов,gpt-4o-mini,fresh-51,False,False,True,1.95e-05,1,0,NOT_FOUND,Bruno Foucher
+без инструментов,gpt-4o-mini,fresh-52,False,False,True,1.845e-05,1,0,NOT_FOUND,5.2
+без инструментов,gpt-4o-mini,fresh-53,False,False,True,1.92e-05,1,0,NOT_FOUND,Tonya McBride Robles
+без инструментов,gpt-4o-mini,fresh-54,False,False,True,1.89e-05,1,0,NOT_FOUND,80
+без инструментов,gpt-4o-mini,fresh-55,True,False,False,2.595e-05,1,0,"0: 2 January, 2026, Guerrero, earthquake.",two
+без инструментов,gpt-4o-mini,fresh-56,False,False,True,1.725e-05,1,0,NOT_FOUND,3%
+без инструментов,gpt-4o-mini,fresh-57,False,False,True,1.875e-05,1,0,NOT_FOUND,Yoon Suk Yeol
+без инструментов,gpt-4o-mini,fresh-58,False,False,True,1.89e-05,1,0,NOT_FOUND,BYD Auto
+без инструментов,gpt-4o-mini,fresh-59,False,False,True,1.89e-05,1,0,NOT_FOUND,Carson Ting
+без инструментов,gpt-4o-mini,fresh-60,False,False,True,1.77e-05,1,0,NOT_FOUND,209
+без инструментов,gpt-4o-mini,fresh-61,False,False,False,2.73e-05,1,0,"0: 15 March, Daejeon factory fire, workers injured.",Fourteen
+без инструментов,gpt-4o-mini,fresh-62,False,False,True,1.785e-05,1,0,NOT_FOUND,13 years
+без инструментов,gpt-4o-mini,fresh-63,False,False,False,2.775e-05,1,0,"0: 1 March, 2026, Ratschings, avalanche incident.",Two
+без инструментов,gpt-4o-mini,fresh-64,False,False,True,1.785e-05,1,0,NOT_FOUND,mayor of Lutsk
+без инструментов,gpt-4o-mini,fresh-65,False,False,True,1.935e-05,1,0,NOT_FOUND,16
+без инструментов,gpt-4o-mini,fresh-66,False,False,False,2.265e-05,1,0,25: a number in digits.,at least six
+без инструментов,gpt-4o-mini,fresh-67,False,False,True,1.95e-05,1,0,NOT_FOUND,Liam Nassereddine
+без инструментов,gpt-4o-mini,fresh-68,False,False,True,1.86e-05,1,0,NOT_FOUND,Mark Carney
+без инструментов,gpt-4o-mini,fresh-69,False,False,True,2.01e-05,1,0,<short answer>: NOT_FOUND,Leipzig
+без инструментов,gpt-4o-mini,fresh-70,False,False,False,2.07e-05,1,0,Eurostar service to Amsterdam.,night train service
+без инструментов,gpt-4o-mini,fresh-71,False,False,True,1.935e-05,1,0,NOT_FOUND,Nikita Solovyov
+без инструментов,gpt-4o-mini,fresh-72,False,False,True,1.89e-05,1,0,NOT_FOUND,Dharmendra Pradhan
+без инструментов,gpt-4o-mini,fresh-73,False,False,True,1.95e-05,1,0,NOT_FOUND,Han Hak-ja
+без инструментов,gpt-4o-mini,fresh-74,False,False,True,1.77e-05,1,0,NOT_FOUND,Daniel Ortega
+без инструментов,gpt-4o-mini,fresh-75,False,False,True,1.86e-05,1,0,NOT_FOUND,Novokuznetsk
+без инструментов,gpt-4o-mini,fresh-76,False,False,True,1.935e-05,1,0,NOT_FOUND,life imprisonment
+без инструментов,gpt-4o-mini,fresh-77,False,False,True,1.8e-05,1,0,NOT_FOUND,Carlos Vila Nova
+без инструментов,gpt-4o-mini,fresh-78,False,False,True,1.845e-05,1,0,NOT_FOUND,13.2 months
+без инструментов,gpt-4o-mini,fresh-79,False,False,True,1.905e-05,1,0,NOT_FOUND,three
+без инструментов,gpt-4o-mini,fresh-80,False,False,True,1.815e-05,1,0,NOT_FOUND,"UGC Equity Regulations, 2026"
+без инструментов,gpt-4o-mini,fresh-81,False,False,True,1.77e-05,1,0,NOT_FOUND,8.15m
+без инструментов,gpt-4o-mini,fresh-82,False,False,True,1.845e-05,1,0,NOT_FOUND,28 people
+без инструментов,gpt-4o-mini,fresh-83,False,False,True,1.905e-05,1,0,NOT_FOUND,improvised explosive device
+без инструментов,gpt-4o-mini,fresh-84,False,False,False,1.83e-05,1,0,0,eight games
+без инструментов,gpt-4o-mini,fresh-85,False,False,False,2.31e-05,1,0,40.3: a number in digits,38 °C
+без инструментов,gpt-4o-mini,fresh-86,False,False,True,1.77e-05,1,0,NOT_FOUND,£30.4bn
+без инструментов,gpt-4o-mini,fresh-87,False,False,True,1.89e-05,1,0,NOT_FOUND,José Jerí
+без инструментов,gpt-4o-mini,fresh-88,False,False,True,1.8e-05,1,0,NOT_FOUND,"Henoko, Okinawa Prefecture"
+без инструментов,gpt-4o-mini,fresh-89,False,False,True,1.86e-05,1,0,NOT_FOUND,Doug Armstrong
+без инструментов,gpt-4o-mini,fresh-90,False,False,False,2.085e-05,1,0,2700: number,Imperial College London
+без инструментов,gpt-4o-mini,fresh-91,False,False,False,3.06e-05,1,0,"0: July 2026, Shivraj Singh Chouhan, VB-G RAM-G scheme.","₹25,863 crore"
+без инструментов,gpt-4o-mini,fresh-92,False,False,True,1.845e-05,1,0,NOT_FOUND,Rubén Rocha Moya
+без инструментов,gpt-4o-mini,fresh-93,False,False,True,1.83e-05,1,0,NOT_FOUND,Spain
+без инструментов,gpt-4o-mini,fresh-94,False,False,True,1.77e-05,1,0,NOT_FOUND,11th
+без инструментов,gpt-4o-mini,fresh-95,False,False,True,1.77e-05,1,0,NOT_FOUND,India
+без инструментов,gpt-4o-mini,fresh-96,False,False,True,1.815e-05,1,0,NOT_FOUND,Istanbul
+без инструментов,gpt-4o-mini,fresh-97,False,False,True,1.755e-05,1,0,NOT_FOUND,Citizens Bank Park
+без инструментов,gpt-4o-mini,fresh-98,False,False,True,1.92e-05,1,0,NOT_FOUND,Islamabad Memorandum
+без инструментов,gpt-4o-mini,fresh-99,False,False,True,1.755e-05,1,0,NOT_FOUND,Elon Musk
+без инструментов,gpt-4o-mini,fresh-100,False,False,False,2.1e-05,1,0,"6,400 km.","252,756 miles"
+без инструментов,gpt-4o-mini,fresh-101,False,False,True,1.785e-05,1,0,NOT_FOUND,10-day
+без инструментов,gpt-4o-mini,fresh-102,False,False,True,1.725e-05,1,0,NOT_FOUND,Oleksandr Dovhach
+без инструментов,gpt-4o-mini,fresh-103,False,False,True,1.77e-05,1,0,NOT_FOUND,José María Balcázar
+без инструментов,gpt-4o-mini,fresh-104,False,False,False,2.13e-05,1,0,14: a number in digits,21
+без инструментов,gpt-4o-mini,fresh-105,False,False,True,1.86e-05,1,0,NOT_FOUND,¥60–120
+без инструментов,gpt-4o-mini,fresh-106,False,False,False,2.7e-05,1,0,"2026: February, São Paulo/Guarulhos International Airport, opens.",GRU Airport People Mover
+без инструментов,gpt-4o-mini,fresh-107,False,False,False,2.13e-05,1,0,11 January: a number in digits,2026 Beninese parliamentary election
+без инструментов,gpt-4o-mini,fresh-108,False,False,True,1.785e-05,1,0,NOT_FOUND,Michaelmas Island
+без инструментов,gpt-4o-mini,fresh-109,False,False,True,1.815e-05,1,0,NOT_FOUND,conspiracy to commit arson
+без инструментов,gpt-4o-mini,fresh-110,False,False,True,1.725e-05,1,0,NOT_FOUND,Clay Fuller
+без инструментов,gpt-4o-mini,fresh-111,False,False,True,1.875e-05,1,0,NOT_FOUND,prime minister
+без инструментов,gpt-4o-mini,fresh-112,False,False,False,2.64e-05,1,0,"19 May: a number in digits, a date as day and month.",SMILE
+без инструментов,gpt-4o-mini,fresh-113,False,False,False,2.16e-05,1,0,"2,000: 13 January",850
+без инструментов,gpt-4o-mini,fresh-114,False,False,True,1.875e-05,1,0,NOT_FOUND,Urgent Care Centre
+без инструментов,gpt-4o-mini,fresh-115,False,False,False,2.805e-05,1,0,0: 6-7 March 2026: Kenya floods: fatalities unknown.,66
+без инструментов,gpt-4o-mini,fresh-116,False,False,True,1.8e-05,1,0,NOT_FOUND,Nelly Korda
+без инструментов,gpt-4o-mini,fresh-117,False,False,False,2.49e-05,1,0,"2026, April, Nanjing Metro Line 5.",Line S2
+без инструментов,gpt-4o-mini,fresh-118,False,False,True,1.755e-05,1,0,NOT_FOUND,Antonello da Messina
+без инструментов,gpt-4o-mini,fresh-119,False,False,True,1.725e-05,1,0,NOT_FOUND,Baku and Tbilisi
+без инструментов,gpt-4o-mini,fresh-120,False,False,True,1.815e-05,1,0,NOT_FOUND,Operation Southern Spear
+без инструментов,gpt-4o-mini,fresh-121,False,False,True,1.77e-05,1,0,NOT_FOUND,5.6
+без инструментов,gpt-4o-mini,fresh-122,False,False,True,1.785e-05,1,0,NOT_FOUND,Angus Taylor
+без инструментов,gpt-4o-mini,fresh-123,False,False,True,1.755e-05,1,0,NOT_FOUND,Burkina Faso
+без инструментов,gpt-4o-mini,fresh-124,False,False,True,1.755e-05,1,0,NOT_FOUND,Kehl
+без инструментов,gpt-4o-mini,fresh-125,False,False,True,1.98e-05,1,0,NOT_FOUND,Biała Podlaska
+без инструментов,gpt-4o-mini,fresh-126,False,False,True,1.905e-05,1,0,NOT_FOUND,Order of the White Eagle
+без инструментов,gpt-4o-mini,fresh-127,False,False,False,2.445e-05,1,0,11 July: 5.0 magnitud,4.9
+без инструментов,gpt-4o-mini,fresh-128,False,False,False,2.235e-05,1,0,0: June 2026,four years
+без инструментов,gpt-4o-mini,fresh-129,False,False,True,1.92e-05,1,0,NOT_FOUND,more than 100
+без инструментов,gpt-4o-mini,fresh-130,False,False,True,2.01e-05,1,0,NOT_FOUND,47 months
+без инструментов,gpt-4o-mini,fresh-131,False,False,True,1.86e-05,1,0,NOT_FOUND,Fagersta
+без инструментов,gpt-4o-mini,fresh-132,False,False,False,1.92e-05,1,0,0,30
+без инструментов,gpt-4o-mini,fresh-133,False,False,True,1.89e-05,1,0,NOT_FOUND,Dadan Hindayana
+без инструментов,gpt-4o-mini,fresh-134,False,False,False,2.19e-05,1,0,10: May 2026,75 years
+без инструментов,gpt-4o-mini,fresh-135,False,False,True,1.95e-05,1,0,NOT_FOUND,Thapelo Maseko
+без инструментов,gpt-4o-mini,fresh-136,False,False,False,2.205e-05,1,0,0: 12 July.,Forty-one
+без инструментов,gpt-4o-mini,fresh-137,False,False,False,3.24e-05,1,0,"0: 19 June, Abelardo de la Espriella, percentage of vote received in election.",49.66%
+без инструментов,gpt-4o-mini,fresh-138,False,False,True,1.815e-05,1,0,NOT_FOUND,€16.4 billion
+без инструментов,gpt-4o-mini,fresh-139,False,False,False,2.07e-05,1,0,Siwa Oasis,Dakhla Oasis
+без инструментов,gpt-4o-mini,fresh-140,False,False,False,2.01e-05,1,0,S4716,S301
+без инструментов,gpt-4o-mini,fresh-141,False,False,False,4.11e-05,1,0,"glycine: a number in digits, a date as day and month (for example 15 March), a n",erythrulose
+без инструментов,gpt-4o-mini,fresh-142,False,False,True,1.77e-05,1,0,NOT_FOUND,Vincent Keymer
+без инструментов,gpt-4o-mini,fresh-143,False,False,True,1.815e-05,1,0,NOT_FOUND,Hans Niemann
+без инструментов,gpt-4o-mini,fresh-144,False,False,False,2.34e-05,1,0,2 billion: 31 August 2026,€3 billion
+без инструментов,gpt-4o-mini,fresh-145,False,False,True,1.89e-05,1,0,NOT_FOUND,Ødum
+без инструментов,gpt-4o-mini,fresh-146,False,False,True,1.86e-05,1,0,NOT_FOUND,Aarau
+без инструментов,gpt-4o-mini,fresh-147,False,False,True,1.875e-05,1,0,NOT_FOUND,"2,295"
+без инструментов,gpt-4o-mini,fresh-148,False,False,False,2.265e-05,1,0,0: 7 June,50.135%
+без инструментов,gpt-4o-mini,fresh-149,False,False,True,2.01e-05,1,0,NOT_FOUND,Adrian Veștea

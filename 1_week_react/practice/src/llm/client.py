@@ -50,13 +50,21 @@ class LLMClient:
         self.ledger.add(tag, model, data.get("usage") or {}, time.perf_counter() - started, run_id)
         return data["choices"][0]["message"]
 
-    def _request(self, body: dict) -> requests.Response:
+    def embed(self, texts: list[str], model: str, dimensions: int | None = None, tag: str = "embed") -> list[list[float]]:
+        body = {"model": model, "input": texts}
+        if dimensions:
+            body["dimensions"] = dimensions
+        started = time.perf_counter()
+        data = self._post(body, self.settings.embed_url)
+        self.ledger.add(tag, model, data.get("usage") or {}, time.perf_counter() - started)
+        return [row["embedding"] for row in data["data"]]
+
+    def _request(self, body: dict, url: str) -> requests.Response:
         box: dict = {}
 
         def work():
             try:
-                box["response"] = requests.post(self.settings.chat_url, json=body, headers=self.settings.headers,
-                                                timeout=self.timeout)
+                box["response"] = requests.post(url, json=body, headers=self.settings.headers, timeout=self.timeout)
             except Exception as e:
                 box["error"] = e
 
@@ -69,12 +77,12 @@ class LLMClient:
             raise box["error"]
         return box["response"]
 
-    def _post(self, body: dict) -> dict:
+    def _post(self, body: dict, url: str | None = None) -> dict:
         problem = "нет ответа от OpenRouter"
         for attempt in range(self.attempts):
             response = None
             try:
-                response = self._request(body)
+                response = self._request(body, url or self.settings.chat_url)
             except (requests.RequestException, HungRequest) as e:
                 problem = type(e).__name__
             else:

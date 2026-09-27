@@ -1,0 +1,11 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+"RAG всегда, k=5",gpt-4o-mini,none-0,False,False,True,4.86e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-1,False,False,True,4.77e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-2,False,False,True,7.35e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-3,False,False,True,5.34e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-4,False,False,True,4.545e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-5,False,False,True,6.405e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-6,False,False,True,6.225e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-7,False,False,True,4.56e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-8,False,False,True,5.445e-05,1,1,NOT_FOUND,
+"RAG всегда, k=5",gpt-4o-mini,none-9,False,False,True,4.935e-05,1,1,NOT_FOUND,

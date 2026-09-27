@@ -1,0 +1,11 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+агент с knowledge_base,gpt-4o-mini,none-0,False,False,True,0.0009348,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-1,False,False,True,0.00087645,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-2,False,False,True,0.00088935,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-3,False,False,True,0.00091545,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-4,False,False,True,0.00097005,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-5,False,False,True,0.00101805,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-6,False,False,True,0.00088785,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-7,False,False,True,0.0008943,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-8,False,False,True,0.0007536,7,5,NOT_FOUND,
+агент с knowledge_base,gpt-4o-mini,none-9,False,False,True,0.0009473999999999999,7,5,NOT_FOUND,

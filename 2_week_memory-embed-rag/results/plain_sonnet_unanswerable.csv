@@ -1,0 +1,11 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+без инструментов,claude-sonnet-4.6,none-0,False,False,True,0.001023,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-1,False,False,True,0.000495,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-2,False,False,True,0.000975,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-3,False,False,True,0.000849,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-4,False,False,True,0.000912,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-5,False,False,True,0.001131,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-6,False,False,True,0.000843,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-7,False,False,True,0.000882,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-8,False,False,True,0.00093,1,0,NOT_FOUND,
+без инструментов,claude-sonnet-4.6,none-9,False,False,True,0.000789,1,0,NOT_FOUND,

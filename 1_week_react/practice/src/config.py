@@ -3,6 +3,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 CHAT_URL = "https://openrouter.ai/api/v1/chat/completions"
+EMBED_URL = "https://openrouter.ai/api/v1/embeddings"
 MODELS = {"cheap": "openai/gpt-4o-mini", "mid": "anthropic/claude-haiku-4.5", "strong": "anthropic/claude-sonnet-4.6"}
 COLORS = {"violet": "#5436A3", "amber": "#F09000", "teal": "#00838F", "red": "#C43C3C", "grey": "#787882"}
 DATA_CANDIDATES = [Path("data"), Path("qa_data"), Path("qa-data"),
@@ -35,6 +36,7 @@ def find_data_dir(marker: str = "compare_10.jsonl") -> Path:
 class Settings:
     api_key: str
     chat_url: str = CHAT_URL
+    embed_url: str = EMBED_URL
     referer: str = "https://postypashki.ru"
     app_title: str = "agents-course-seminar01"
     data_dir: Path = Path("data")

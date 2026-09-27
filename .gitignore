@@ -4,3 +4,9 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 *.log
+milvus_data/
+*.db
+episodes.jsonl
+facts.json
+milvus_up.log
+2_week_memory-embed-rag/data.zip

@@ -1,0 +1,14 @@
+requests
+pydantic
+python-dotenv
+pandas
+matplotlib
+numpy
+pymilvus[milvus_lite]>=2.6,<2.7
+pypdf
+tqdm
+tabulate
+pytest
+nbformat
+nbclient
+ipykernel

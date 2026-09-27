@@ -26,3 +26,8 @@ python make_report.py results/results_raw.csv
 ```
 
 Для пробного прогона `python run_homework.py --limit 10`.
+
+
+
+## Вторая домашка
+

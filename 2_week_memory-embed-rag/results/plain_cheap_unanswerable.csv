@@ -1,0 +1,11 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+без инструментов,gpt-4o-mini,none-0,False,False,True,1.755e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-1,False,False,True,1.74e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-2,False,False,True,1.965e-05,1,0,2026: NOT_FOUND,
+без инструментов,gpt-4o-mini,none-3,False,False,True,1.71e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-4,False,False,True,1.725e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-5,False,False,True,1.86e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-6,False,False,True,1.74e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-7,False,False,True,1.725e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-8,False,False,True,1.77e-05,1,0,NOT_FOUND,
+без инструментов,gpt-4o-mini,none-9,False,False,True,1.845e-05,1,0,NOT_FOUND,

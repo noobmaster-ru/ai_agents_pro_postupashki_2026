@@ -38,7 +38,7 @@ class Run:
 
 class Agent:
     def __init__(self, client: LLMClient, registry: ToolRegistry, model: str, tool_names: list[str] = (),
-                 max_steps: int = 8, system: str = SYSTEM, tag: str = "agent"):
+                 max_steps: int = 8, system: str = SYSTEM, tag: str = "agent", finish_prompt: str = FINISH_PROMPT):
         self.client = client
         self.registry = registry
         self.model = model
@@ -46,6 +46,7 @@ class Agent:
         self.max_steps = max_steps
         self.system = system
         self.tag = tag
+        self.finish_prompt = finish_prompt
 
     def run(self, question: str) -> Run:
         run_id = uuid.uuid4().hex
@@ -71,7 +72,7 @@ class Agent:
 
     def _finish(self, messages: list, step: int, run_id: str) -> tuple[str, int]:
         del messages[-1]
-        messages.append({"role": "user", "content": FINISH_PROMPT})
+        messages.append({"role": "user", "content": self.finish_prompt})
         msg = self.client.chat(messages, self.model, tag=self.tag, run_id=run_id)
         messages.append(msg)
         return msg.get("content") or "", step + 1

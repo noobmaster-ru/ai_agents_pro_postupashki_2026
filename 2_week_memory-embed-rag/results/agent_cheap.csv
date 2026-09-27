@@ -1,0 +1,149 @@
+config,model,id,correct,found,refused,cost,steps,searches,answer,gold
+агент с knowledge_base,gpt-4o-mini,fresh-0,True,True,False,0.00016334999999999999,2,1,"15  March, Ukraine boycotts the closing ceremony of the 2026 Winter Paralympics.",15 March
+агент с knowledge_base,gpt-4o-mini,fresh-1,False,True,False,0.0004986,4,3,22 03,22 March
+агент с knowledge_base,gpt-4o-mini,fresh-2,False,False,False,0.00109695,7,5,"13 March 2026, US-Iran negotiations",Miguel Díaz-Canel
+агент с knowledge_base,gpt-4o-mini,fresh-3,True,True,False,0.00016035,2,1,"12  March, strategic partnership agreement in defense and energy sectors",a strategic partnership agreement
+агент с knowledge_base,gpt-4o-mini,fresh-4,True,True,False,0.00014565,2,1,"1, 09 January, Total fire ban comes into force in Victoria.",A total fire ban
+агент с knowledge_base,gpt-4o-mini,fresh-5,True,True,False,0.0001434,2,1,"2, 04 May, two people killed in Leipzig.",two people
+агент с knowledge_base,gpt-4o-mini,fresh-7,True,True,False,0.0001581,2,1,"1, 03 July, Deniz Göktaş",Deniz Göktaş
+агент с knowledge_base,gpt-4o-mini,fresh-8,True,True,False,0.0006357,5,4,"Pavel Durov, 29 July, charged by the FSB of assisting Ukraine's ""terrorism"".",Pavel Durov
+агент с knowledge_base,gpt-4o-mini,fresh-9,True,True,False,0.00014355,2,1,"1, 17 August, New Delhi, India",New Delhi
+агент с knowledge_base,gpt-4o-mini,fresh-10,True,True,False,0.00015015,2,1,"12, 18 February, explosion at a fireworks store in Xiangyang, Hubei.",Twelve
+агент с knowledge_base,gpt-4o-mini,fresh-11,True,True,False,0.00016409999999999998,2,1,"1, 09 May, Helter Skelter: Arthur Jafa and Richard Prince at Fondazione Prada in",Helter Skelter
+агент с knowledge_base,gpt-4o-mini,fresh-12,True,True,False,0.00017205,2,1,"700000, 01 January, number of children receiving support for special educational","700,000"
+агент с knowledge_base,gpt-4o-mini,fresh-13,False,True,False,0.00015285,2,1,"41.5, 27 June, Möckern-Drewitz",41.5 °C
+агент с knowledge_base,gpt-4o-mini,fresh-14,True,True,False,0.00016455,2,1,"1, 20 July, Ciudad Rodrigo",Ciudad Rodrigo
+агент с knowledge_base,gpt-4o-mini,fresh-15,True,True,False,0.0001602,2,1,"Oleksandr Syrskyi, 21 July, dismissed as Commander-in-Chief of the Armed Forces ",Oleksandr Syrskyi
+агент с knowledge_base,gpt-4o-mini,fresh-16,True,True,False,0.0001482,2,1,"1, 20 May, Montreal Victoire",Montreal Victoire
+агент с knowledge_base,gpt-4o-mini,fresh-17,True,True,False,0.0001746,2,1,"1, 03 September, EOS-05 launched.",EOS-05
+агент с knowledge_base,gpt-4o-mini,fresh-18,True,True,False,0.00017325,2,1,"13, July, A Munich court imprisons an Iraqi couple for enslaving and raping Yazi",13 July
+агент с knowledge_base,gpt-4o-mini,fresh-19,True,True,False,0.0001506,2,1,"1, 15 June, Disney Kids & Family",Disney Kids & Family
+агент с knowledge_base,gpt-4o-mini,fresh-20,False,False,True,0.0009387,7,5,NOT_FOUND,single-elimination
+агент с knowledge_base,gpt-4o-mini,fresh-21,True,True,False,0.00016334999999999999,2,1,"Gavin Snider, 15 June, accused Devon Rodriguez.",Gavin Snider
+агент с knowledge_base,gpt-4o-mini,fresh-22,True,True,False,0.00015989999999999998,2,1,"Clara and the Below, 17 March, indie animated series created by Matt Braly.",Clara and the Below
+агент с knowledge_base,gpt-4o-mini,fresh-23,True,True,False,0.00015765,2,1,"German Galushchenko, 15 February, arrested for attempting to flee Ukraine amid c",German Galushchenko
+агент с knowledge_base,gpt-4o-mini,fresh-24,True,True,False,0.00017295,2,1,"1, 01 July, drought declared across Wales.",a drought
+агент с knowledge_base,gpt-4o-mini,fresh-25,True,True,False,0.0001716,2,1,"1, 26 February, open war declaration against the Taliban.","""open war"""
+агент с knowledge_base,gpt-4o-mini,fresh-26,True,True,False,0.00016140000000000002,2,1,"9, 24 August, leisure boat collision near Haneda Airport.",nine
+агент с knowledge_base,gpt-4o-mini,fresh-27,True,True,False,0.00015405,2,1,"1, 26 March, Markus Hinterhäuser",Markus Hinterhäuser
+агент с knowledge_base,gpt-4o-mini,fresh-28,True,True,False,0.0001566,2,1,"9, 10 February, Tumbler Ridge Secondary School shooting.",nine
+агент с knowledge_base,gpt-4o-mini,fresh-29,False,True,False,0.00015165,2,1,"46, 18 January, train derailment near Adamuz, Spain.",43
+агент с knowledge_base,gpt-4o-mini,fresh-30,True,True,False,0.00016350000000000002,2,1,"1, 19 February, Alican Uludag arrested in Ankara.",Ankara
+агент с knowledge_base,gpt-4o-mini,fresh-31,True,True,False,0.00015375,2,1,"Aibek Dädebai, 23 August, new government of Kazakhstan formed by Ädilet.",Aibek Dädebai
+агент с knowledge_base,gpt-4o-mini,fresh-32,True,True,False,0.0001521,2,1,"1, 08 May, Richard Lewer wins the Archibald Prize for his portrait of Iluwanti K",Richard Lewer
+агент с knowledge_base,gpt-4o-mini,fresh-33,True,True,False,0.00014895000000000002,2,1,1 08 April Marilyn Gladu defects from the Conservative Party to the Liberal Part,Marilyn Gladu
+агент с knowledge_base,gpt-4o-mini,fresh-34,True,True,False,0.0001566,2,1,"6.3, 16 June, magnitude 6.3 earthquake hits Haixi prefecture of Qinghai.",6.3
+агент с knowledge_base,gpt-4o-mini,fresh-35,True,True,False,0.0001623,2,1,"1, 15 February, Dina Levačić.",Dina Levačić
+агент с knowledge_base,gpt-4o-mini,fresh-37,False,True,False,0.0001617,2,1,"15 06, four-day strike announcement",15 June
+агент с knowledge_base,gpt-4o-mini,fresh-38,True,True,False,0.00014565,2,1,"1, 14 May, Chief Minister of Kerala.",Chief Minister
+агент с knowledge_base,gpt-4o-mini,fresh-39,True,True,False,0.00016965,2,1,"1, 20 January, Gelida train collision.",Gelida
+агент с knowledge_base,gpt-4o-mini,fresh-40,True,True,False,0.00014580000000000002,2,1,1 6 February Lieutenant General Vladimir Alekseyev,Vladimir Alekseyev
+агент с knowledge_base,gpt-4o-mini,fresh-41,False,True,False,0.0001617,2,1,"30000, 08 April, anti-war and anti-constitutional amendment protest in front of ",Thirty thousand people
+агент с knowledge_base,gpt-4o-mini,fresh-42,False,True,False,0.00013965,2,1,"1, 28 March, Narendra Modi",Prime Minister Narendra Modi
+агент с knowledge_base,gpt-4o-mini,fresh-43,True,True,False,0.00015000000000000001,2,1,"1, 01 January, Zohran Mamdani",Zohran Mamdani
+агент с knowledge_base,gpt-4o-mini,fresh-44,True,True,False,0.0001857,2,1,"1, 16 July, LHS 1140 b",LHS 1140 b
+агент с knowledge_base,gpt-4o-mini,fresh-45,True,True,False,0.0001776,2,1,"1, 13 August, F-16 Fighting Falcon crashes in Yalova Province.",F-16 Fighting Falcon
+агент с knowledge_base,gpt-4o-mini,fresh-46,True,True,False,0.000147,2,1,"5, 1 August, Moscow bombing at an Italian restaurant-café.",five
+агент с knowledge_base,gpt-4o-mini,fresh-47,True,True,False,0.00015045,2,1,"1, 25 July, Resignation as Education Minister.",Education Minister
+агент с knowledge_base,gpt-4o-mini,fresh-48,True,True,False,0.00016439999999999998,2,1,"Mykhailo Fedorov, 15 July, Dismissal of Mykhailo Fedorov as defence minister by ",Mykhailo Fedorov
+агент с knowledge_base,gpt-4o-mini,fresh-49,True,True,False,0.00017894999999999999,2,1,1 24 March Asiya Andrabi life imprisonment,life imprisonment
+агент с knowledge_base,gpt-4o-mini,fresh-50,False,True,False,0.0001614,2,1,"802500, 29 January, fine issued to Amed S.F.K.","802,500 lira"
+агент с knowledge_base,gpt-4o-mini,fresh-51,True,True,False,0.00015465,2,1,"Bruno Foucher, 13 August",Bruno Foucher
+агент с knowledge_base,gpt-4o-mini,fresh-52,True,True,False,0.0001629,2,1,"5.2, 18 May, earthquake in Guangxi.",5.2
+агент с knowledge_base,gpt-4o-mini,fresh-53,True,True,False,0.0001638,2,1,"Tonya McBride Robles, 17 August, president and chief executive officer of the Ro",Tonya McBride Robles
+агент с knowledge_base,gpt-4o-mini,fresh-54,True,True,False,0.00014625,2,1,"80, 17 January, fire at a shopping mall in Karachi.",80
+агент с knowledge_base,gpt-4o-mini,fresh-55,True,True,False,0.00014805,2,1,"2, 02 January, A magnitude 6.5 earthquake hits Guerrero, killing two people.",two
+агент с knowledge_base,gpt-4o-mini,fresh-56,False,False,True,0.0009198,7,5,NOT_FOUND,3%
+агент с knowledge_base,gpt-4o-mini,fresh-57,True,True,False,0.00016125,2,1,"7, 07 July, Yoon Suk Yeol",Yoon Suk Yeol
+агент с knowledge_base,gpt-4o-mini,fresh-58,True,True,False,0.00016695,2,1,"1, 02 January, BYD Auto",BYD Auto
+агент с knowledge_base,gpt-4o-mini,fresh-59,True,True,False,0.00022244999999999999,2,1,"3 03 March 2026, Carson Ting, Minerva GM, Hank Willis Thomas",Carson Ting
+агент с knowledge_base,gpt-4o-mini,fresh-60,True,True,False,0.0001458,2,1,"209, 23 June, arrests in raids in Ankara before NATO summit.",209
+агент с knowledge_base,gpt-4o-mini,fresh-61,True,True,False,0.0001473,2,1,"14, 20 March, fire at a car parts factory in Daejeon.",Fourteen
+агент с knowledge_base,gpt-4o-mini,fresh-62,False,True,False,0.00050745,4,3,"13 05 March 2026, Berlin court sentence",13 years
+агент с knowledge_base,gpt-4o-mini,fresh-63,True,True,False,0.00015105,2,1,"2, 21 March, Two people are killed in an avalanche at the Hohe Ferse near Ratsch",Two
+агент с knowledge_base,gpt-4o-mini,fresh-64,True,True,False,0.0001497,2,1,"25, March Ihor Polishchuk resigns as mayor of Lutsk",mayor of Lutsk
+агент с knowledge_base,gpt-4o-mini,fresh-65,True,True,False,0.00016514999999999998,2,1,"16, 3 February, bus veers off a road and overturns in São José da Tapera, Alagoa",16
+агент с knowledge_base,gpt-4o-mini,fresh-66,True,True,False,0.00015135000000000002,2,1,"6, 4 April, at least six others are reportedly trapped after a hotel collapses.",at least six
+агент с knowledge_base,gpt-4o-mini,fresh-67,True,True,False,0.00014715,2,1,"1 14 January, Liam Nassereddine",Liam Nassereddine
+агент с knowledge_base,gpt-4o-mini,fresh-68,False,False,False,0.00108705,7,5,"1, 15 March, Justin Trudeau",Mark Carney
+агент с knowledge_base,gpt-4o-mini,fresh-69,True,True,False,0.00013125000000000002,2,1,"Leipzig, 27 May",Leipzig
+агент с knowledge_base,gpt-4o-mini,fresh-70,True,True,False,0.00022935,3,2,"1, 26 March, European Sleeper begins a night train service between Paris, Brusse",night train service
+агент с knowledge_base,gpt-4o-mini,fresh-71,True,True,False,0.0001671,2,1,"Nikita Solovyov, 12 January",Nikita Solovyov
+агент с knowledge_base,gpt-4o-mini,fresh-72,True,True,False,0.0001617,2,1,"1, 16 July, Dharmendra Pradhan",Dharmendra Pradhan
+агент с knowledge_base,gpt-4o-mini,fresh-73,True,True,False,0.00016485000000000002,2,1,"2, 31 August, Han Hak-ja sentenced to two years' imprisonment for bribery.",Han Hak-ja
+агент с knowledge_base,gpt-4o-mini,fresh-74,True,True,False,0.0001497,2,1,"1, 20 July, Daniel Ortega ceases Nicaragua's electoral system.",Daniel Ortega
+агент с knowledge_base,gpt-4o-mini,fresh-75,True,True,False,0.00017460000000000002,2,1,"2, 14 January, Novokuznetsk, Russia",Novokuznetsk
+агент с knowledge_base,gpt-4o-mini,fresh-76,True,True,False,0.00017549999999999998,2,1,"1, 19 February, life imprisonment for insurrection relating to the 2024 South Ko",life imprisonment
+агент с knowledge_base,gpt-4o-mini,fresh-77,True,True,False,0.0002286,3,2,"2, 19 July, Carlos Vila Nova re-elected for a second term.",Carlos Vila Nova
+агент с knowledge_base,gpt-4o-mini,fresh-78,False,True,False,0.00016905000000000002,2,1,"13.2, 31 May, nearly doubles median overall survival in patients with previously",13.2 months
+агент с knowledge_base,gpt-4o-mini,fresh-79,True,True,False,0.00028695,3,2,"3, 9 May, The Evansville Thunderbolts defeat the Peoria Rivermen three games to ",three
+агент с knowledge_base,gpt-4o-mini,fresh-80,False,True,False,0.00017654999999999998,2,1,"1, 29 January, UGC Equity Regulations.","UGC Equity Regulations, 2026"
+агент с knowledge_base,gpt-4o-mini,fresh-81,False,True,False,0.00014475,2,1,"8150000, 01 July, passenger traffic at Istanbul Airport.",8.15m
+агент с knowledge_base,gpt-4o-mini,fresh-82,True,True,False,0.00015255,2,1,"28, 09 July, A fire at a shoe factory in Jinjiang, Quanzhou kills 28 people.",28 people
+агент с knowledge_base,gpt-4o-mini,fresh-83,True,True,False,0.00015525,2,1,"1, 28 March, improvised explosive device",improvised explosive device
+агент с knowledge_base,gpt-4o-mini,fresh-84,True,True,False,0.00014879999999999998,2,1,"8, 1 August, suspension for eight games.",eight games
+агент с knowledge_base,gpt-4o-mini,fresh-85,False,True,False,0.00016695000000000002,2,1,"38, 26 June, Lingwood, Norfolk",38 °C
+агент с knowledge_base,gpt-4o-mini,fresh-86,True,True,False,0.0001641,2,1,"30.4, 1 January, £30.4bn in surplus",£30.4bn
+агент с knowledge_base,gpt-4o-mini,fresh-87,True,True,False,0.0006678,5,4,"1, 9 January, José Jerí",José Jerí
+агент с knowledge_base,gpt-4o-mini,fresh-88,True,True,False,0.00014790000000000002,2,1,"2, 16 March, Henoko, Okinawa Prefecture","Henoko, Okinawa Prefecture"
+агент с knowledge_base,gpt-4o-mini,fresh-89,True,True,False,0.0001539,2,1,"Doug Armstrong, 17 March, announced stepping down as general manager of the Cana",Doug Armstrong
+агент с knowledge_base,gpt-4o-mini,fresh-90,True,True,False,0.00016485,2,1,"2700, June, Imperial College London, Met Office, London School of Hygiene and Tr",Imperial College London
+агент с knowledge_base,gpt-4o-mini,fresh-91,True,True,False,0.00015749999999999998,2,1,"25863, 05 July, ₹25,863 crore for VB-G RAM-G scheme.","₹25,863 crore"
+агент с knowledge_base,gpt-4o-mini,fresh-92,True,True,False,0.0001695,2,1,"21, 08 August, Rubén Rocha Moya returns to office.",Rubén Rocha Moya
+агент с knowledge_base,gpt-4o-mini,fresh-93,False,False,True,0.00073845,5,3,NOT_FOUND,Spain
+агент с knowledge_base,gpt-4o-mini,fresh-94,True,True,False,0.00022425,3,2,"11, 16 May, Monroe finishes 11th with ""Regarde!""",11th
+агент с knowledge_base,gpt-4o-mini,fresh-95,True,True,False,0.0006173999999999999,5,4,1 08 March India,India
+агент с knowledge_base,gpt-4o-mini,fresh-96,True,True,False,0.00021375,2,2,"1, 11 February, Istanbul, Turkey",Istanbul
+агент с knowledge_base,gpt-4o-mini,fresh-97,True,True,False,0.00014565,2,1,"1, 14 July, Citizens Bank Park, Philadelphia, Pennsylvania",Citizens Bank Park
+агент с knowledge_base,gpt-4o-mini,fresh-98,True,True,False,0.00019155000000000002,2,1,"1, 17 June, Islamabad Memorandum",Islamabad Memorandum
+агент с knowledge_base,gpt-4o-mini,fresh-99,True,True,False,0.00015345000000000002,2,1,"1, 12 June, Elon Musk becomes the first US dollar trillionaire.",Elon Musk
+агент с knowledge_base,gpt-4o-mini,fresh-100,False,True,False,0.0001968,2,1,"252757, 06 April, Artemis II maximum distance from Earth.","252,756 miles"
+агент с knowledge_base,gpt-4o-mini,fresh-101,True,True,False,0.0001554,2,1,"10 April, 10-day ceasefire between Israel and Lebanon",10-day
+агент с knowledge_base,gpt-4o-mini,fresh-102,True,True,False,0.00018525,2,1,"2, 09 March, Oleksandr Dovhach, military pilot, Hero of Ukraine (2025)",Oleksandr Dovhach
+агент с knowledge_base,gpt-4o-mini,fresh-103,True,False,False,0.0001698,2,1,"1, 18 February, José María Balcázar",José María Balcázar
+агент с knowledge_base,gpt-4o-mini,fresh-104,True,True,False,0.00015795,2,1,"21, 20 April, bus accident in Udhampur, Jammu and Kashmir.",21
+агент с knowledge_base,gpt-4o-mini,fresh-105,True,True,False,0.0002637,2,2,"60-120, 02 April, Air China and China Southern Airlines surcharge increase",¥60–120
+агент с knowledge_base,gpt-4o-mini,fresh-106,True,True,False,0.00014955,2,1,"21  February, GRU Airport People Mover opens in São Paulo/Guarulhos Internationa",GRU Airport People Mover
+агент с knowledge_base,gpt-4o-mini,fresh-107,True,True,False,0.0001461,2,1,"2026, 11 January, The 2026 Beninese parliamentary election is held.",2026 Beninese parliamentary election
+агент с knowledge_base,gpt-4o-mini,fresh-108,True,True,False,0.00014415,2,1,"1, 06 June, Michaelmas Island, Western Australia",Michaelmas Island
+агент с knowledge_base,gpt-4o-mini,fresh-109,True,True,False,0.00018795000000000001,2,1,"10  May, conspiracy to commit arson",conspiracy to commit arson
+агент с knowledge_base,gpt-4o-mini,fresh-110,True,True,False,0.0002772,3,2,"1, 30 April, Clay Fuller wins special election in Georgia",Clay Fuller
+агент с knowledge_base,gpt-4o-mini,fresh-111,True,False,False,0.0001743,2,1,"1, 22 June, resignation as prime minister and Labour Party leader.",prime minister
+агент с knowledge_base,gpt-4o-mini,fresh-112,True,True,False,0.00020475000000000002,2,1,"1, 19 May, SMILE mission launch.",SMILE
+агент с knowledge_base,gpt-4o-mini,fresh-113,True,True,False,0.00014685000000000002,2,1,"850, 13 January, Statistics Canada announces job cuts.",850
+агент с knowledge_base,gpt-4o-mini,fresh-114,True,True,False,0.0001461,2,1,"1, 12 January, Urgent Care Centre",Urgent Care Centre
+агент с knowledge_base,gpt-4o-mini,fresh-115,True,True,False,0.00023700000000000001,3,2,"66, 6 March, Kenya floods deaths.",66
+агент с knowledge_base,gpt-4o-mini,fresh-116,True,True,False,0.0001782,2,1,"1, 04 June, Nelly Korda",Nelly Korda
+агент с knowledge_base,gpt-4o-mini,fresh-117,True,True,False,0.00015525,2,1,"22  April, Line S2 of the Nanjing Metro opens between Xishanqiao station and Tai",Line S2
+агент с knowledge_base,gpt-4o-mini,fresh-118,True,True,False,0.00018705,2,1,"4, 15 August, Antonello da Messina",Antonello da Messina
+агент с knowledge_base,gpt-4o-mini,fresh-119,True,True,False,0.000279,3,2,"2, 26 May, Baku and Tbilisi; London and Stirling.",Baku and Tbilisi
+агент с knowledge_base,gpt-4o-mini,fresh-120,True,True,False,0.000192,2,1,"2, 07 January, Operation Southern Spear",Operation Southern Spear
+агент с knowledge_base,gpt-4o-mini,fresh-121,True,True,False,0.0001605,2,1,"5.6, 27 June, A magnitude 5.6 earthquake strikes Yamanashi Prefecture, injuring ",5.6
+агент с knowledge_base,gpt-4o-mini,fresh-122,True,False,False,0.00017625,2,1,"1, 13 February, Angus Taylor wins the election against Sussan Ley.",Angus Taylor
+агент с knowledge_base,gpt-4o-mini,fresh-123,True,True,False,0.0001467,2,1,"1, 26 June, Burkina Faso breaks off diplomatic relations with France.",Burkina Faso
+агент с knowledge_base,gpt-4o-mini,fresh-124,True,True,False,0.00015495,2,1,"750, 29 March, Kehl, Baden-Württemberg nightclub fire.",Kehl
+агент с knowledge_base,gpt-4o-mini,fresh-125,True,True,False,0.0001653,2,1,"Biała Podlaska, 15 June, Semyon Skrepetsky shot dead.",Biała Podlaska
+агент с knowledge_base,gpt-4o-mini,fresh-126,True,True,False,0.00023295,2,1,"1, 19 June, Order of the White Eagle stripped from Zelenskyy.",Order of the White Eagle
+агент с knowledge_base,gpt-4o-mini,fresh-127,True,True,False,0.0001674,2,1,"4.9, 11 July, magnitude 4.9 earthquake hits the Lower Silesian Voivodeship.",4.9
+агент с knowledge_base,gpt-4o-mini,fresh-128,True,True,False,0.00016515,2,1,"4, 15 June, Marius Borg Høiby sentenced to four years' imprisonment.",four years
+агент с knowledge_base,gpt-4o-mini,fresh-129,True,True,False,0.00014745,2,1,"100, 17 July, more than 100 homes.",more than 100
+агент с knowledge_base,gpt-4o-mini,fresh-130,False,True,False,0.0001971,2,1,"47, 05 June, theft of Helmet of Coțofenești.",47 months
+агент с knowledge_base,gpt-4o-mini,fresh-131,True,True,False,0.00015000000000000001,2,1,"Fagersta, 21 August, sword attack at high school.",Fagersta
+агент с knowledge_base,gpt-4o-mini,fresh-132,True,True,False,0.0001731,2,1,"30, 24 May, suicide bombing in Quetta.",30
+агент с knowledge_base,gpt-4o-mini,fresh-133,True,True,False,0.0001833,2,1,"Dadan Hindayana, 02 June, dismissed as head of the National Nutrition Agency.",Dadan Hindayana
+агент с knowledge_base,gpt-4o-mini,fresh-134,True,True,False,0.0001671,2,1,"75, 12 May, Saleh Mamman sentenced to 75 years' imprisonment.",75 years
+агент с knowledge_base,gpt-4o-mini,fresh-135,False,False,True,0.0009715500000000001,7,5,NOT_FOUND,Thapelo Maseko
+агент с knowledge_base,gpt-4o-mini,fresh-136,False,True,False,0.00030254999999999995,3,2,"34, 12 July, fire at Rong Beer Na Lat Phrao venue.",Forty-one
+агент с knowledge_base,gpt-4o-mini,fresh-137,True,True,False,0.0001668,2,1,"49.66, 21 June, Abelardo de la Espriella wins the election.",49.66%
+агент с knowledge_base,gpt-4o-mini,fresh-138,True,True,False,0.00015375,2,1,"16400000000, 29 May, €16.4 billion of EU funds are unfrozen for Hungary.",€16.4 billion
+агент с knowledge_base,gpt-4o-mini,fresh-139,True,True,False,0.000186,2,1,1 04 July Dakhla Oasis,Dakhla Oasis
+агент с knowledge_base,gpt-4o-mini,fresh-140,True,True,False,0.00019515,2,1,"S301, 19 August, closest and fastest star orbiting Sagittarius A*.",S301
+агент с knowledge_base,gpt-4o-mini,fresh-141,True,True,False,0.00019424999999999998,2,1,"1, 13 July, erythrulose",erythrulose
+агент с knowledge_base,gpt-4o-mini,fresh-142,False,False,True,0.0006964499999999999,6,5,NOT_FOUND,Vincent Keymer
+агент с knowledge_base,gpt-4o-mini,fresh-143,True,True,False,0.00077505,6,5,"1, 09 May, Hans Niemann won the GCT Super Rapid and Blitz Poland.",Hans Niemann
+агент с knowledge_base,gpt-4o-mini,fresh-144,True,True,False,0.0001551,2,1,"3000000000, 31 August, €3 billion weapons agreement.",€3 billion
+агент с knowledge_base,gpt-4o-mini,fresh-145,True,True,False,0.00015509999999999998,2,1,"37, 27 June, Ødum",Ødum
+агент с knowledge_base,gpt-4o-mini,fresh-146,True,True,False,0.00017099999999999998,2,1,"1, 30 August, Aarau shooting.",Aarau
+агент с knowledge_base,gpt-4o-mini,fresh-147,False,True,False,0.0002949,3,2,"6300, 24 June, doublet earthquake near Morón.","2,295"
+агент с knowledge_base,gpt-4o-mini,fresh-148,True,True,False,0.00017654999999999998,2,1,"50.135%, 7 June, Keiko Fujimori is elected president.",50.135%
+агент с knowledge_base,gpt-4o-mini,fresh-149,True,True,False,0.00014805,2,1,"1, 14 June, Adrian Veștea",Adrian Veștea
